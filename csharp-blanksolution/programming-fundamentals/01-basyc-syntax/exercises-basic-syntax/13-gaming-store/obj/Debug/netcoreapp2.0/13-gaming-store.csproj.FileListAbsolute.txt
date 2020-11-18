@@ -1,0 +1,10 @@
+D:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\13-gaming-store\bin\Debug\netcoreapp2.0\13-gaming-store.deps.json
+D:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\13-gaming-store\bin\Debug\netcoreapp2.0\13-gaming-store.runtimeconfig.json
+D:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\13-gaming-store\bin\Debug\netcoreapp2.0\13-gaming-store.runtimeconfig.dev.json
+D:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\13-gaming-store\bin\Debug\netcoreapp2.0\13-gaming-store.dll
+D:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\13-gaming-store\bin\Debug\netcoreapp2.0\13-gaming-store.pdb
+D:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\13-gaming-store\obj\Debug\netcoreapp2.0\13-gaming-store.csproj.CoreCompileInputs.cache
+D:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\13-gaming-store\obj\Debug\netcoreapp2.0\13-gaming-store.AssemblyInfoInputs.cache
+D:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\13-gaming-store\obj\Debug\netcoreapp2.0\13-gaming-store.AssemblyInfo.cs
+D:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\13-gaming-store\obj\Debug\netcoreapp2.0\13-gaming-store.dll
+D:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\13-gaming-store\obj\Debug\netcoreapp2.0\13-gaming-store.pdb

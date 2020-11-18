@@ -1,0 +1,11 @@
+D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\01-convert-meters-to-kilometers\bin\Debug\netcoreapp2.0\01-convert-meters-to-kilometers.deps.json
+D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\01-convert-meters-to-kilometers\bin\Debug\netcoreapp2.0\01-convert-meters-to-kilometers.runtimeconfig.json
+D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\01-convert-meters-to-kilometers\bin\Debug\netcoreapp2.0\01-convert-meters-to-kilometers.runtimeconfig.dev.json
+D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\01-convert-meters-to-kilometers\bin\Debug\netcoreapp2.0\01-convert-meters-to-kilometers.dll
+D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\01-convert-meters-to-kilometers\bin\Debug\netcoreapp2.0\01-convert-meters-to-kilometers.pdb
+D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\01-convert-meters-to-kilometers\obj\Debug\netcoreapp2.0\01-convert-meters-to-kilometers.csprojResolveAssemblyReference.cache
+D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\01-convert-meters-to-kilometers\obj\Debug\netcoreapp2.0\01-convert-meters-to-kilometers.csproj.CoreCompileInputs.cache
+D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\01-convert-meters-to-kilometers\obj\Debug\netcoreapp2.0\01-convert-meters-to-kilometers.AssemblyInfoInputs.cache
+D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\01-convert-meters-to-kilometers\obj\Debug\netcoreapp2.0\01-convert-meters-to-kilometers.AssemblyInfo.cs
+D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\01-convert-meters-to-kilometers\obj\Debug\netcoreapp2.0\01-convert-meters-to-kilometers.dll
+D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\01-convert-meters-to-kilometers\obj\Debug\netcoreapp2.0\01-convert-meters-to-kilometers.pdb

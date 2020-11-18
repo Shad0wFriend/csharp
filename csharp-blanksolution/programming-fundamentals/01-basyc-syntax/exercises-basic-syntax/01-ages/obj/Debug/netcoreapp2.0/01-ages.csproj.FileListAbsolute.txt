@@ -1,0 +1,10 @@
+D:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\01-ages\bin\Debug\netcoreapp2.0\01-ages.deps.json
+D:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\01-ages\bin\Debug\netcoreapp2.0\01-ages.runtimeconfig.json
+D:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\01-ages\bin\Debug\netcoreapp2.0\01-ages.runtimeconfig.dev.json
+D:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\01-ages\bin\Debug\netcoreapp2.0\01-ages.dll
+D:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\01-ages\bin\Debug\netcoreapp2.0\01-ages.pdb
+D:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\01-ages\obj\Debug\netcoreapp2.0\01-ages.csproj.CoreCompileInputs.cache
+D:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\01-ages\obj\Debug\netcoreapp2.0\01-ages.AssemblyInfoInputs.cache
+D:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\01-ages\obj\Debug\netcoreapp2.0\01-ages.AssemblyInfo.cs
+D:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\01-ages\obj\Debug\netcoreapp2.0\01-ages.dll
+D:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\01-ages\obj\Debug\netcoreapp2.0\01-ages.pdb
