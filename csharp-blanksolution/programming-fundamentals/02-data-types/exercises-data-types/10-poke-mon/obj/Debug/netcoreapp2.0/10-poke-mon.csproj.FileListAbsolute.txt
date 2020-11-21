@@ -1,0 +1,11 @@
+D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\10-poke-mon\bin\Debug\netcoreapp2.0\10-poke-mon.deps.json
+D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\10-poke-mon\bin\Debug\netcoreapp2.0\10-poke-mon.runtimeconfig.json
+D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\10-poke-mon\bin\Debug\netcoreapp2.0\10-poke-mon.runtimeconfig.dev.json
+D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\10-poke-mon\bin\Debug\netcoreapp2.0\10-poke-mon.dll
+D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\10-poke-mon\bin\Debug\netcoreapp2.0\10-poke-mon.pdb
+D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\10-poke-mon\obj\Debug\netcoreapp2.0\10-poke-mon.csprojResolveAssemblyReference.cache
+D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\10-poke-mon\obj\Debug\netcoreapp2.0\10-poke-mon.csproj.CoreCompileInputs.cache
+D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\10-poke-mon\obj\Debug\netcoreapp2.0\10-poke-mon.AssemblyInfoInputs.cache
+D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\10-poke-mon\obj\Debug\netcoreapp2.0\10-poke-mon.AssemblyInfo.cs
+D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\10-poke-mon\obj\Debug\netcoreapp2.0\10-poke-mon.dll
+D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\10-poke-mon\obj\Debug\netcoreapp2.0\10-poke-mon.pdb

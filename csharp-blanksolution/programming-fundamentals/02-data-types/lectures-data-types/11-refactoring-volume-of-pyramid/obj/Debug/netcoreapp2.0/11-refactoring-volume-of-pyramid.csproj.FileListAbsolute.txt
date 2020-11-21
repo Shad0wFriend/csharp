@@ -1,0 +1,11 @@
+D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\11-refactoring-volume-of-pyramid\bin\Debug\netcoreapp2.0\11-refactoring-volume-of-pyramid.deps.json
+D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\11-refactoring-volume-of-pyramid\bin\Debug\netcoreapp2.0\11-refactoring-volume-of-pyramid.runtimeconfig.json
+D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\11-refactoring-volume-of-pyramid\bin\Debug\netcoreapp2.0\11-refactoring-volume-of-pyramid.runtimeconfig.dev.json
+D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\11-refactoring-volume-of-pyramid\bin\Debug\netcoreapp2.0\11-refactoring-volume-of-pyramid.dll
+D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\11-refactoring-volume-of-pyramid\bin\Debug\netcoreapp2.0\11-refactoring-volume-of-pyramid.pdb
+D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\11-refactoring-volume-of-pyramid\obj\Debug\netcoreapp2.0\11-refactoring-volume-of-pyramid.csprojResolveAssemblyReference.cache
+D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\11-refactoring-volume-of-pyramid\obj\Debug\netcoreapp2.0\11-refactoring-volume-of-pyramid.csproj.CoreCompileInputs.cache
+D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\11-refactoring-volume-of-pyramid\obj\Debug\netcoreapp2.0\11-refactoring-volume-of-pyramid.AssemblyInfoInputs.cache
+D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\11-refactoring-volume-of-pyramid\obj\Debug\netcoreapp2.0\11-refactoring-volume-of-pyramid.AssemblyInfo.cs
+D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\11-refactoring-volume-of-pyramid\obj\Debug\netcoreapp2.0\11-refactoring-volume-of-pyramid.dll
+D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\11-refactoring-volume-of-pyramid\obj\Debug\netcoreapp2.0\11-refactoring-volume-of-pyramid.pdb

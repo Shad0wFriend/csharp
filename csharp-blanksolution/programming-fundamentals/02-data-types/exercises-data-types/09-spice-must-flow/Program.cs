@@ -16,7 +16,7 @@ namespace _09_spice_must_flow
             {
                 Console.WriteLine(days);
 
-                Console.WriteLine(yield);
+                Console.WriteLine(0);
 
                 return;
             }
@@ -30,7 +30,7 @@ namespace _09_spice_must_flow
                 days++;
             }
 
-            spice -= 26;
+            spice = (spice >= 0 && spice <= 26) ? 0 : spice -= 26;
 
             Console.WriteLine(days);
 

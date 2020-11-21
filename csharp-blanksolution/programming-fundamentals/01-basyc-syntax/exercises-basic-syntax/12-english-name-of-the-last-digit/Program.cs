@@ -28,7 +28,7 @@ namespace _12_english_name_of_the_last_digit
                 case 4: name = "four"; break;
                 case 5: name = "five"; break;
                 case 6: name = "six"; break;
-                case 7: name = "seventh"; break;
+                case 7: name = "seven"; break;
                 case 8: name = "eight"; break;
                 case 9: name = "nine"; break;
             }

@@ -561,6 +561,24 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09-kyshichka", "programming
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10-diamant", "programming-basics\07-drawing\tasks\10-diamant\10-diamant.csproj", "{0CE72354-9BF2-4D1B-BAA9-61EB45857249}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07-associative-arrays", "07-associative-arrays", "{86092BC3-93EA-4CD8-8FA0-E3D65937B28E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lectures-associative-arrays", "lectures-associative-arrays", "{544EB444-9BAE-44D5-926F-C2B4DF17EEB5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exercises-associative-arrays", "exercises-associative-arrays", "{13E0B9A0-31DE-4A9F-B414-41CC83A46BC0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "object-oriented-programming", "object-oriented-programming", "{72A66479-6147-4844-BA3B-8DD8201C529F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-defining-classes", "01-defining-classes", "{88DC8E54-2BAA-47E4-8ED3-168F40AC397B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lectures-defining-classes", "lectures-defining-classes", "{A40151CA-4BF9-4EF8-9B4C-C4A2C424E0E3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exercises-defining-classes", "exercises-defining-classes", "{78476362-7CE8-481E-B40A-1B3F70529997}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-bank-account", "object-oriented-programming\01-defining-classes\lectures-defining-classes\01-bank-account\01-bank-account.csproj", "{58BBC3FB-A14C-4F27-B801-EE6C961B2727}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-count-real-numbers", "programming-fundamentals\07-associative-arrays\lectures-associative-arrays\01-count-real-numbers\01-count-real-numbers.csproj", "{7F0F3B54-2E1E-4C61-A927-92CBE5914A58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1523,6 +1541,14 @@ Global
 		{0CE72354-9BF2-4D1B-BAA9-61EB45857249}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CE72354-9BF2-4D1B-BAA9-61EB45857249}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CE72354-9BF2-4D1B-BAA9-61EB45857249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58BBC3FB-A14C-4F27-B801-EE6C961B2727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58BBC3FB-A14C-4F27-B801-EE6C961B2727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58BBC3FB-A14C-4F27-B801-EE6C961B2727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58BBC3FB-A14C-4F27-B801-EE6C961B2727}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F0F3B54-2E1E-4C61-A927-92CBE5914A58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F0F3B54-2E1E-4C61-A927-92CBE5914A58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F0F3B54-2E1E-4C61-A927-92CBE5914A58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F0F3B54-2E1E-4C61-A927-92CBE5914A58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1805,6 +1831,14 @@ Global
 		{6A81A38E-0755-4DA4-8D7D-81086F0929E5} = {FA16592A-7029-4D11-A057-6A91ACA4F034}
 		{48F0050D-6C92-434A-A5B1-1FAEFE4DDCD2} = {FA16592A-7029-4D11-A057-6A91ACA4F034}
 		{0CE72354-9BF2-4D1B-BAA9-61EB45857249} = {FA16592A-7029-4D11-A057-6A91ACA4F034}
+		{86092BC3-93EA-4CD8-8FA0-E3D65937B28E} = {F78772C6-BC78-4973-BB20-DADDE7530E88}
+		{544EB444-9BAE-44D5-926F-C2B4DF17EEB5} = {86092BC3-93EA-4CD8-8FA0-E3D65937B28E}
+		{13E0B9A0-31DE-4A9F-B414-41CC83A46BC0} = {86092BC3-93EA-4CD8-8FA0-E3D65937B28E}
+		{88DC8E54-2BAA-47E4-8ED3-168F40AC397B} = {72A66479-6147-4844-BA3B-8DD8201C529F}
+		{A40151CA-4BF9-4EF8-9B4C-C4A2C424E0E3} = {88DC8E54-2BAA-47E4-8ED3-168F40AC397B}
+		{78476362-7CE8-481E-B40A-1B3F70529997} = {88DC8E54-2BAA-47E4-8ED3-168F40AC397B}
+		{58BBC3FB-A14C-4F27-B801-EE6C961B2727} = {A40151CA-4BF9-4EF8-9B4C-C4A2C424E0E3}
+		{7F0F3B54-2E1E-4C61-A927-92CBE5914A58} = {544EB444-9BAE-44D5-926F-C2B4DF17EEB5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3BD1A723-5B56-4743-A6DB-B0CA5D238636}
