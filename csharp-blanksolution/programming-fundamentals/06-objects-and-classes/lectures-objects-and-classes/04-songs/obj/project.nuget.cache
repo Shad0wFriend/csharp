@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0fhsX8efMbGpP/U7JGYQiMa+OG9GHi2Y+OCMDXRfgTebHyCikTha09v/wdfWAqtJtW41IhoYP1efVURukZX1yA==",
+  "success": true,
+  "projectFilePath": "E:\\csharp\\csharp-blanksolution\\programming-fundamentals\\06-objects-and-classes\\lectures-objects-and-classes\\04-songs\\04-songs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Teodor Lozanov\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Teodor Lozanov\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Teodor Lozanov\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Teodor Lozanov\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Teodor Lozanov\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Teodor Lozanov\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

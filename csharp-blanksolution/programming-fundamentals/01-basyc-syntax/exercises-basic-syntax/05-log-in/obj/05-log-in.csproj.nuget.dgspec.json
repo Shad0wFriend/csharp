@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\csharp\\csharp-blanksolution\\programming-fundamentals\\01-basyc-syntax\\exercises-basic-syntax\\05-log-in\\05-log-in.csproj": {}
+  },
+  "projects": {
+    "E:\\csharp\\csharp-blanksolution\\programming-fundamentals\\01-basyc-syntax\\exercises-basic-syntax\\05-log-in\\05-log-in.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\csharp\\csharp-blanksolution\\programming-fundamentals\\01-basyc-syntax\\exercises-basic-syntax\\05-log-in\\05-log-in.csproj",
+        "projectName": "05-log-in",
+        "projectPath": "E:\\csharp\\csharp-blanksolution\\programming-fundamentals\\01-basyc-syntax\\exercises-basic-syntax\\05-log-in\\05-log-in.csproj",
+        "packagesPath": "C:\\Users\\Teodor Lozanov\\.nuget\\packages\\",
+        "outputPath": "E:\\csharp\\csharp-blanksolution\\programming-fundamentals\\01-basyc-syntax\\exercises-basic-syntax\\05-log-in\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Teodor Lozanov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

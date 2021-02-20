@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ITSwtNNP7/fBSnG6uNrFM69dGSztCrrWlpkM0tzMvTu3zWJh7+4G3I/5kGA+rvEcciHn3xMsS9QJK1Ptis2CAw==",
+  "success": true,
+  "projectFilePath": "E:\\csharp\\csharp-blanksolution\\programming-basics\\02-conditional-statements\\exercises-conditional-statements\\01-sumirane-na-sekundi\\01-sumirane-na-sekundi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Teodor Lozanov\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Teodor Lozanov\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Teodor Lozanov\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Teodor Lozanov\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Teodor Lozanov\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Teodor Lozanov\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

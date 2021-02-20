@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "dPDcX6ShawkOsm3pRrhmP79dm4es5qU0EDFmtaskejd1NT3bDcTCvM1dZCxoLeuRb2ZqAuRIPxCjLKR1+9egYA==",
+  "success": true,
+  "projectFilePath": "E:\\csharp\\csharp-blanksolution\\programming-basics\\02-conditional-statements\\exercises-conditional-statements\\04-konvertor-za-merni-edinici\\04-konvertor-za-merni-edinici.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Teodor Lozanov\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Teodor Lozanov\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Teodor Lozanov\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Teodor Lozanov\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Teodor Lozanov\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Teodor Lozanov\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

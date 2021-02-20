@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bvyi2cU3zpCI0t3Rb98PgD4anVNIVSRGgiRTIOPyeHVaQzC5ERUidjUzxrSgteUKUWrJ4QBXzov3fQuH31mlmg==",
+  "success": true,
+  "projectFilePath": "E:\\csharp\\csharp-blanksolution\\programming-basics\\05-for-loop\\exercises-for-loop\\04-ednakvi-dvojki\\04-ednakvi-dvojki.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Teodor Lozanov\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Teodor Lozanov\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Teodor Lozanov\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Teodor Lozanov\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Teodor Lozanov\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Teodor Lozanov\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

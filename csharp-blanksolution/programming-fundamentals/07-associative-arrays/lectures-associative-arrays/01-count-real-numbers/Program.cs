@@ -11,6 +11,8 @@ namespace _01_count_real_numbers
             List<double> numbers = Console.ReadLine().Split(' ').Select(double.Parse).ToList();
 
             SortedDictionary<double, int> occurancesCount = new SortedDictionary<double, int>();
+
+
         }
     }
 }
