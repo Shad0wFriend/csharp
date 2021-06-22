@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\02-division\bin\Debug\netcoreapp2.0\02-division.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\02-division\bin\Debug\netcoreapp2.0\02-division.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\02-division\bin\Debug\netcoreapp2.0\02-division.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\02-division\bin\Debug\netcoreapp2.0\02-division.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\02-division\bin\Debug\netcoreapp2.0\02-division.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\02-division\obj\Debug\netcoreapp2.0\02-division.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\02-division\obj\Debug\netcoreapp2.0\02-division.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\02-division\obj\Debug\netcoreapp2.0\02-division.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\02-division\obj\Debug\netcoreapp2.0\02-division.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\02-division\obj\Debug\netcoreapp2.0\02-division.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\02-division\obj\Debug\netcoreapp2.0\02-division.pdb

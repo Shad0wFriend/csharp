@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\09-akvarium\bin\Debug\netcoreapp2.0\09-akvarium.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\09-akvarium\bin\Debug\netcoreapp2.0\09-akvarium.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\09-akvarium\bin\Debug\netcoreapp2.0\09-akvarium.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\09-akvarium\bin\Debug\netcoreapp2.0\09-akvarium.dll
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\09-akvarium\bin\Debug\netcoreapp2.0\09-akvarium.pdb
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\09-akvarium\obj\Debug\netcoreapp2.0\09-akvarium.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\09-akvarium\obj\Debug\netcoreapp2.0\09-akvarium.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\09-akvarium\obj\Debug\netcoreapp2.0\09-akvarium.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\09-akvarium\obj\Debug\netcoreapp2.0\09-akvarium.dll
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\09-akvarium\obj\Debug\netcoreapp2.0\09-akvarium.pdb

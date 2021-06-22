@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\01-proverka-za-otlichna-ocenka\bin\Debug\netcoreapp2.0\01-proverka-za-otlichna-ocenka.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\01-proverka-za-otlichna-ocenka\bin\Debug\netcoreapp2.0\01-proverka-za-otlichna-ocenka.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\01-proverka-za-otlichna-ocenka\bin\Debug\netcoreapp2.0\01-proverka-za-otlichna-ocenka.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\01-proverka-za-otlichna-ocenka\bin\Debug\netcoreapp2.0\01-proverka-za-otlichna-ocenka.dll
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\01-proverka-za-otlichna-ocenka\bin\Debug\netcoreapp2.0\01-proverka-za-otlichna-ocenka.pdb
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\01-proverka-za-otlichna-ocenka\obj\Debug\netcoreapp2.0\01-proverka-za-otlichna-ocenka.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\01-proverka-za-otlichna-ocenka\obj\Debug\netcoreapp2.0\01-proverka-za-otlichna-ocenka.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\01-proverka-za-otlichna-ocenka\obj\Debug\netcoreapp2.0\01-proverka-za-otlichna-ocenka.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\01-proverka-za-otlichna-ocenka\obj\Debug\netcoreapp2.0\01-proverka-za-otlichna-ocenka.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\01-proverka-za-otlichna-ocenka\obj\Debug\netcoreapp2.0\01-proverka-za-otlichna-ocenka.dll
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\01-proverka-za-otlichna-ocenka\obj\Debug\netcoreapp2.0\01-proverka-za-otlichna-ocenka.pdb

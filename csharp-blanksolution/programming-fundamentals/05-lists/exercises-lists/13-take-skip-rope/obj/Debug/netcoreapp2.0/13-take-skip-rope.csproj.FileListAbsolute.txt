@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\13-take-skip-rope\bin\Debug\netcoreapp2.0\13-take-skip-rope.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\13-take-skip-rope\bin\Debug\netcoreapp2.0\13-take-skip-rope.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\13-take-skip-rope\bin\Debug\netcoreapp2.0\13-take-skip-rope.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\13-take-skip-rope\bin\Debug\netcoreapp2.0\13-take-skip-rope.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\13-take-skip-rope\bin\Debug\netcoreapp2.0\13-take-skip-rope.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\13-take-skip-rope\obj\Debug\netcoreapp2.0\13-take-skip-rope.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\13-take-skip-rope\obj\Debug\netcoreapp2.0\13-take-skip-rope.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\13-take-skip-rope\obj\Debug\netcoreapp2.0\13-take-skip-rope.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\13-take-skip-rope\obj\Debug\netcoreapp2.0\13-take-skip-rope.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\13-take-skip-rope\obj\Debug\netcoreapp2.0\13-take-skip-rope.pdb

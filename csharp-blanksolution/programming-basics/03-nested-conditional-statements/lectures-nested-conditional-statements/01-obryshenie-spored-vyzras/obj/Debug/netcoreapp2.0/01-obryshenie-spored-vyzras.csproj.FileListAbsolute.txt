@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\01-obryshenie-spored-vyzras\bin\Debug\netcoreapp2.0\01-obryshenie-spored-vyzras.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\01-obryshenie-spored-vyzras\bin\Debug\netcoreapp2.0\01-obryshenie-spored-vyzras.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\01-obryshenie-spored-vyzras\bin\Debug\netcoreapp2.0\01-obryshenie-spored-vyzras.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\01-obryshenie-spored-vyzras\bin\Debug\netcoreapp2.0\01-obryshenie-spored-vyzras.dll
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\01-obryshenie-spored-vyzras\bin\Debug\netcoreapp2.0\01-obryshenie-spored-vyzras.pdb
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\01-obryshenie-spored-vyzras\obj\Debug\netcoreapp2.0\01-obryshenie-spored-vyzras.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\01-obryshenie-spored-vyzras\obj\Debug\netcoreapp2.0\01-obryshenie-spored-vyzras.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\01-obryshenie-spored-vyzras\obj\Debug\netcoreapp2.0\01-obryshenie-spored-vyzras.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\01-obryshenie-spored-vyzras\obj\Debug\netcoreapp2.0\01-obryshenie-spored-vyzras.dll
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\01-obryshenie-spored-vyzras\obj\Debug\netcoreapp2.0\01-obryshenie-spored-vyzras.pdb

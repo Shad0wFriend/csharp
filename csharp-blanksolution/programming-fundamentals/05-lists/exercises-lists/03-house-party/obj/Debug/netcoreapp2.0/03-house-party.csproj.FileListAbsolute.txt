@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\03-house-party\bin\Debug\netcoreapp2.0\03-house-party.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\03-house-party\bin\Debug\netcoreapp2.0\03-house-party.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\03-house-party\bin\Debug\netcoreapp2.0\03-house-party.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\03-house-party\bin\Debug\netcoreapp2.0\03-house-party.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\03-house-party\bin\Debug\netcoreapp2.0\03-house-party.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\03-house-party\obj\Debug\netcoreapp2.0\03-house-party.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\03-house-party\obj\Debug\netcoreapp2.0\03-house-party.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\03-house-party\obj\Debug\netcoreapp2.0\03-house-party.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\03-house-party\obj\Debug\netcoreapp2.0\03-house-party.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\03-house-party\obj\Debug\netcoreapp2.0\03-house-party.pdb

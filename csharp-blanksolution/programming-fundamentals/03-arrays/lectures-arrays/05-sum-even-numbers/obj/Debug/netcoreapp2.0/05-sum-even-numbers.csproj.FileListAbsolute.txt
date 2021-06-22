@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\05-sum-even-numbers\bin\Debug\netcoreapp2.0\05-sum-even-numbers.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\05-sum-even-numbers\bin\Debug\netcoreapp2.0\05-sum-even-numbers.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\05-sum-even-numbers\bin\Debug\netcoreapp2.0\05-sum-even-numbers.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\05-sum-even-numbers\bin\Debug\netcoreapp2.0\05-sum-even-numbers.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\05-sum-even-numbers\bin\Debug\netcoreapp2.0\05-sum-even-numbers.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\05-sum-even-numbers\obj\Debug\netcoreapp2.0\05-sum-even-numbers.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\05-sum-even-numbers\obj\Debug\netcoreapp2.0\05-sum-even-numbers.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\05-sum-even-numbers\obj\Debug\netcoreapp2.0\05-sum-even-numbers.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\05-sum-even-numbers\obj\Debug\netcoreapp2.0\05-sum-even-numbers.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\05-sum-even-numbers\obj\Debug\netcoreapp2.0\05-sum-even-numbers.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\05-sum-even-numbers\obj\Debug\netcoreapp2.0\05-sum-even-numbers.pdb

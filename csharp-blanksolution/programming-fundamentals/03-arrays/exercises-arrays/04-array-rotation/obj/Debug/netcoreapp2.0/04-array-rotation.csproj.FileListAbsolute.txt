@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\04-array-rotation\bin\Debug\netcoreapp2.0\04-array-rotation.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\04-array-rotation\bin\Debug\netcoreapp2.0\04-array-rotation.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\04-array-rotation\bin\Debug\netcoreapp2.0\04-array-rotation.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\04-array-rotation\bin\Debug\netcoreapp2.0\04-array-rotation.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\04-array-rotation\bin\Debug\netcoreapp2.0\04-array-rotation.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\04-array-rotation\obj\Debug\netcoreapp2.0\04-array-rotation.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\04-array-rotation\obj\Debug\netcoreapp2.0\04-array-rotation.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\04-array-rotation\obj\Debug\netcoreapp2.0\04-array-rotation.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\04-array-rotation\obj\Debug\netcoreapp2.0\04-array-rotation.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\04-array-rotation\obj\Debug\netcoreapp2.0\04-array-rotation.pdb

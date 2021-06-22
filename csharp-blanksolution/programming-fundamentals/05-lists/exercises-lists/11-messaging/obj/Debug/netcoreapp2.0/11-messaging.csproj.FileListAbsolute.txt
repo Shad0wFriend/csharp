@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\11-messaging\bin\Debug\netcoreapp2.0\11-messaging.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\11-messaging\bin\Debug\netcoreapp2.0\11-messaging.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\11-messaging\bin\Debug\netcoreapp2.0\11-messaging.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\11-messaging\bin\Debug\netcoreapp2.0\11-messaging.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\11-messaging\bin\Debug\netcoreapp2.0\11-messaging.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\11-messaging\obj\Debug\netcoreapp2.0\11-messaging.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\11-messaging\obj\Debug\netcoreapp2.0\11-messaging.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\11-messaging\obj\Debug\netcoreapp2.0\11-messaging.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\11-messaging\obj\Debug\netcoreapp2.0\11-messaging.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\11-messaging\obj\Debug\netcoreapp2.0\11-messaging.pdb

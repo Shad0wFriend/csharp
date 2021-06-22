@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\08-beer-kegs\bin\Debug\netcoreapp2.0\08-beer-kegs.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\08-beer-kegs\bin\Debug\netcoreapp2.0\08-beer-kegs.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\08-beer-kegs\bin\Debug\netcoreapp2.0\08-beer-kegs.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\08-beer-kegs\bin\Debug\netcoreapp2.0\08-beer-kegs.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\08-beer-kegs\bin\Debug\netcoreapp2.0\08-beer-kegs.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\08-beer-kegs\obj\Debug\netcoreapp2.0\08-beer-kegs.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\08-beer-kegs\obj\Debug\netcoreapp2.0\08-beer-kegs.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\08-beer-kegs\obj\Debug\netcoreapp2.0\08-beer-kegs.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\08-beer-kegs\obj\Debug\netcoreapp2.0\08-beer-kegs.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\08-beer-kegs\obj\Debug\netcoreapp2.0\08-beer-kegs.pdb

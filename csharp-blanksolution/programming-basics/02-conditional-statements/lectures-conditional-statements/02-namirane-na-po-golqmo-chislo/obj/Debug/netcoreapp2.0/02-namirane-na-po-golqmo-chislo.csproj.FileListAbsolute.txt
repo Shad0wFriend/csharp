@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\02-namirane-na-po-golqmo-chislo\bin\Debug\netcoreapp2.0\02-namirane-na-po-golqmo-chislo.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\02-namirane-na-po-golqmo-chislo\bin\Debug\netcoreapp2.0\02-namirane-na-po-golqmo-chislo.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\02-namirane-na-po-golqmo-chislo\bin\Debug\netcoreapp2.0\02-namirane-na-po-golqmo-chislo.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\02-namirane-na-po-golqmo-chislo\bin\Debug\netcoreapp2.0\02-namirane-na-po-golqmo-chislo.dll
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\02-namirane-na-po-golqmo-chislo\bin\Debug\netcoreapp2.0\02-namirane-na-po-golqmo-chislo.pdb
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\02-namirane-na-po-golqmo-chislo\obj\Debug\netcoreapp2.0\02-namirane-na-po-golqmo-chislo.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\02-namirane-na-po-golqmo-chislo\obj\Debug\netcoreapp2.0\02-namirane-na-po-golqmo-chislo.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\02-namirane-na-po-golqmo-chislo\obj\Debug\netcoreapp2.0\02-namirane-na-po-golqmo-chislo.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\02-namirane-na-po-golqmo-chislo\obj\Debug\netcoreapp2.0\02-namirane-na-po-golqmo-chislo.dll
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\02-namirane-na-po-golqmo-chislo\obj\Debug\netcoreapp2.0\02-namirane-na-po-golqmo-chislo.pdb

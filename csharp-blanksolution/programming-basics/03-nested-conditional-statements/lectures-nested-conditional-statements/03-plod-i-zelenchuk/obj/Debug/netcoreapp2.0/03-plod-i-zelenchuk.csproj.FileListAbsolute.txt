@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\03-plod-i-zelenchuk\bin\Debug\netcoreapp2.0\03-plod-i-zelenchuk.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\03-plod-i-zelenchuk\bin\Debug\netcoreapp2.0\03-plod-i-zelenchuk.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\03-plod-i-zelenchuk\bin\Debug\netcoreapp2.0\03-plod-i-zelenchuk.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\03-plod-i-zelenchuk\bin\Debug\netcoreapp2.0\03-plod-i-zelenchuk.dll
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\03-plod-i-zelenchuk\bin\Debug\netcoreapp2.0\03-plod-i-zelenchuk.pdb
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\03-plod-i-zelenchuk\obj\Debug\netcoreapp2.0\03-plod-i-zelenchuk.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\03-plod-i-zelenchuk\obj\Debug\netcoreapp2.0\03-plod-i-zelenchuk.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\03-plod-i-zelenchuk\obj\Debug\netcoreapp2.0\03-plod-i-zelenchuk.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\03-plod-i-zelenchuk\obj\Debug\netcoreapp2.0\03-plod-i-zelenchuk.dll
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\03-plod-i-zelenchuk\obj\Debug\netcoreapp2.0\03-plod-i-zelenchuk.pdb

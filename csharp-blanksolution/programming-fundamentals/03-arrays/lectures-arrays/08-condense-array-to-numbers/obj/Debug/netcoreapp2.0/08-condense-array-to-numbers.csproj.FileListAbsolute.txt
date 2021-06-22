@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\08-condense-array-to-numbers\bin\Debug\netcoreapp2.0\08-condense-array-to-numbers.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\08-condense-array-to-numbers\bin\Debug\netcoreapp2.0\08-condense-array-to-numbers.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\08-condense-array-to-numbers\bin\Debug\netcoreapp2.0\08-condense-array-to-numbers.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\08-condense-array-to-numbers\bin\Debug\netcoreapp2.0\08-condense-array-to-numbers.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\08-condense-array-to-numbers\bin\Debug\netcoreapp2.0\08-condense-array-to-numbers.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\08-condense-array-to-numbers\obj\Debug\netcoreapp2.0\08-condense-array-to-numbers.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\08-condense-array-to-numbers\obj\Debug\netcoreapp2.0\08-condense-array-to-numbers.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\08-condense-array-to-numbers\obj\Debug\netcoreapp2.0\08-condense-array-to-numbers.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\08-condense-array-to-numbers\obj\Debug\netcoreapp2.0\08-condense-array-to-numbers.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\08-condense-array-to-numbers\obj\Debug\netcoreapp2.0\08-condense-array-to-numbers.pdb

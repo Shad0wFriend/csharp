@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\03-rounding-numbers\bin\Debug\netcoreapp2.0\03-rounding-numbers.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\03-rounding-numbers\bin\Debug\netcoreapp2.0\03-rounding-numbers.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\03-rounding-numbers\bin\Debug\netcoreapp2.0\03-rounding-numbers.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\03-rounding-numbers\bin\Debug\netcoreapp2.0\03-rounding-numbers.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\03-rounding-numbers\bin\Debug\netcoreapp2.0\03-rounding-numbers.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\03-rounding-numbers\obj\Debug\netcoreapp2.0\03-rounding-numbers.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\03-rounding-numbers\obj\Debug\netcoreapp2.0\03-rounding-numbers.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\03-rounding-numbers\obj\Debug\netcoreapp2.0\03-rounding-numbers.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\03-rounding-numbers\obj\Debug\netcoreapp2.0\03-rounding-numbers.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\03-rounding-numbers\obj\Debug\netcoreapp2.0\03-rounding-numbers.pdb

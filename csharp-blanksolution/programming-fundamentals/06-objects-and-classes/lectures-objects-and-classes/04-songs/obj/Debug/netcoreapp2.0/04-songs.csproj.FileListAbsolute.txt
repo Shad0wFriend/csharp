@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\04-songs\bin\Debug\netcoreapp2.0\04-songs.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\04-songs\bin\Debug\netcoreapp2.0\04-songs.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\04-songs\bin\Debug\netcoreapp2.0\04-songs.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\04-songs\bin\Debug\netcoreapp2.0\04-songs.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\04-songs\bin\Debug\netcoreapp2.0\04-songs.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\04-songs\obj\Debug\netcoreapp2.0\04-songs.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\04-songs\obj\Debug\netcoreapp2.0\04-songs.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\04-songs\obj\Debug\netcoreapp2.0\04-songs.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\04-songs\obj\Debug\netcoreapp2.0\04-songs.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\04-songs\obj\Debug\netcoreapp2.0\04-songs.pdb

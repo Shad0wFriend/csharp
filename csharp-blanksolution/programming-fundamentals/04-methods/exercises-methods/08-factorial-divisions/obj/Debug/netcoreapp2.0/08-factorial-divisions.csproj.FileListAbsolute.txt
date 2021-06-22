@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\08-factorial-divisions\bin\Debug\netcoreapp2.0\08-factorial-divisions.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\08-factorial-divisions\bin\Debug\netcoreapp2.0\08-factorial-divisions.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\08-factorial-divisions\bin\Debug\netcoreapp2.0\08-factorial-divisions.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\08-factorial-divisions\bin\Debug\netcoreapp2.0\08-factorial-divisions.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\08-factorial-divisions\bin\Debug\netcoreapp2.0\08-factorial-divisions.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\08-factorial-divisions\obj\Debug\netcoreapp2.0\08-factorial-divisions.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\08-factorial-divisions\obj\Debug\netcoreapp2.0\08-factorial-divisions.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\08-factorial-divisions\obj\Debug\netcoreapp2.0\08-factorial-divisions.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\08-factorial-divisions\obj\Debug\netcoreapp2.0\08-factorial-divisions.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\08-factorial-divisions\obj\Debug\netcoreapp2.0\08-factorial-divisions.pdb

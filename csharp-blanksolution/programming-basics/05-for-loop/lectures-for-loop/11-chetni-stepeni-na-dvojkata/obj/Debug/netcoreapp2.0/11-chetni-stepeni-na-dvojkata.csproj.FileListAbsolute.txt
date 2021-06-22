@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\11-chetni-stepeni-na-dvojkata\bin\Debug\netcoreapp2.0\11-chetni-stepeni-na-dvojkata.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\11-chetni-stepeni-na-dvojkata\bin\Debug\netcoreapp2.0\11-chetni-stepeni-na-dvojkata.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\11-chetni-stepeni-na-dvojkata\bin\Debug\netcoreapp2.0\11-chetni-stepeni-na-dvojkata.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\11-chetni-stepeni-na-dvojkata\bin\Debug\netcoreapp2.0\11-chetni-stepeni-na-dvojkata.dll
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\11-chetni-stepeni-na-dvojkata\bin\Debug\netcoreapp2.0\11-chetni-stepeni-na-dvojkata.pdb
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\11-chetni-stepeni-na-dvojkata\obj\Debug\netcoreapp2.0\11-chetni-stepeni-na-dvojkata.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\11-chetni-stepeni-na-dvojkata\obj\Debug\netcoreapp2.0\11-chetni-stepeni-na-dvojkata.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\11-chetni-stepeni-na-dvojkata\obj\Debug\netcoreapp2.0\11-chetni-stepeni-na-dvojkata.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\11-chetni-stepeni-na-dvojkata\obj\Debug\netcoreapp2.0\11-chetni-stepeni-na-dvojkata.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\11-chetni-stepeni-na-dvojkata\obj\Debug\netcoreapp2.0\11-chetni-stepeni-na-dvojkata.dll
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\11-chetni-stepeni-na-dvojkata\obj\Debug\netcoreapp2.0\11-chetni-stepeni-na-dvojkata.pdb

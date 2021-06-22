@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\lectures-lists\03-merging-lists\bin\Debug\netcoreapp2.0\03-merging-lists.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\lectures-lists\03-merging-lists\bin\Debug\netcoreapp2.0\03-merging-lists.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\lectures-lists\03-merging-lists\bin\Debug\netcoreapp2.0\03-merging-lists.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\lectures-lists\03-merging-lists\bin\Debug\netcoreapp2.0\03-merging-lists.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\lectures-lists\03-merging-lists\bin\Debug\netcoreapp2.0\03-merging-lists.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\lectures-lists\03-merging-lists\obj\Debug\netcoreapp2.0\03-merging-lists.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\lectures-lists\03-merging-lists\obj\Debug\netcoreapp2.0\03-merging-lists.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\lectures-lists\03-merging-lists\obj\Debug\netcoreapp2.0\03-merging-lists.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\lectures-lists\03-merging-lists\obj\Debug\netcoreapp2.0\03-merging-lists.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\lectures-lists\03-merging-lists\obj\Debug\netcoreapp2.0\03-merging-lists.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\lectures-lists\03-merging-lists\obj\Debug\netcoreapp2.0\03-merging-lists.pdb

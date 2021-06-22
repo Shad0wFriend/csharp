@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\06-chislata-ot-sto-do-dvesta\bin\Debug\netcoreapp2.0\06-chislata-ot-sto-do-dvesta.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\06-chislata-ot-sto-do-dvesta\bin\Debug\netcoreapp2.0\06-chislata-ot-sto-do-dvesta.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\06-chislata-ot-sto-do-dvesta\bin\Debug\netcoreapp2.0\06-chislata-ot-sto-do-dvesta.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\06-chislata-ot-sto-do-dvesta\bin\Debug\netcoreapp2.0\06-chislata-ot-sto-do-dvesta.dll
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\06-chislata-ot-sto-do-dvesta\bin\Debug\netcoreapp2.0\06-chislata-ot-sto-do-dvesta.pdb
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\06-chislata-ot-sto-do-dvesta\obj\Debug\netcoreapp2.0\06-chislata-ot-sto-do-dvesta.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\06-chislata-ot-sto-do-dvesta\obj\Debug\netcoreapp2.0\06-chislata-ot-sto-do-dvesta.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\06-chislata-ot-sto-do-dvesta\obj\Debug\netcoreapp2.0\06-chislata-ot-sto-do-dvesta.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\06-chislata-ot-sto-do-dvesta\obj\Debug\netcoreapp2.0\06-chislata-ot-sto-do-dvesta.dll
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\06-chislata-ot-sto-do-dvesta\obj\Debug\netcoreapp2.0\06-chislata-ot-sto-do-dvesta.pdb

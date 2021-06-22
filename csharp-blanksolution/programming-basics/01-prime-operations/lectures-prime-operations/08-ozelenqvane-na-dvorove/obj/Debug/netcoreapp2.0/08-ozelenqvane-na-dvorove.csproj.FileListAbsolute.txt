@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\08-ozelenqvane-na-dvorove\bin\Debug\netcoreapp2.0\08-ozelenqvane-na-dvorove.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\08-ozelenqvane-na-dvorove\bin\Debug\netcoreapp2.0\08-ozelenqvane-na-dvorove.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\08-ozelenqvane-na-dvorove\bin\Debug\netcoreapp2.0\08-ozelenqvane-na-dvorove.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\08-ozelenqvane-na-dvorove\bin\Debug\netcoreapp2.0\08-ozelenqvane-na-dvorove.dll
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\08-ozelenqvane-na-dvorove\bin\Debug\netcoreapp2.0\08-ozelenqvane-na-dvorove.pdb
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\08-ozelenqvane-na-dvorove\obj\Debug\netcoreapp2.0\08-ozelenqvane-na-dvorove.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\08-ozelenqvane-na-dvorove\obj\Debug\netcoreapp2.0\08-ozelenqvane-na-dvorove.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\08-ozelenqvane-na-dvorove\obj\Debug\netcoreapp2.0\08-ozelenqvane-na-dvorove.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\08-ozelenqvane-na-dvorove\obj\Debug\netcoreapp2.0\08-ozelenqvane-na-dvorove.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\08-ozelenqvane-na-dvorove\obj\Debug\netcoreapp2.0\08-ozelenqvane-na-dvorove.dll
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\08-ozelenqvane-na-dvorove\obj\Debug\netcoreapp2.0\08-ozelenqvane-na-dvorove.pdb

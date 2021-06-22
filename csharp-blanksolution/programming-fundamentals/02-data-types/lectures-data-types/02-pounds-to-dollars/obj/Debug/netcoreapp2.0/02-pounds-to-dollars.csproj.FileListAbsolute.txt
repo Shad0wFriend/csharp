@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\02-pounds-to-dollars\bin\Debug\netcoreapp2.0\02-pounds-to-dollars.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\02-pounds-to-dollars\bin\Debug\netcoreapp2.0\02-pounds-to-dollars.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\02-pounds-to-dollars\bin\Debug\netcoreapp2.0\02-pounds-to-dollars.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\02-pounds-to-dollars\bin\Debug\netcoreapp2.0\02-pounds-to-dollars.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\02-pounds-to-dollars\bin\Debug\netcoreapp2.0\02-pounds-to-dollars.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\02-pounds-to-dollars\obj\Debug\netcoreapp2.0\02-pounds-to-dollars.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\02-pounds-to-dollars\obj\Debug\netcoreapp2.0\02-pounds-to-dollars.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\02-pounds-to-dollars\obj\Debug\netcoreapp2.0\02-pounds-to-dollars.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\02-pounds-to-dollars\obj\Debug\netcoreapp2.0\02-pounds-to-dollars.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\02-pounds-to-dollars\obj\Debug\netcoreapp2.0\02-pounds-to-dollars.pdb

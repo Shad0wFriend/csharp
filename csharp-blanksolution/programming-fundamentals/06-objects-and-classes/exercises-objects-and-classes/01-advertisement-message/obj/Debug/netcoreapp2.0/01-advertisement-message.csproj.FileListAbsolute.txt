@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\exercises-objects-and-classes\01-advertisement-message\bin\Debug\netcoreapp2.0\01-advertisement-message.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\exercises-objects-and-classes\01-advertisement-message\bin\Debug\netcoreapp2.0\01-advertisement-message.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\exercises-objects-and-classes\01-advertisement-message\bin\Debug\netcoreapp2.0\01-advertisement-message.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\exercises-objects-and-classes\01-advertisement-message\bin\Debug\netcoreapp2.0\01-advertisement-message.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\exercises-objects-and-classes\01-advertisement-message\bin\Debug\netcoreapp2.0\01-advertisement-message.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\exercises-objects-and-classes\01-advertisement-message\obj\Debug\netcoreapp2.0\01-advertisement-message.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\exercises-objects-and-classes\01-advertisement-message\obj\Debug\netcoreapp2.0\01-advertisement-message.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\exercises-objects-and-classes\01-advertisement-message\obj\Debug\netcoreapp2.0\01-advertisement-message.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\exercises-objects-and-classes\01-advertisement-message\obj\Debug\netcoreapp2.0\01-advertisement-message.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\exercises-objects-and-classes\01-advertisement-message\obj\Debug\netcoreapp2.0\01-advertisement-message.pdb

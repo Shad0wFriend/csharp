@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\10-diamant\bin\Debug\netcoreapp2.0\10-diamant.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\10-diamant\bin\Debug\netcoreapp2.0\10-diamant.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\10-diamant\bin\Debug\netcoreapp2.0\10-diamant.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\10-diamant\bin\Debug\netcoreapp2.0\10-diamant.dll
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\10-diamant\bin\Debug\netcoreapp2.0\10-diamant.pdb
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\10-diamant\obj\Debug\netcoreapp2.0\10-diamant.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\10-diamant\obj\Debug\netcoreapp2.0\10-diamant.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\10-diamant\obj\Debug\netcoreapp2.0\10-diamant.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\10-diamant\obj\Debug\netcoreapp2.0\10-diamant.dll
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\10-diamant\obj\Debug\netcoreapp2.0\10-diamant.pdb

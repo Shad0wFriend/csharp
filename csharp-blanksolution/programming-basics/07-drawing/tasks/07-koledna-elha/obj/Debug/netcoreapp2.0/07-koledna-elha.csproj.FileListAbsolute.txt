@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\07-koledna-elha\bin\Debug\netcoreapp2.0\07-koledna-elha.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\07-koledna-elha\bin\Debug\netcoreapp2.0\07-koledna-elha.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\07-koledna-elha\bin\Debug\netcoreapp2.0\07-koledna-elha.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\07-koledna-elha\bin\Debug\netcoreapp2.0\07-koledna-elha.dll
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\07-koledna-elha\bin\Debug\netcoreapp2.0\07-koledna-elha.pdb
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\07-koledna-elha\obj\Debug\netcoreapp2.0\07-koledna-elha.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\07-koledna-elha\obj\Debug\netcoreapp2.0\07-koledna-elha.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\07-koledna-elha\obj\Debug\netcoreapp2.0\07-koledna-elha.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\07-koledna-elha\obj\Debug\netcoreapp2.0\07-koledna-elha.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\07-koledna-elha\obj\Debug\netcoreapp2.0\07-koledna-elha.dll
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\07-koledna-elha\obj\Debug\netcoreapp2.0\07-koledna-elha.pdb

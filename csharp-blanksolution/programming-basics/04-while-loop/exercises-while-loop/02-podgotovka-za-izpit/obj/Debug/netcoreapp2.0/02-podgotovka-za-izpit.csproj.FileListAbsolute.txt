@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\exercises-while-loop\02-podgotovka-za-izpit\bin\Debug\netcoreapp2.0\02-podgotovka-za-izpit.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\exercises-while-loop\02-podgotovka-za-izpit\bin\Debug\netcoreapp2.0\02-podgotovka-za-izpit.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\exercises-while-loop\02-podgotovka-za-izpit\bin\Debug\netcoreapp2.0\02-podgotovka-za-izpit.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\exercises-while-loop\02-podgotovka-za-izpit\bin\Debug\netcoreapp2.0\02-podgotovka-za-izpit.dll
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\exercises-while-loop\02-podgotovka-za-izpit\bin\Debug\netcoreapp2.0\02-podgotovka-za-izpit.pdb
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\exercises-while-loop\02-podgotovka-za-izpit\obj\Debug\netcoreapp2.0\02-podgotovka-za-izpit.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\exercises-while-loop\02-podgotovka-za-izpit\obj\Debug\netcoreapp2.0\02-podgotovka-za-izpit.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\exercises-while-loop\02-podgotovka-za-izpit\obj\Debug\netcoreapp2.0\02-podgotovka-za-izpit.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\exercises-while-loop\02-podgotovka-za-izpit\obj\Debug\netcoreapp2.0\02-podgotovka-za-izpit.dll
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\exercises-while-loop\02-podgotovka-za-izpit\obj\Debug\netcoreapp2.0\02-podgotovka-za-izpit.pdb

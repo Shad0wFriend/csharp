@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\01-sign-of-integer-numbers\bin\Debug\netcoreapp2.0\01-sign-of-integer-numbers.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\01-sign-of-integer-numbers\bin\Debug\netcoreapp2.0\01-sign-of-integer-numbers.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\01-sign-of-integer-numbers\bin\Debug\netcoreapp2.0\01-sign-of-integer-numbers.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\01-sign-of-integer-numbers\bin\Debug\netcoreapp2.0\01-sign-of-integer-numbers.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\01-sign-of-integer-numbers\bin\Debug\netcoreapp2.0\01-sign-of-integer-numbers.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\01-sign-of-integer-numbers\obj\Debug\netcoreapp2.0\01-sign-of-integer-numbers.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\01-sign-of-integer-numbers\obj\Debug\netcoreapp2.0\01-sign-of-integer-numbers.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\01-sign-of-integer-numbers\obj\Debug\netcoreapp2.0\01-sign-of-integer-numbers.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\01-sign-of-integer-numbers\obj\Debug\netcoreapp2.0\01-sign-of-integer-numbers.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\01-sign-of-integer-numbers\obj\Debug\netcoreapp2.0\01-sign-of-integer-numbers.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\01-sign-of-integer-numbers\obj\Debug\netcoreapp2.0\01-sign-of-integer-numbers.pdb

@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\lectures-while-loop\06-naj-malko-chislo\bin\Debug\netcoreapp2.0\06-naj-malko-chislo.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\lectures-while-loop\06-naj-malko-chislo\bin\Debug\netcoreapp2.0\06-naj-malko-chislo.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\lectures-while-loop\06-naj-malko-chislo\bin\Debug\netcoreapp2.0\06-naj-malko-chislo.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\lectures-while-loop\06-naj-malko-chislo\bin\Debug\netcoreapp2.0\06-naj-malko-chislo.dll
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\lectures-while-loop\06-naj-malko-chislo\bin\Debug\netcoreapp2.0\06-naj-malko-chislo.pdb
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\lectures-while-loop\06-naj-malko-chislo\obj\Debug\netcoreapp2.0\06-naj-malko-chislo.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\lectures-while-loop\06-naj-malko-chislo\obj\Debug\netcoreapp2.0\06-naj-malko-chislo.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\lectures-while-loop\06-naj-malko-chislo\obj\Debug\netcoreapp2.0\06-naj-malko-chislo.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\lectures-while-loop\06-naj-malko-chislo\obj\Debug\netcoreapp2.0\06-naj-malko-chislo.dll
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\lectures-while-loop\06-naj-malko-chislo\obj\Debug\netcoreapp2.0\06-naj-malko-chislo.pdb

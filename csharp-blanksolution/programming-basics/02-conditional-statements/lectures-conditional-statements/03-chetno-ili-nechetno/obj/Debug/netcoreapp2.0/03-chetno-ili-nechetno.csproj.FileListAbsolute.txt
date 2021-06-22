@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\03-chetno-ili-nechetno\bin\Debug\netcoreapp2.0\03-chetno-ili-nechetno.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\03-chetno-ili-nechetno\bin\Debug\netcoreapp2.0\03-chetno-ili-nechetno.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\03-chetno-ili-nechetno\bin\Debug\netcoreapp2.0\03-chetno-ili-nechetno.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\03-chetno-ili-nechetno\bin\Debug\netcoreapp2.0\03-chetno-ili-nechetno.dll
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\03-chetno-ili-nechetno\bin\Debug\netcoreapp2.0\03-chetno-ili-nechetno.pdb
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\03-chetno-ili-nechetno\obj\Debug\netcoreapp2.0\03-chetno-ili-nechetno.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\03-chetno-ili-nechetno\obj\Debug\netcoreapp2.0\03-chetno-ili-nechetno.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\03-chetno-ili-nechetno\obj\Debug\netcoreapp2.0\03-chetno-ili-nechetno.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\03-chetno-ili-nechetno\obj\Debug\netcoreapp2.0\03-chetno-ili-nechetno.dll
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\03-chetno-ili-nechetno\obj\Debug\netcoreapp2.0\03-chetno-ili-nechetno.pdb

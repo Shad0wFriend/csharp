@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\08-slynchevi-ochila\bin\Debug\netcoreapp2.0\08-slynchevi-ochila.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\08-slynchevi-ochila\bin\Debug\netcoreapp2.0\08-slynchevi-ochila.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\08-slynchevi-ochila\bin\Debug\netcoreapp2.0\08-slynchevi-ochila.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\08-slynchevi-ochila\bin\Debug\netcoreapp2.0\08-slynchevi-ochila.dll
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\08-slynchevi-ochila\bin\Debug\netcoreapp2.0\08-slynchevi-ochila.pdb
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\08-slynchevi-ochila\obj\Debug\netcoreapp2.0\08-slynchevi-ochila.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\08-slynchevi-ochila\obj\Debug\netcoreapp2.0\08-slynchevi-ochila.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\08-slynchevi-ochila\obj\Debug\netcoreapp2.0\08-slynchevi-ochila.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\08-slynchevi-ochila\obj\Debug\netcoreapp2.0\08-slynchevi-ochila.dll
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\08-slynchevi-ochila\obj\Debug\netcoreapp2.0\08-slynchevi-ochila.pdb

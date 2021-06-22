@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\03-informaciq-za-skorostta\bin\Debug\netcoreapp2.0\03-informaciq-za-skorostta.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\03-informaciq-za-skorostta\bin\Debug\netcoreapp2.0\03-informaciq-za-skorostta.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\03-informaciq-za-skorostta\bin\Debug\netcoreapp2.0\03-informaciq-za-skorostta.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\03-informaciq-za-skorostta\bin\Debug\netcoreapp2.0\03-informaciq-za-skorostta.dll
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\03-informaciq-za-skorostta\bin\Debug\netcoreapp2.0\03-informaciq-za-skorostta.pdb
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\03-informaciq-za-skorostta\obj\Debug\netcoreapp2.0\03-informaciq-za-skorostta.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\03-informaciq-za-skorostta\obj\Debug\netcoreapp2.0\03-informaciq-za-skorostta.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\03-informaciq-za-skorostta\obj\Debug\netcoreapp2.0\03-informaciq-za-skorostta.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\03-informaciq-za-skorostta\obj\Debug\netcoreapp2.0\03-informaciq-za-skorostta.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\03-informaciq-za-skorostta\obj\Debug\netcoreapp2.0\03-informaciq-za-skorostta.dll
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\03-informaciq-za-skorostta\obj\Debug\netcoreapp2.0\03-informaciq-za-skorostta.pdb

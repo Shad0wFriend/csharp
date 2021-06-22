@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\06-even-and-odd-subtraction\bin\Debug\netcoreapp2.0\06-even-and-odd-subtraction.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\06-even-and-odd-subtraction\bin\Debug\netcoreapp2.0\06-even-and-odd-subtraction.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\06-even-and-odd-subtraction\bin\Debug\netcoreapp2.0\06-even-and-odd-subtraction.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\06-even-and-odd-subtraction\bin\Debug\netcoreapp2.0\06-even-and-odd-subtraction.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\06-even-and-odd-subtraction\bin\Debug\netcoreapp2.0\06-even-and-odd-subtraction.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\06-even-and-odd-subtraction\obj\Debug\netcoreapp2.0\06-even-and-odd-subtraction.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\06-even-and-odd-subtraction\obj\Debug\netcoreapp2.0\06-even-and-odd-subtraction.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\06-even-and-odd-subtraction\obj\Debug\netcoreapp2.0\06-even-and-odd-subtraction.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\06-even-and-odd-subtraction\obj\Debug\netcoreapp2.0\06-even-and-odd-subtraction.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\06-even-and-odd-subtraction\obj\Debug\netcoreapp2.0\06-even-and-odd-subtraction.pdb

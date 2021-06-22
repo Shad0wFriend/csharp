@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\10-chislata-ot-edno-do-n-prez-tri\bin\Debug\netcoreapp2.0\10-chislata-ot-edno-do-n-prez-tri.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\10-chislata-ot-edno-do-n-prez-tri\bin\Debug\netcoreapp2.0\10-chislata-ot-edno-do-n-prez-tri.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\10-chislata-ot-edno-do-n-prez-tri\bin\Debug\netcoreapp2.0\10-chislata-ot-edno-do-n-prez-tri.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\10-chislata-ot-edno-do-n-prez-tri\bin\Debug\netcoreapp2.0\10-chislata-ot-edno-do-n-prez-tri.dll
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\10-chislata-ot-edno-do-n-prez-tri\bin\Debug\netcoreapp2.0\10-chislata-ot-edno-do-n-prez-tri.pdb
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\10-chislata-ot-edno-do-n-prez-tri\obj\Debug\netcoreapp2.0\10-chislata-ot-edno-do-n-prez-tri.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\10-chislata-ot-edno-do-n-prez-tri\obj\Debug\netcoreapp2.0\10-chislata-ot-edno-do-n-prez-tri.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\10-chislata-ot-edno-do-n-prez-tri\obj\Debug\netcoreapp2.0\10-chislata-ot-edno-do-n-prez-tri.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\10-chislata-ot-edno-do-n-prez-tri\obj\Debug\netcoreapp2.0\10-chislata-ot-edno-do-n-prez-tri.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\10-chislata-ot-edno-do-n-prez-tri\obj\Debug\netcoreapp2.0\10-chislata-ot-edno-do-n-prez-tri.dll
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\10-chislata-ot-edno-do-n-prez-tri\obj\Debug\netcoreapp2.0\10-chislata-ot-edno-do-n-prez-tri.pdb

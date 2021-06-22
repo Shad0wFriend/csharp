@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\02-common-elements\bin\Debug\netcoreapp2.0\02-common-elements.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\02-common-elements\bin\Debug\netcoreapp2.0\02-common-elements.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\02-common-elements\bin\Debug\netcoreapp2.0\02-common-elements.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\02-common-elements\bin\Debug\netcoreapp2.0\02-common-elements.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\02-common-elements\bin\Debug\netcoreapp2.0\02-common-elements.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\02-common-elements\obj\Debug\netcoreapp2.0\02-common-elements.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\02-common-elements\obj\Debug\netcoreapp2.0\02-common-elements.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\02-common-elements\obj\Debug\netcoreapp2.0\02-common-elements.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\02-common-elements\obj\Debug\netcoreapp2.0\02-common-elements.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\02-common-elements\obj\Debug\netcoreapp2.0\02-common-elements.pdb

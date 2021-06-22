@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\07-append-arrays\bin\Debug\netcoreapp2.0\07-append-arrays.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\07-append-arrays\bin\Debug\netcoreapp2.0\07-append-arrays.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\07-append-arrays\bin\Debug\netcoreapp2.0\07-append-arrays.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\07-append-arrays\bin\Debug\netcoreapp2.0\07-append-arrays.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\07-append-arrays\bin\Debug\netcoreapp2.0\07-append-arrays.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\07-append-arrays\obj\Debug\netcoreapp2.0\07-append-arrays.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\07-append-arrays\obj\Debug\netcoreapp2.0\07-append-arrays.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\07-append-arrays\obj\Debug\netcoreapp2.0\07-append-arrays.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\07-append-arrays\obj\Debug\netcoreapp2.0\07-append-arrays.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\07-append-arrays\obj\Debug\netcoreapp2.0\07-append-arrays.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\07-append-arrays\obj\Debug\netcoreapp2.0\07-append-arrays.pdb

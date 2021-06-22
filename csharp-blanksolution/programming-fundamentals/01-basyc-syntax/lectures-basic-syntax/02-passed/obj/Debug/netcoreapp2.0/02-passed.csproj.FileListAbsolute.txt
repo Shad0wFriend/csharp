@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\02-passed\bin\Debug\netcoreapp2.0\02-passed.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\02-passed\bin\Debug\netcoreapp2.0\02-passed.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\02-passed\bin\Debug\netcoreapp2.0\02-passed.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\02-passed\bin\Debug\netcoreapp2.0\02-passed.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\02-passed\bin\Debug\netcoreapp2.0\02-passed.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\02-passed\obj\Debug\netcoreapp2.0\02-passed.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\02-passed\obj\Debug\netcoreapp2.0\02-passed.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\02-passed\obj\Debug\netcoreapp2.0\02-passed.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\02-passed\obj\Debug\netcoreapp2.0\02-passed.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\02-passed\obj\Debug\netcoreapp2.0\02-passed.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\02-passed\obj\Debug\netcoreapp2.0\02-passed.pdb

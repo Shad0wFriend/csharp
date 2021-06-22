@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\04-konvertor-za-merni-edinici\bin\Debug\netcoreapp2.0\04-konvertor-za-merni-edinici.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\04-konvertor-za-merni-edinici\bin\Debug\netcoreapp2.0\04-konvertor-za-merni-edinici.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\04-konvertor-za-merni-edinici\bin\Debug\netcoreapp2.0\04-konvertor-za-merni-edinici.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\04-konvertor-za-merni-edinici\bin\Debug\netcoreapp2.0\04-konvertor-za-merni-edinici.dll
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\04-konvertor-za-merni-edinici\bin\Debug\netcoreapp2.0\04-konvertor-za-merni-edinici.pdb
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\04-konvertor-za-merni-edinici\obj\Debug\netcoreapp2.0\04-konvertor-za-merni-edinici.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\04-konvertor-za-merni-edinici\obj\Debug\netcoreapp2.0\04-konvertor-za-merni-edinici.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\04-konvertor-za-merni-edinici\obj\Debug\netcoreapp2.0\04-konvertor-za-merni-edinici.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\04-konvertor-za-merni-edinici\obj\Debug\netcoreapp2.0\04-konvertor-za-merni-edinici.dll
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\04-konvertor-za-merni-edinici\obj\Debug\netcoreapp2.0\04-konvertor-za-merni-edinici.pdb

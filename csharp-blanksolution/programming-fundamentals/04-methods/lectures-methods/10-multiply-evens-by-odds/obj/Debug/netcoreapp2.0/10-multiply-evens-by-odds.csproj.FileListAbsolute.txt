@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\10-multiply-evens-by-odds\bin\Debug\netcoreapp2.0\10-multiply-evens-by-odds.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\10-multiply-evens-by-odds\bin\Debug\netcoreapp2.0\10-multiply-evens-by-odds.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\10-multiply-evens-by-odds\bin\Debug\netcoreapp2.0\10-multiply-evens-by-odds.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\10-multiply-evens-by-odds\bin\Debug\netcoreapp2.0\10-multiply-evens-by-odds.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\10-multiply-evens-by-odds\bin\Debug\netcoreapp2.0\10-multiply-evens-by-odds.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\10-multiply-evens-by-odds\obj\Debug\netcoreapp2.0\10-multiply-evens-by-odds.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\10-multiply-evens-by-odds\obj\Debug\netcoreapp2.0\10-multiply-evens-by-odds.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\10-multiply-evens-by-odds\obj\Debug\netcoreapp2.0\10-multiply-evens-by-odds.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\10-multiply-evens-by-odds\obj\Debug\netcoreapp2.0\10-multiply-evens-by-odds.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\10-multiply-evens-by-odds\obj\Debug\netcoreapp2.0\10-multiply-evens-by-odds.pdb

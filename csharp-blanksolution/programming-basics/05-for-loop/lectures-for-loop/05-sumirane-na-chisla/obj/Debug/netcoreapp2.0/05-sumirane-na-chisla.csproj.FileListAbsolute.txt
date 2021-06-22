@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\05-sumirane-na-chisla\bin\Debug\netcoreapp2.0\05-sumirane-na-chisla.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\05-sumirane-na-chisla\bin\Debug\netcoreapp2.0\05-sumirane-na-chisla.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\05-sumirane-na-chisla\bin\Debug\netcoreapp2.0\05-sumirane-na-chisla.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\05-sumirane-na-chisla\bin\Debug\netcoreapp2.0\05-sumirane-na-chisla.dll
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\05-sumirane-na-chisla\bin\Debug\netcoreapp2.0\05-sumirane-na-chisla.pdb
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\05-sumirane-na-chisla\obj\Debug\netcoreapp2.0\05-sumirane-na-chisla.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\05-sumirane-na-chisla\obj\Debug\netcoreapp2.0\05-sumirane-na-chisla.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\05-sumirane-na-chisla\obj\Debug\netcoreapp2.0\05-sumirane-na-chisla.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\05-sumirane-na-chisla\obj\Debug\netcoreapp2.0\05-sumirane-na-chisla.dll
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\05-sumirane-na-chisla\obj\Debug\netcoreapp2.0\05-sumirane-na-chisla.pdb

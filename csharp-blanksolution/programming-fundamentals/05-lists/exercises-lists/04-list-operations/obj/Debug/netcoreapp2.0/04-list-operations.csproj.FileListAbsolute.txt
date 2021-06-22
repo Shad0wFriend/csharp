@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\04-list-operations\bin\Debug\netcoreapp2.0\04-list-operations.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\04-list-operations\bin\Debug\netcoreapp2.0\04-list-operations.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\04-list-operations\bin\Debug\netcoreapp2.0\04-list-operations.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\04-list-operations\bin\Debug\netcoreapp2.0\04-list-operations.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\04-list-operations\bin\Debug\netcoreapp2.0\04-list-operations.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\04-list-operations\obj\Debug\netcoreapp2.0\04-list-operations.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\04-list-operations\obj\Debug\netcoreapp2.0\04-list-operations.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\04-list-operations\obj\Debug\netcoreapp2.0\04-list-operations.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\04-list-operations\obj\Debug\netcoreapp2.0\04-list-operations.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\04-list-operations\obj\Debug\netcoreapp2.0\04-list-operations.pdb

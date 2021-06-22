@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\04-print-and-sum\bin\Debug\netcoreapp2.0\04-print-and-sum.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\04-print-and-sum\bin\Debug\netcoreapp2.0\04-print-and-sum.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\04-print-and-sum\bin\Debug\netcoreapp2.0\04-print-and-sum.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\04-print-and-sum\bin\Debug\netcoreapp2.0\04-print-and-sum.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\04-print-and-sum\bin\Debug\netcoreapp2.0\04-print-and-sum.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\04-print-and-sum\obj\Debug\netcoreapp2.0\04-print-and-sum.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\04-print-and-sum\obj\Debug\netcoreapp2.0\04-print-and-sum.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\04-print-and-sum\obj\Debug\netcoreapp2.0\04-print-and-sum.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\04-print-and-sum\obj\Debug\netcoreapp2.0\04-print-and-sum.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\04-print-and-sum\obj\Debug\netcoreapp2.0\04-print-and-sum.pdb

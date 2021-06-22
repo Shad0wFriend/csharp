@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\11-klas-jivotno\bin\Debug\netcoreapp2.0\11-klas-jivotno.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\11-klas-jivotno\bin\Debug\netcoreapp2.0\11-klas-jivotno.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\11-klas-jivotno\bin\Debug\netcoreapp2.0\11-klas-jivotno.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\11-klas-jivotno\bin\Debug\netcoreapp2.0\11-klas-jivotno.dll
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\11-klas-jivotno\bin\Debug\netcoreapp2.0\11-klas-jivotno.pdb
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\11-klas-jivotno\obj\Debug\netcoreapp2.0\11-klas-jivotno.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\11-klas-jivotno\obj\Debug\netcoreapp2.0\11-klas-jivotno.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\11-klas-jivotno\obj\Debug\netcoreapp2.0\11-klas-jivotno.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\11-klas-jivotno\obj\Debug\netcoreapp2.0\11-klas-jivotno.dll
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\11-klas-jivotno\obj\Debug\netcoreapp2.0\11-klas-jivotno.pdb

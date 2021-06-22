@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\12-data-type-finder\bin\Debug\netcoreapp2.0\12-data-type-finder.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\12-data-type-finder\bin\Debug\netcoreapp2.0\12-data-type-finder.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\12-data-type-finder\bin\Debug\netcoreapp2.0\12-data-type-finder.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\12-data-type-finder\bin\Debug\netcoreapp2.0\12-data-type-finder.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\12-data-type-finder\bin\Debug\netcoreapp2.0\12-data-type-finder.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\12-data-type-finder\obj\Debug\netcoreapp2.0\12-data-type-finder.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\12-data-type-finder\obj\Debug\netcoreapp2.0\12-data-type-finder.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\12-data-type-finder\obj\Debug\netcoreapp2.0\12-data-type-finder.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\12-data-type-finder\obj\Debug\netcoreapp2.0\12-data-type-finder.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\12-data-type-finder\obj\Debug\netcoreapp2.0\12-data-type-finder.pdb

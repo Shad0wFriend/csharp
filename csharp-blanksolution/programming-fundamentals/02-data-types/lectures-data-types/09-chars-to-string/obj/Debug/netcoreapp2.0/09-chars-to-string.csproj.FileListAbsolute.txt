@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\09-chars-to-string\bin\Debug\netcoreapp2.0\09-chars-to-string.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\09-chars-to-string\bin\Debug\netcoreapp2.0\09-chars-to-string.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\09-chars-to-string\bin\Debug\netcoreapp2.0\09-chars-to-string.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\09-chars-to-string\bin\Debug\netcoreapp2.0\09-chars-to-string.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\09-chars-to-string\bin\Debug\netcoreapp2.0\09-chars-to-string.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\09-chars-to-string\obj\Debug\netcoreapp2.0\09-chars-to-string.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\09-chars-to-string\obj\Debug\netcoreapp2.0\09-chars-to-string.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\09-chars-to-string\obj\Debug\netcoreapp2.0\09-chars-to-string.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\09-chars-to-string\obj\Debug\netcoreapp2.0\09-chars-to-string.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\09-chars-to-string\obj\Debug\netcoreapp2.0\09-chars-to-string.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\09-chars-to-string\obj\Debug\netcoreapp2.0\09-chars-to-string.pdb

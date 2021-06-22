@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\05-fabrika-za-biskviti\bin\Debug\netcoreapp2.0\05-fabrika-za-biskviti.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\05-fabrika-za-biskviti\bin\Debug\netcoreapp2.0\05-fabrika-za-biskviti.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\05-fabrika-za-biskviti\bin\Debug\netcoreapp2.0\05-fabrika-za-biskviti.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\05-fabrika-za-biskviti\bin\Debug\netcoreapp2.0\05-fabrika-za-biskviti.dll
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\05-fabrika-za-biskviti\bin\Debug\netcoreapp2.0\05-fabrika-za-biskviti.pdb
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\05-fabrika-za-biskviti\obj\Debug\netcoreapp2.0\05-fabrika-za-biskviti.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\05-fabrika-za-biskviti\obj\Debug\netcoreapp2.0\05-fabrika-za-biskviti.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\05-fabrika-za-biskviti\obj\Debug\netcoreapp2.0\05-fabrika-za-biskviti.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\05-fabrika-za-biskviti\obj\Debug\netcoreapp2.0\05-fabrika-za-biskviti.dll
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\05-fabrika-za-biskviti\obj\Debug\netcoreapp2.0\05-fabrika-za-biskviti.pdb

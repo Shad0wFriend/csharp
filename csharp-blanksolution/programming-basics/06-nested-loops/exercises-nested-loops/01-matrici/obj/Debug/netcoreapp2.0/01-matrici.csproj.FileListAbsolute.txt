@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\01-matrici\bin\Debug\netcoreapp2.0\01-matrici.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\01-matrici\bin\Debug\netcoreapp2.0\01-matrici.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\01-matrici\bin\Debug\netcoreapp2.0\01-matrici.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\01-matrici\bin\Debug\netcoreapp2.0\01-matrici.dll
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\01-matrici\bin\Debug\netcoreapp2.0\01-matrici.pdb
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\01-matrici\obj\Debug\netcoreapp2.0\01-matrici.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\01-matrici\obj\Debug\netcoreapp2.0\01-matrici.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\01-matrici\obj\Debug\netcoreapp2.0\01-matrici.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\01-matrici\obj\Debug\netcoreapp2.0\01-matrici.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\01-matrici\obj\Debug\netcoreapp2.0\01-matrici.dll
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\01-matrici\obj\Debug\netcoreapp2.0\01-matrici.pdb

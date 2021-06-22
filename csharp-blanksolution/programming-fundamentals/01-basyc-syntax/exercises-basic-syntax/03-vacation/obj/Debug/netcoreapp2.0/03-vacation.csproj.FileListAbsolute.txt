@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\03-vacation\bin\Debug\netcoreapp2.0\03-vacation.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\03-vacation\bin\Debug\netcoreapp2.0\03-vacation.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\03-vacation\bin\Debug\netcoreapp2.0\03-vacation.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\03-vacation\bin\Debug\netcoreapp2.0\03-vacation.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\03-vacation\bin\Debug\netcoreapp2.0\03-vacation.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\03-vacation\obj\Debug\netcoreapp2.0\03-vacation.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\03-vacation\obj\Debug\netcoreapp2.0\03-vacation.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\03-vacation\obj\Debug\netcoreapp2.0\03-vacation.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\03-vacation\obj\Debug\netcoreapp2.0\03-vacation.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\03-vacation\obj\Debug\netcoreapp2.0\03-vacation.pdb

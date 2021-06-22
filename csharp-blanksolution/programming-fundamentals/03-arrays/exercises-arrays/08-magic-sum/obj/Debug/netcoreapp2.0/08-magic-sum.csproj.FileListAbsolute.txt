@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\08-magic-sum\bin\Debug\netcoreapp2.0\08-magic-sum.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\08-magic-sum\bin\Debug\netcoreapp2.0\08-magic-sum.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\08-magic-sum\bin\Debug\netcoreapp2.0\08-magic-sum.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\08-magic-sum\bin\Debug\netcoreapp2.0\08-magic-sum.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\08-magic-sum\bin\Debug\netcoreapp2.0\08-magic-sum.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\08-magic-sum\obj\Debug\netcoreapp2.0\08-magic-sum.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\08-magic-sum\obj\Debug\netcoreapp2.0\08-magic-sum.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\08-magic-sum\obj\Debug\netcoreapp2.0\08-magic-sum.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\08-magic-sum\obj\Debug\netcoreapp2.0\08-magic-sum.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\08-magic-sum\obj\Debug\netcoreapp2.0\08-magic-sum.pdb

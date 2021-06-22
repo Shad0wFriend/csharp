@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\14-longer-line\bin\Debug\netcoreapp2.0\14-longer-line.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\14-longer-line\bin\Debug\netcoreapp2.0\14-longer-line.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\14-longer-line\bin\Debug\netcoreapp2.0\14-longer-line.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\14-longer-line\bin\Debug\netcoreapp2.0\14-longer-line.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\14-longer-line\bin\Debug\netcoreapp2.0\14-longer-line.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\14-longer-line\obj\Debug\netcoreapp2.0\14-longer-line.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\14-longer-line\obj\Debug\netcoreapp2.0\14-longer-line.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\14-longer-line\obj\Debug\netcoreapp2.0\14-longer-line.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\14-longer-line\obj\Debug\netcoreapp2.0\14-longer-line.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\14-longer-line\obj\Debug\netcoreapp2.0\14-longer-line.pdb

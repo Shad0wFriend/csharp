@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\01-wagon\bin\Debug\netcoreapp2.0\01-wagon.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\01-wagon\bin\Debug\netcoreapp2.0\01-wagon.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\01-wagon\bin\Debug\netcoreapp2.0\01-wagon.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\01-wagon\bin\Debug\netcoreapp2.0\01-wagon.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\01-wagon\bin\Debug\netcoreapp2.0\01-wagon.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\01-wagon\obj\Debug\netcoreapp2.0\01-wagon.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\01-wagon\obj\Debug\netcoreapp2.0\01-wagon.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\01-wagon\obj\Debug\netcoreapp2.0\01-wagon.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\01-wagon\obj\Debug\netcoreapp2.0\01-wagon.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\01-wagon\obj\Debug\netcoreapp2.0\01-wagon.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\01-wagon\obj\Debug\netcoreapp2.0\01-wagon.pdb

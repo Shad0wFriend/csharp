@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\05-special-numbers\bin\Debug\netcoreapp2.0\05-special-numbers.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\05-special-numbers\bin\Debug\netcoreapp2.0\05-special-numbers.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\05-special-numbers\bin\Debug\netcoreapp2.0\05-special-numbers.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\05-special-numbers\bin\Debug\netcoreapp2.0\05-special-numbers.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\05-special-numbers\bin\Debug\netcoreapp2.0\05-special-numbers.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\05-special-numbers\obj\Debug\netcoreapp2.0\05-special-numbers.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\05-special-numbers\obj\Debug\netcoreapp2.0\05-special-numbers.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\05-special-numbers\obj\Debug\netcoreapp2.0\05-special-numbers.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\05-special-numbers\obj\Debug\netcoreapp2.0\05-special-numbers.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\05-special-numbers\obj\Debug\netcoreapp2.0\05-special-numbers.pdb

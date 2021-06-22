@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\03-kodirane\bin\Debug\netcoreapp2.0\03-kodirane.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\03-kodirane\bin\Debug\netcoreapp2.0\03-kodirane.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\03-kodirane\bin\Debug\netcoreapp2.0\03-kodirane.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\03-kodirane\bin\Debug\netcoreapp2.0\03-kodirane.dll
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\03-kodirane\bin\Debug\netcoreapp2.0\03-kodirane.pdb
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\03-kodirane\obj\Debug\netcoreapp2.0\03-kodirane.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\03-kodirane\obj\Debug\netcoreapp2.0\03-kodirane.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\03-kodirane\obj\Debug\netcoreapp2.0\03-kodirane.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\03-kodirane\obj\Debug\netcoreapp2.0\03-kodirane.dll
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\03-kodirane\obj\Debug\netcoreapp2.0\03-kodirane.pdb

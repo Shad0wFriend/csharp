@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\16-decrypting-messages\bin\Debug\netcoreapp2.0\16-decrypting-messages.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\16-decrypting-messages\bin\Debug\netcoreapp2.0\16-decrypting-messages.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\16-decrypting-messages\bin\Debug\netcoreapp2.0\16-decrypting-messages.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\16-decrypting-messages\bin\Debug\netcoreapp2.0\16-decrypting-messages.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\16-decrypting-messages\bin\Debug\netcoreapp2.0\16-decrypting-messages.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\16-decrypting-messages\obj\Debug\netcoreapp2.0\16-decrypting-messages.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\16-decrypting-messages\obj\Debug\netcoreapp2.0\16-decrypting-messages.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\16-decrypting-messages\obj\Debug\netcoreapp2.0\16-decrypting-messages.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\16-decrypting-messages\obj\Debug\netcoreapp2.0\16-decrypting-messages.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\16-decrypting-messages\obj\Debug\netcoreapp2.0\16-decrypting-messages.pdb

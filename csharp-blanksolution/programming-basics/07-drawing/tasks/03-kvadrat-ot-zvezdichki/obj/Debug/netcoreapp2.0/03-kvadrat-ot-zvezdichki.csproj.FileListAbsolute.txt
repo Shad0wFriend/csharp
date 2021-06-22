@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\03-kvadrat-ot-zvezdichki\bin\Debug\netcoreapp2.0\03-kvadrat-ot-zvezdichki.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\03-kvadrat-ot-zvezdichki\bin\Debug\netcoreapp2.0\03-kvadrat-ot-zvezdichki.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\03-kvadrat-ot-zvezdichki\bin\Debug\netcoreapp2.0\03-kvadrat-ot-zvezdichki.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\03-kvadrat-ot-zvezdichki\bin\Debug\netcoreapp2.0\03-kvadrat-ot-zvezdichki.dll
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\03-kvadrat-ot-zvezdichki\bin\Debug\netcoreapp2.0\03-kvadrat-ot-zvezdichki.pdb
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\03-kvadrat-ot-zvezdichki\obj\Debug\netcoreapp2.0\03-kvadrat-ot-zvezdichki.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\03-kvadrat-ot-zvezdichki\obj\Debug\netcoreapp2.0\03-kvadrat-ot-zvezdichki.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\03-kvadrat-ot-zvezdichki\obj\Debug\netcoreapp2.0\03-kvadrat-ot-zvezdichki.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\03-kvadrat-ot-zvezdichki\obj\Debug\netcoreapp2.0\03-kvadrat-ot-zvezdichki.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\03-kvadrat-ot-zvezdichki\obj\Debug\netcoreapp2.0\03-kvadrat-ot-zvezdichki.dll
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\03-kvadrat-ot-zvezdichki\obj\Debug\netcoreapp2.0\03-kvadrat-ot-zvezdichki.pdb

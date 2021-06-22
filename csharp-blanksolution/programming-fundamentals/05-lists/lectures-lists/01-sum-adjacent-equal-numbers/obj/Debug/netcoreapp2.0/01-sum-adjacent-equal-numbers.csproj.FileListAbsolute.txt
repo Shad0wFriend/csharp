@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\lectures-lists\01-sum-adjacent-equal-numbers\bin\Debug\netcoreapp2.0\01-sum-adjacent-equal-numbers.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\lectures-lists\01-sum-adjacent-equal-numbers\bin\Debug\netcoreapp2.0\01-sum-adjacent-equal-numbers.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\lectures-lists\01-sum-adjacent-equal-numbers\bin\Debug\netcoreapp2.0\01-sum-adjacent-equal-numbers.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\lectures-lists\01-sum-adjacent-equal-numbers\bin\Debug\netcoreapp2.0\01-sum-adjacent-equal-numbers.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\lectures-lists\01-sum-adjacent-equal-numbers\bin\Debug\netcoreapp2.0\01-sum-adjacent-equal-numbers.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\lectures-lists\01-sum-adjacent-equal-numbers\obj\Debug\netcoreapp2.0\01-sum-adjacent-equal-numbers.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\lectures-lists\01-sum-adjacent-equal-numbers\obj\Debug\netcoreapp2.0\01-sum-adjacent-equal-numbers.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\lectures-lists\01-sum-adjacent-equal-numbers\obj\Debug\netcoreapp2.0\01-sum-adjacent-equal-numbers.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\lectures-lists\01-sum-adjacent-equal-numbers\obj\Debug\netcoreapp2.0\01-sum-adjacent-equal-numbers.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\lectures-lists\01-sum-adjacent-equal-numbers\obj\Debug\netcoreapp2.0\01-sum-adjacent-equal-numbers.pdb

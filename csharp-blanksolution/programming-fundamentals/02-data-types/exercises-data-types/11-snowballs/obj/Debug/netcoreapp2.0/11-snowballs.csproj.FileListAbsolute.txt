@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\11-snowballs\bin\Debug\netcoreapp2.0\11-snowballs.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\11-snowballs\bin\Debug\netcoreapp2.0\11-snowballs.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\11-snowballs\bin\Debug\netcoreapp2.0\11-snowballs.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\11-snowballs\bin\Debug\netcoreapp2.0\11-snowballs.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\11-snowballs\bin\Debug\netcoreapp2.0\11-snowballs.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\11-snowballs\obj\Debug\netcoreapp2.0\11-snowballs.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\11-snowballs\obj\Debug\netcoreapp2.0\11-snowballs.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\11-snowballs\obj\Debug\netcoreapp2.0\11-snowballs.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\11-snowballs\obj\Debug\netcoreapp2.0\11-snowballs.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\11-snowballs\obj\Debug\netcoreapp2.0\11-snowballs.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\11-snowballs\obj\Debug\netcoreapp2.0\11-snowballs.pdb

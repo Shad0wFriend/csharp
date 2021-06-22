@@ -9,3 +9,14 @@ D:\csharp\csharp-blanksolution\object-oriented-programming\01-defining-classes\l
 D:\csharp\csharp-blanksolution\object-oriented-programming\01-defining-classes\lectures-defining-classes\01-bank-account\obj\Debug\netcoreapp2.0\01-bank-account.AssemblyInfo.cs
 D:\csharp\csharp-blanksolution\object-oriented-programming\01-defining-classes\lectures-defining-classes\01-bank-account\obj\Debug\netcoreapp2.0\01-bank-account.dll
 D:\csharp\csharp-blanksolution\object-oriented-programming\01-defining-classes\lectures-defining-classes\01-bank-account\obj\Debug\netcoreapp2.0\01-bank-account.pdb
+E:\csharp\csharp-blanksolution\object-oriented-programming\01-defining-classes\lectures-defining-classes\01-bank-account\bin\Debug\netcoreapp2.0\01-bank-account.deps.json
+E:\csharp\csharp-blanksolution\object-oriented-programming\01-defining-classes\lectures-defining-classes\01-bank-account\bin\Debug\netcoreapp2.0\01-bank-account.runtimeconfig.json
+E:\csharp\csharp-blanksolution\object-oriented-programming\01-defining-classes\lectures-defining-classes\01-bank-account\bin\Debug\netcoreapp2.0\01-bank-account.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\object-oriented-programming\01-defining-classes\lectures-defining-classes\01-bank-account\bin\Debug\netcoreapp2.0\01-bank-account.dll
+E:\csharp\csharp-blanksolution\object-oriented-programming\01-defining-classes\lectures-defining-classes\01-bank-account\bin\Debug\netcoreapp2.0\01-bank-account.pdb
+E:\csharp\csharp-blanksolution\object-oriented-programming\01-defining-classes\lectures-defining-classes\01-bank-account\obj\Debug\netcoreapp2.0\01-bank-account.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\object-oriented-programming\01-defining-classes\lectures-defining-classes\01-bank-account\obj\Debug\netcoreapp2.0\01-bank-account.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\object-oriented-programming\01-defining-classes\lectures-defining-classes\01-bank-account\obj\Debug\netcoreapp2.0\01-bank-account.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\object-oriented-programming\01-defining-classes\lectures-defining-classes\01-bank-account\obj\Debug\netcoreapp2.0\01-bank-account.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\object-oriented-programming\01-defining-classes\lectures-defining-classes\01-bank-account\obj\Debug\netcoreapp2.0\01-bank-account.dll
+E:\csharp\csharp-blanksolution\object-oriented-programming\01-defining-classes\lectures-defining-classes\01-bank-account\obj\Debug\netcoreapp2.0\01-bank-account.pdb

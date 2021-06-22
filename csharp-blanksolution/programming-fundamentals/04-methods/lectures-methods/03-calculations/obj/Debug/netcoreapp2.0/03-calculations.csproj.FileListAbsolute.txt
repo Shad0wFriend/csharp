@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\03-calculations\bin\Debug\netcoreapp2.0\03-calculations.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\03-calculations\bin\Debug\netcoreapp2.0\03-calculations.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\03-calculations\bin\Debug\netcoreapp2.0\03-calculations.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\03-calculations\bin\Debug\netcoreapp2.0\03-calculations.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\03-calculations\bin\Debug\netcoreapp2.0\03-calculations.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\03-calculations\obj\Debug\netcoreapp2.0\03-calculations.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\03-calculations\obj\Debug\netcoreapp2.0\03-calculations.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\03-calculations\obj\Debug\netcoreapp2.0\03-calculations.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\03-calculations\obj\Debug\netcoreapp2.0\03-calculations.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\03-calculations\obj\Debug\netcoreapp2.0\03-calculations.pdb

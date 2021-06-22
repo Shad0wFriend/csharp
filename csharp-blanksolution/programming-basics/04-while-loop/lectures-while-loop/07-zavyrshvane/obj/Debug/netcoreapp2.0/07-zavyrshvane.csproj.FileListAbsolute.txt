@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\lectures-while-loop\07-zavyrshvane\bin\Debug\netcoreapp2.0\07-zavyrshvane.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\lectures-while-loop\07-zavyrshvane\bin\Debug\netcoreapp2.0\07-zavyrshvane.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\lectures-while-loop\07-zavyrshvane\bin\Debug\netcoreapp2.0\07-zavyrshvane.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\lectures-while-loop\07-zavyrshvane\bin\Debug\netcoreapp2.0\07-zavyrshvane.dll
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\lectures-while-loop\07-zavyrshvane\bin\Debug\netcoreapp2.0\07-zavyrshvane.pdb
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\lectures-while-loop\07-zavyrshvane\obj\Debug\netcoreapp2.0\07-zavyrshvane.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\lectures-while-loop\07-zavyrshvane\obj\Debug\netcoreapp2.0\07-zavyrshvane.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\lectures-while-loop\07-zavyrshvane\obj\Debug\netcoreapp2.0\07-zavyrshvane.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\lectures-while-loop\07-zavyrshvane\obj\Debug\netcoreapp2.0\07-zavyrshvane.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\lectures-while-loop\07-zavyrshvane\obj\Debug\netcoreapp2.0\07-zavyrshvane.dll
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\lectures-while-loop\07-zavyrshvane\obj\Debug\netcoreapp2.0\07-zavyrshvane.pdb

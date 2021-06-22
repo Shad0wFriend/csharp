@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\06-calculate-rectangle-area\bin\Debug\netcoreapp2.0\06-calculate-rectangle-area.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\06-calculate-rectangle-area\bin\Debug\netcoreapp2.0\06-calculate-rectangle-area.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\06-calculate-rectangle-area\bin\Debug\netcoreapp2.0\06-calculate-rectangle-area.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\06-calculate-rectangle-area\bin\Debug\netcoreapp2.0\06-calculate-rectangle-area.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\06-calculate-rectangle-area\bin\Debug\netcoreapp2.0\06-calculate-rectangle-area.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\06-calculate-rectangle-area\obj\Debug\netcoreapp2.0\06-calculate-rectangle-area.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\06-calculate-rectangle-area\obj\Debug\netcoreapp2.0\06-calculate-rectangle-area.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\06-calculate-rectangle-area\obj\Debug\netcoreapp2.0\06-calculate-rectangle-area.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\06-calculate-rectangle-area\obj\Debug\netcoreapp2.0\06-calculate-rectangle-area.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\06-calculate-rectangle-area\obj\Debug\netcoreapp2.0\06-calculate-rectangle-area.pdb

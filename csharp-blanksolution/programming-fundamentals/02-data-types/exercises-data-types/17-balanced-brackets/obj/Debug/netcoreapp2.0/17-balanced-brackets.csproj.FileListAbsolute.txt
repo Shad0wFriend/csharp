@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\17-balanced-brackets\bin\Debug\netcoreapp2.0\17-balanced-brackets.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\17-balanced-brackets\bin\Debug\netcoreapp2.0\17-balanced-brackets.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\17-balanced-brackets\bin\Debug\netcoreapp2.0\17-balanced-brackets.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\17-balanced-brackets\bin\Debug\netcoreapp2.0\17-balanced-brackets.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\17-balanced-brackets\bin\Debug\netcoreapp2.0\17-balanced-brackets.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\17-balanced-brackets\obj\Debug\netcoreapp2.0\17-balanced-brackets.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\17-balanced-brackets\obj\Debug\netcoreapp2.0\17-balanced-brackets.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\17-balanced-brackets\obj\Debug\netcoreapp2.0\17-balanced-brackets.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\17-balanced-brackets\obj\Debug\netcoreapp2.0\17-balanced-brackets.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\17-balanced-brackets\obj\Debug\netcoreapp2.0\17-balanced-brackets.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\17-balanced-brackets\obj\Debug\netcoreapp2.0\17-balanced-brackets.pdb

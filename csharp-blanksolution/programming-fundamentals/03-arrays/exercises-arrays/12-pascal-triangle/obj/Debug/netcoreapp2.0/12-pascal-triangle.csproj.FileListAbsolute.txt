@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\12-pascal-triangle\bin\Debug\netcoreapp2.0\12-pascal-triangle.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\12-pascal-triangle\bin\Debug\netcoreapp2.0\12-pascal-triangle.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\12-pascal-triangle\bin\Debug\netcoreapp2.0\12-pascal-triangle.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\12-pascal-triangle\bin\Debug\netcoreapp2.0\12-pascal-triangle.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\12-pascal-triangle\bin\Debug\netcoreapp2.0\12-pascal-triangle.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\12-pascal-triangle\obj\Debug\netcoreapp2.0\12-pascal-triangle.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\12-pascal-triangle\obj\Debug\netcoreapp2.0\12-pascal-triangle.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\12-pascal-triangle\obj\Debug\netcoreapp2.0\12-pascal-triangle.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\12-pascal-triangle\obj\Debug\netcoreapp2.0\12-pascal-triangle.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\12-pascal-triangle\obj\Debug\netcoreapp2.0\12-pascal-triangle.pdb

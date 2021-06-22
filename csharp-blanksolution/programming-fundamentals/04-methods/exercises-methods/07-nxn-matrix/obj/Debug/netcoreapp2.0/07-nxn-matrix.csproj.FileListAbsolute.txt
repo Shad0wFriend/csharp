@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\07-nxn-matrix\bin\Debug\netcoreapp2.0\07-nxn-matrix.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\07-nxn-matrix\bin\Debug\netcoreapp2.0\07-nxn-matrix.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\07-nxn-matrix\bin\Debug\netcoreapp2.0\07-nxn-matrix.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\07-nxn-matrix\bin\Debug\netcoreapp2.0\07-nxn-matrix.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\07-nxn-matrix\bin\Debug\netcoreapp2.0\07-nxn-matrix.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\07-nxn-matrix\obj\Debug\netcoreapp2.0\07-nxn-matrix.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\07-nxn-matrix\obj\Debug\netcoreapp2.0\07-nxn-matrix.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\07-nxn-matrix\obj\Debug\netcoreapp2.0\07-nxn-matrix.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\07-nxn-matrix\obj\Debug\netcoreapp2.0\07-nxn-matrix.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\07-nxn-matrix\obj\Debug\netcoreapp2.0\07-nxn-matrix.pdb

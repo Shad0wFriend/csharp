@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\09-pokemon-dont-go\bin\Debug\netcoreapp2.0\09-pokemon-dont-go.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\09-pokemon-dont-go\bin\Debug\netcoreapp2.0\09-pokemon-dont-go.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\09-pokemon-dont-go\bin\Debug\netcoreapp2.0\09-pokemon-dont-go.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\09-pokemon-dont-go\bin\Debug\netcoreapp2.0\09-pokemon-dont-go.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\09-pokemon-dont-go\bin\Debug\netcoreapp2.0\09-pokemon-dont-go.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\09-pokemon-dont-go\obj\Debug\netcoreapp2.0\09-pokemon-dont-go.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\09-pokemon-dont-go\obj\Debug\netcoreapp2.0\09-pokemon-dont-go.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\09-pokemon-dont-go\obj\Debug\netcoreapp2.0\09-pokemon-dont-go.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\09-pokemon-dont-go\obj\Debug\netcoreapp2.0\09-pokemon-dont-go.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\09-pokemon-dont-go\obj\Debug\netcoreapp2.0\09-pokemon-dont-go.pdb

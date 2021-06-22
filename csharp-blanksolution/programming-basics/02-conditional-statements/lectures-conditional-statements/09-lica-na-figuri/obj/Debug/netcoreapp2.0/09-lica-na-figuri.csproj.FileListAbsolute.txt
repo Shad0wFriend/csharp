@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\09-lica-na-figuri\bin\Debug\netcoreapp2.0\09-lica-na-figuri.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\09-lica-na-figuri\bin\Debug\netcoreapp2.0\09-lica-na-figuri.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\09-lica-na-figuri\bin\Debug\netcoreapp2.0\09-lica-na-figuri.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\09-lica-na-figuri\bin\Debug\netcoreapp2.0\09-lica-na-figuri.dll
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\09-lica-na-figuri\bin\Debug\netcoreapp2.0\09-lica-na-figuri.pdb
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\09-lica-na-figuri\obj\Debug\netcoreapp2.0\09-lica-na-figuri.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\09-lica-na-figuri\obj\Debug\netcoreapp2.0\09-lica-na-figuri.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\09-lica-na-figuri\obj\Debug\netcoreapp2.0\09-lica-na-figuri.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\09-lica-na-figuri\obj\Debug\netcoreapp2.0\09-lica-na-figuri.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\09-lica-na-figuri\obj\Debug\netcoreapp2.0\09-lica-na-figuri.dll
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\09-lica-na-figuri\obj\Debug\netcoreapp2.0\09-lica-na-figuri.pdb

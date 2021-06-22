@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\07-store-boxes\bin\Debug\netcoreapp2.0\07-store-boxes.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\07-store-boxes\bin\Debug\netcoreapp2.0\07-store-boxes.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\07-store-boxes\bin\Debug\netcoreapp2.0\07-store-boxes.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\07-store-boxes\bin\Debug\netcoreapp2.0\07-store-boxes.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\07-store-boxes\bin\Debug\netcoreapp2.0\07-store-boxes.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\07-store-boxes\obj\Debug\netcoreapp2.0\07-store-boxes.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\07-store-boxes\obj\Debug\netcoreapp2.0\07-store-boxes.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\07-store-boxes\obj\Debug\netcoreapp2.0\07-store-boxes.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\07-store-boxes\obj\Debug\netcoreapp2.0\07-store-boxes.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\07-store-boxes\obj\Debug\netcoreapp2.0\07-store-boxes.pdb

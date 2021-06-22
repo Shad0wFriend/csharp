@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\02-vowels-count\bin\Debug\netcoreapp2.0\02-vowels-count.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\02-vowels-count\bin\Debug\netcoreapp2.0\02-vowels-count.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\02-vowels-count\bin\Debug\netcoreapp2.0\02-vowels-count.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\02-vowels-count\bin\Debug\netcoreapp2.0\02-vowels-count.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\02-vowels-count\bin\Debug\netcoreapp2.0\02-vowels-count.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\02-vowels-count\obj\Debug\netcoreapp2.0\02-vowels-count.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\02-vowels-count\obj\Debug\netcoreapp2.0\02-vowels-count.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\02-vowels-count\obj\Debug\netcoreapp2.0\02-vowels-count.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\02-vowels-count\obj\Debug\netcoreapp2.0\02-vowels-count.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\02-vowels-count\obj\Debug\netcoreapp2.0\02-vowels-count.pdb

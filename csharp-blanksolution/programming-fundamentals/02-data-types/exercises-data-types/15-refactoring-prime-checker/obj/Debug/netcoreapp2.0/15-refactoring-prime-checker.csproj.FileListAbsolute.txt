@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\15-refactoring-prime-checker\bin\Debug\netcoreapp2.0\15-refactoring-prime-checker.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\15-refactoring-prime-checker\bin\Debug\netcoreapp2.0\15-refactoring-prime-checker.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\15-refactoring-prime-checker\bin\Debug\netcoreapp2.0\15-refactoring-prime-checker.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\15-refactoring-prime-checker\bin\Debug\netcoreapp2.0\15-refactoring-prime-checker.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\15-refactoring-prime-checker\bin\Debug\netcoreapp2.0\15-refactoring-prime-checker.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\15-refactoring-prime-checker\obj\Debug\netcoreapp2.0\15-refactoring-prime-checker.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\15-refactoring-prime-checker\obj\Debug\netcoreapp2.0\15-refactoring-prime-checker.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\15-refactoring-prime-checker\obj\Debug\netcoreapp2.0\15-refactoring-prime-checker.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\15-refactoring-prime-checker\obj\Debug\netcoreapp2.0\15-refactoring-prime-checker.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\15-refactoring-prime-checker\obj\Debug\netcoreapp2.0\15-refactoring-prime-checker.pdb

@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\12-data-types\bin\Debug\netcoreapp2.0\12-data-types.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\12-data-types\bin\Debug\netcoreapp2.0\12-data-types.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\12-data-types\bin\Debug\netcoreapp2.0\12-data-types.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\12-data-types\bin\Debug\netcoreapp2.0\12-data-types.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\12-data-types\bin\Debug\netcoreapp2.0\12-data-types.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\12-data-types\obj\Debug\netcoreapp2.0\12-data-types.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\12-data-types\obj\Debug\netcoreapp2.0\12-data-types.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\12-data-types\obj\Debug\netcoreapp2.0\12-data-types.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\12-data-types\obj\Debug\netcoreapp2.0\12-data-types.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\12-data-types\obj\Debug\netcoreapp2.0\12-data-types.pdb

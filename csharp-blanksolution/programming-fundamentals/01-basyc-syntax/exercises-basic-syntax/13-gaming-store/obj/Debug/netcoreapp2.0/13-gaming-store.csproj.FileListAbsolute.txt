@@ -8,3 +8,13 @@ D:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercise
 D:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\13-gaming-store\obj\Debug\netcoreapp2.0\13-gaming-store.AssemblyInfo.cs
 D:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\13-gaming-store\obj\Debug\netcoreapp2.0\13-gaming-store.dll
 D:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\13-gaming-store\obj\Debug\netcoreapp2.0\13-gaming-store.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\13-gaming-store\bin\Debug\netcoreapp2.0\13-gaming-store.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\13-gaming-store\bin\Debug\netcoreapp2.0\13-gaming-store.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\13-gaming-store\bin\Debug\netcoreapp2.0\13-gaming-store.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\13-gaming-store\bin\Debug\netcoreapp2.0\13-gaming-store.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\13-gaming-store\bin\Debug\netcoreapp2.0\13-gaming-store.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\13-gaming-store\obj\Debug\netcoreapp2.0\13-gaming-store.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\13-gaming-store\obj\Debug\netcoreapp2.0\13-gaming-store.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\13-gaming-store\obj\Debug\netcoreapp2.0\13-gaming-store.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\13-gaming-store\obj\Debug\netcoreapp2.0\13-gaming-store.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\13-gaming-store\obj\Debug\netcoreapp2.0\13-gaming-store.pdb

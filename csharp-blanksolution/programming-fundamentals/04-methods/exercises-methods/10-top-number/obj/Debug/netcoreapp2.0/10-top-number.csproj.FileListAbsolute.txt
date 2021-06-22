@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\10-top-number\bin\Debug\netcoreapp2.0\10-top-number.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\10-top-number\bin\Debug\netcoreapp2.0\10-top-number.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\10-top-number\bin\Debug\netcoreapp2.0\10-top-number.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\10-top-number\bin\Debug\netcoreapp2.0\10-top-number.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\10-top-number\bin\Debug\netcoreapp2.0\10-top-number.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\10-top-number\obj\Debug\netcoreapp2.0\10-top-number.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\10-top-number\obj\Debug\netcoreapp2.0\10-top-number.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\10-top-number\obj\Debug\netcoreapp2.0\10-top-number.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\10-top-number\obj\Debug\netcoreapp2.0\10-top-number.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\10-top-number\obj\Debug\netcoreapp2.0\10-top-number.pdb

@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\01-day-of-week-classes\bin\Debug\netcoreapp2.0\01-day-of-week-classes.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\01-day-of-week-classes\bin\Debug\netcoreapp2.0\01-day-of-week-classes.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\01-day-of-week-classes\bin\Debug\netcoreapp2.0\01-day-of-week-classes.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\01-day-of-week-classes\bin\Debug\netcoreapp2.0\01-day-of-week-classes.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\01-day-of-week-classes\bin\Debug\netcoreapp2.0\01-day-of-week-classes.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\01-day-of-week-classes\obj\Debug\netcoreapp2.0\01-day-of-week-classes.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\01-day-of-week-classes\obj\Debug\netcoreapp2.0\01-day-of-week-classes.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\01-day-of-week-classes\obj\Debug\netcoreapp2.0\01-day-of-week-classes.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\01-day-of-week-classes\obj\Debug\netcoreapp2.0\01-day-of-week-classes.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\01-day-of-week-classes\obj\Debug\netcoreapp2.0\01-day-of-week-classes.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\01-day-of-week-classes\obj\Debug\netcoreapp2.0\01-day-of-week-classes.pdb

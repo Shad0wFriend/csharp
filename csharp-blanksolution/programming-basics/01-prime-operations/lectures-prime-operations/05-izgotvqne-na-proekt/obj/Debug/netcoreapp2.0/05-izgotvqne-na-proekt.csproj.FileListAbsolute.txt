@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\05-izgotvqne-na-proekt\bin\Debug\netcoreapp2.0\05-izgotvqne-na-proekt.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\05-izgotvqne-na-proekt\bin\Debug\netcoreapp2.0\05-izgotvqne-na-proekt.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\05-izgotvqne-na-proekt\bin\Debug\netcoreapp2.0\05-izgotvqne-na-proekt.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\05-izgotvqne-na-proekt\bin\Debug\netcoreapp2.0\05-izgotvqne-na-proekt.dll
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\05-izgotvqne-na-proekt\bin\Debug\netcoreapp2.0\05-izgotvqne-na-proekt.pdb
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\05-izgotvqne-na-proekt\obj\Debug\netcoreapp2.0\05-izgotvqne-na-proekt.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\05-izgotvqne-na-proekt\obj\Debug\netcoreapp2.0\05-izgotvqne-na-proekt.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\05-izgotvqne-na-proekt\obj\Debug\netcoreapp2.0\05-izgotvqne-na-proekt.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\05-izgotvqne-na-proekt\obj\Debug\netcoreapp2.0\05-izgotvqne-na-proekt.dll
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\05-izgotvqne-na-proekt\obj\Debug\netcoreapp2.0\05-izgotvqne-na-proekt.pdb

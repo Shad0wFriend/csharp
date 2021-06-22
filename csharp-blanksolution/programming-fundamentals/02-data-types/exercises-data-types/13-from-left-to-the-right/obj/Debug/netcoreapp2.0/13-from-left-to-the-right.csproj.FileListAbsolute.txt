@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\13-from-left-to-the-right\bin\Debug\netcoreapp2.0\13-from-left-to-the-right.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\13-from-left-to-the-right\bin\Debug\netcoreapp2.0\13-from-left-to-the-right.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\13-from-left-to-the-right\bin\Debug\netcoreapp2.0\13-from-left-to-the-right.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\13-from-left-to-the-right\bin\Debug\netcoreapp2.0\13-from-left-to-the-right.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\13-from-left-to-the-right\bin\Debug\netcoreapp2.0\13-from-left-to-the-right.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\13-from-left-to-the-right\obj\Debug\netcoreapp2.0\13-from-left-to-the-right.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\13-from-left-to-the-right\obj\Debug\netcoreapp2.0\13-from-left-to-the-right.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\13-from-left-to-the-right\obj\Debug\netcoreapp2.0\13-from-left-to-the-right.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\13-from-left-to-the-right\obj\Debug\netcoreapp2.0\13-from-left-to-the-right.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\13-from-left-to-the-right\obj\Debug\netcoreapp2.0\13-from-left-to-the-right.pdb

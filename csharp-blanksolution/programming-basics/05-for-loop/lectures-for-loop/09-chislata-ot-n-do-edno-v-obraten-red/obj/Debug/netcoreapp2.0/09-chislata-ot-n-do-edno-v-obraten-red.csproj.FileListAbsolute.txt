@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\09-chislata-ot-n-do-edno-v-obraten-red\bin\Debug\netcoreapp2.0\09-chislata-ot-n-do-edno-v-obraten-red.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\09-chislata-ot-n-do-edno-v-obraten-red\bin\Debug\netcoreapp2.0\09-chislata-ot-n-do-edno-v-obraten-red.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\09-chislata-ot-n-do-edno-v-obraten-red\bin\Debug\netcoreapp2.0\09-chislata-ot-n-do-edno-v-obraten-red.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\09-chislata-ot-n-do-edno-v-obraten-red\bin\Debug\netcoreapp2.0\09-chislata-ot-n-do-edno-v-obraten-red.dll
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\09-chislata-ot-n-do-edno-v-obraten-red\bin\Debug\netcoreapp2.0\09-chislata-ot-n-do-edno-v-obraten-red.pdb
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\09-chislata-ot-n-do-edno-v-obraten-red\obj\Debug\netcoreapp2.0\09-chislata-ot-n-do-edno-v-obraten-red.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\09-chislata-ot-n-do-edno-v-obraten-red\obj\Debug\netcoreapp2.0\09-chislata-ot-n-do-edno-v-obraten-red.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\09-chislata-ot-n-do-edno-v-obraten-red\obj\Debug\netcoreapp2.0\09-chislata-ot-n-do-edno-v-obraten-red.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\09-chislata-ot-n-do-edno-v-obraten-red\obj\Debug\netcoreapp2.0\09-chislata-ot-n-do-edno-v-obraten-red.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\09-chislata-ot-n-do-edno-v-obraten-red\obj\Debug\netcoreapp2.0\09-chislata-ot-n-do-edno-v-obraten-red.dll
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\09-chislata-ot-n-do-edno-v-obraten-red\obj\Debug\netcoreapp2.0\09-chislata-ot-n-do-edno-v-obraten-red.pdb

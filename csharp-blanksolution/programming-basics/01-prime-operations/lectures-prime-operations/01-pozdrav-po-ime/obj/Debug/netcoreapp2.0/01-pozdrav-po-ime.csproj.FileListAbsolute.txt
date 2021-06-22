@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\01-pozdrav-po-ime\bin\Debug\netcoreapp2.0\01-pozdrav-po-ime.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\01-pozdrav-po-ime\bin\Debug\netcoreapp2.0\01-pozdrav-po-ime.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\01-pozdrav-po-ime\bin\Debug\netcoreapp2.0\01-pozdrav-po-ime.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\01-pozdrav-po-ime\bin\Debug\netcoreapp2.0\01-pozdrav-po-ime.dll
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\01-pozdrav-po-ime\bin\Debug\netcoreapp2.0\01-pozdrav-po-ime.pdb
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\01-pozdrav-po-ime\obj\Debug\netcoreapp2.0\01-pozdrav-po-ime.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\01-pozdrav-po-ime\obj\Debug\netcoreapp2.0\01-pozdrav-po-ime.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\01-pozdrav-po-ime\obj\Debug\netcoreapp2.0\01-pozdrav-po-ime.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\01-pozdrav-po-ime\obj\Debug\netcoreapp2.0\01-pozdrav-po-ime.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\01-pozdrav-po-ime\obj\Debug\netcoreapp2.0\01-pozdrav-po-ime.dll
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\01-pozdrav-po-ime\obj\Debug\netcoreapp2.0\01-pozdrav-po-ime.pdb

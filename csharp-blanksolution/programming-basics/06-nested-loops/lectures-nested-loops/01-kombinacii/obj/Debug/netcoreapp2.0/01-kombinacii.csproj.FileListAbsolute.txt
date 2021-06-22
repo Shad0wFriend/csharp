@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\01-kombinacii\bin\Debug\netcoreapp2.0\01-kombinacii.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\01-kombinacii\bin\Debug\netcoreapp2.0\01-kombinacii.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\01-kombinacii\bin\Debug\netcoreapp2.0\01-kombinacii.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\01-kombinacii\bin\Debug\netcoreapp2.0\01-kombinacii.dll
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\01-kombinacii\bin\Debug\netcoreapp2.0\01-kombinacii.pdb
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\01-kombinacii\obj\Debug\netcoreapp2.0\01-kombinacii.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\01-kombinacii\obj\Debug\netcoreapp2.0\01-kombinacii.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\01-kombinacii\obj\Debug\netcoreapp2.0\01-kombinacii.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\01-kombinacii\obj\Debug\netcoreapp2.0\01-kombinacii.dll
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\01-kombinacii\obj\Debug\netcoreapp2.0\01-kombinacii.pdb

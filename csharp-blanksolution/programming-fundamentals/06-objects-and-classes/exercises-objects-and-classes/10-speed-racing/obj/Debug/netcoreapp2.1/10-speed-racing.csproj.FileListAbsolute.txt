@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\exercises-objects-and-classes\10-speed-racing\bin\Debug\netcoreapp2.1\10-speed-racing.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\exercises-objects-and-classes\10-speed-racing\bin\Debug\netcoreapp2.1\10-speed-racing.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\exercises-objects-and-classes\10-speed-racing\bin\Debug\netcoreapp2.1\10-speed-racing.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\exercises-objects-and-classes\10-speed-racing\bin\Debug\netcoreapp2.1\10-speed-racing.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\exercises-objects-and-classes\10-speed-racing\bin\Debug\netcoreapp2.1\10-speed-racing.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\exercises-objects-and-classes\10-speed-racing\obj\Debug\netcoreapp2.1\10-speed-racing.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\exercises-objects-and-classes\10-speed-racing\obj\Debug\netcoreapp2.1\10-speed-racing.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\exercises-objects-and-classes\10-speed-racing\obj\Debug\netcoreapp2.1\10-speed-racing.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\exercises-objects-and-classes\10-speed-racing\obj\Debug\netcoreapp2.1\10-speed-racing.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\exercises-objects-and-classes\10-speed-racing\obj\Debug\netcoreapp2.1\10-speed-racing.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\exercises-objects-and-classes\10-speed-racing\obj\Debug\netcoreapp2.1\10-speed-racing.pdb

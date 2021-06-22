@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\05-zala-za-tanci\bin\Debug\netcoreapp2.0\05-zala-za-tanci.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\05-zala-za-tanci\bin\Debug\netcoreapp2.0\05-zala-za-tanci.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\05-zala-za-tanci\bin\Debug\netcoreapp2.0\05-zala-za-tanci.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\05-zala-za-tanci\bin\Debug\netcoreapp2.0\05-zala-za-tanci.dll
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\05-zala-za-tanci\bin\Debug\netcoreapp2.0\05-zala-za-tanci.pdb
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\05-zala-za-tanci\obj\Debug\netcoreapp2.0\05-zala-za-tanci.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\05-zala-za-tanci\obj\Debug\netcoreapp2.0\05-zala-za-tanci.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\05-zala-za-tanci\obj\Debug\netcoreapp2.0\05-zala-za-tanci.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\05-zala-za-tanci\obj\Debug\netcoreapp2.0\05-zala-za-tanci.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\05-zala-za-tanci\obj\Debug\netcoreapp2.0\05-zala-za-tanci.dll
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\05-zala-za-tanci\obj\Debug\netcoreapp2.0\05-zala-za-tanci.pdb

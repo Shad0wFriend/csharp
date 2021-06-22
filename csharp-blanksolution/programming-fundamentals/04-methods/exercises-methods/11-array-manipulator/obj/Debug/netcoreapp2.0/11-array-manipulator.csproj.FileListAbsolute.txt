@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\11-array-manipulator\bin\Debug\netcoreapp2.0\11-array-manipulator.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\11-array-manipulator\bin\Debug\netcoreapp2.0\11-array-manipulator.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\11-array-manipulator\bin\Debug\netcoreapp2.0\11-array-manipulator.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\11-array-manipulator\bin\Debug\netcoreapp2.0\11-array-manipulator.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\11-array-manipulator\bin\Debug\netcoreapp2.0\11-array-manipulator.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\11-array-manipulator\obj\Debug\netcoreapp2.0\11-array-manipulator.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\11-array-manipulator\obj\Debug\netcoreapp2.0\11-array-manipulator.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\11-array-manipulator\obj\Debug\netcoreapp2.0\11-array-manipulator.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\11-array-manipulator\obj\Debug\netcoreapp2.0\11-array-manipulator.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\11-array-manipulator\obj\Debug\netcoreapp2.0\11-array-manipulator.pdb

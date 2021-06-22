@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\06-cards-game\bin\Debug\netcoreapp2.0\06-cards-game.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\06-cards-game\bin\Debug\netcoreapp2.0\06-cards-game.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\06-cards-game\bin\Debug\netcoreapp2.0\06-cards-game.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\06-cards-game\bin\Debug\netcoreapp2.0\06-cards-game.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\06-cards-game\bin\Debug\netcoreapp2.0\06-cards-game.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\06-cards-game\obj\Debug\netcoreapp2.0\06-cards-game.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\06-cards-game\obj\Debug\netcoreapp2.0\06-cards-game.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\06-cards-game\obj\Debug\netcoreapp2.0\06-cards-game.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\06-cards-game\obj\Debug\netcoreapp2.0\06-cards-game.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\06-cards-game\obj\Debug\netcoreapp2.0\06-cards-game.pdb

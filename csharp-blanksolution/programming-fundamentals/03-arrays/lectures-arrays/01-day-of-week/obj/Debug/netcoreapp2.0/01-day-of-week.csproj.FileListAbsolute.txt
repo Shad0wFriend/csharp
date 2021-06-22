@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\01-day-of-week\bin\Debug\netcoreapp2.0\01-day-of-week.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\01-day-of-week\bin\Debug\netcoreapp2.0\01-day-of-week.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\01-day-of-week\bin\Debug\netcoreapp2.0\01-day-of-week.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\01-day-of-week\bin\Debug\netcoreapp2.0\01-day-of-week.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\01-day-of-week\bin\Debug\netcoreapp2.0\01-day-of-week.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\01-day-of-week\obj\Debug\netcoreapp2.0\01-day-of-week.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\01-day-of-week\obj\Debug\netcoreapp2.0\01-day-of-week.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\01-day-of-week\obj\Debug\netcoreapp2.0\01-day-of-week.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\01-day-of-week\obj\Debug\netcoreapp2.0\01-day-of-week.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\01-day-of-week\obj\Debug\netcoreapp2.0\01-day-of-week.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\lectures-arrays\01-day-of-week\obj\Debug\netcoreapp2.0\01-day-of-week.pdb

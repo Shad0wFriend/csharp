@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\06-reversed-chars\bin\Debug\netcoreapp2.0\06-reversed-chars.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\06-reversed-chars\bin\Debug\netcoreapp2.0\06-reversed-chars.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\06-reversed-chars\bin\Debug\netcoreapp2.0\06-reversed-chars.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\06-reversed-chars\bin\Debug\netcoreapp2.0\06-reversed-chars.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\06-reversed-chars\bin\Debug\netcoreapp2.0\06-reversed-chars.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\06-reversed-chars\obj\Debug\netcoreapp2.0\06-reversed-chars.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\06-reversed-chars\obj\Debug\netcoreapp2.0\06-reversed-chars.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\06-reversed-chars\obj\Debug\netcoreapp2.0\06-reversed-chars.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\06-reversed-chars\obj\Debug\netcoreapp2.0\06-reversed-chars.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\06-reversed-chars\obj\Debug\netcoreapp2.0\06-reversed-chars.pdb

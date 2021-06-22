@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\01-chislata-ot-edno-do-sto\bin\Debug\netcoreapp2.0\01-chislata-ot-edno-do-sto.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\01-chislata-ot-edno-do-sto\bin\Debug\netcoreapp2.0\01-chislata-ot-edno-do-sto.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\01-chislata-ot-edno-do-sto\bin\Debug\netcoreapp2.0\01-chislata-ot-edno-do-sto.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\01-chislata-ot-edno-do-sto\bin\Debug\netcoreapp2.0\01-chislata-ot-edno-do-sto.dll
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\01-chislata-ot-edno-do-sto\bin\Debug\netcoreapp2.0\01-chislata-ot-edno-do-sto.pdb
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\01-chislata-ot-edno-do-sto\obj\Debug\netcoreapp2.0\01-chislata-ot-edno-do-sto.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\01-chislata-ot-edno-do-sto\obj\Debug\netcoreapp2.0\01-chislata-ot-edno-do-sto.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\01-chislata-ot-edno-do-sto\obj\Debug\netcoreapp2.0\01-chislata-ot-edno-do-sto.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\01-chislata-ot-edno-do-sto\obj\Debug\netcoreapp2.0\01-chislata-ot-edno-do-sto.dll
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\01-chislata-ot-edno-do-sto\obj\Debug\netcoreapp2.0\01-chislata-ot-edno-do-sto.pdb

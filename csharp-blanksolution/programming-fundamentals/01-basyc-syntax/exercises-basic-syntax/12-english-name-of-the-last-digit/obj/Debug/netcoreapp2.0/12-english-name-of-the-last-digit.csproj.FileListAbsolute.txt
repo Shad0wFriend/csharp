@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\12-english-name-of-the-last-digit\bin\Debug\netcoreapp2.0\12-english-name-of-the-last-digit.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\12-english-name-of-the-last-digit\bin\Debug\netcoreapp2.0\12-english-name-of-the-last-digit.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\12-english-name-of-the-last-digit\bin\Debug\netcoreapp2.0\12-english-name-of-the-last-digit.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\12-english-name-of-the-last-digit\bin\Debug\netcoreapp2.0\12-english-name-of-the-last-digit.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\12-english-name-of-the-last-digit\bin\Debug\netcoreapp2.0\12-english-name-of-the-last-digit.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\12-english-name-of-the-last-digit\obj\Debug\netcoreapp2.0\12-english-name-of-the-last-digit.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\12-english-name-of-the-last-digit\obj\Debug\netcoreapp2.0\12-english-name-of-the-last-digit.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\12-english-name-of-the-last-digit\obj\Debug\netcoreapp2.0\12-english-name-of-the-last-digit.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\12-english-name-of-the-last-digit\obj\Debug\netcoreapp2.0\12-english-name-of-the-last-digit.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\12-english-name-of-the-last-digit\obj\Debug\netcoreapp2.0\12-english-name-of-the-last-digit.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\12-english-name-of-the-last-digit\obj\Debug\netcoreapp2.0\12-english-name-of-the-last-digit.pdb

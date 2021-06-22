@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\12-refactoring-special-numbers\bin\Debug\netcoreapp2.0\12-refactoring-special-numbers.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\12-refactoring-special-numbers\bin\Debug\netcoreapp2.0\12-refactoring-special-numbers.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\12-refactoring-special-numbers\bin\Debug\netcoreapp2.0\12-refactoring-special-numbers.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\12-refactoring-special-numbers\bin\Debug\netcoreapp2.0\12-refactoring-special-numbers.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\12-refactoring-special-numbers\bin\Debug\netcoreapp2.0\12-refactoring-special-numbers.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\12-refactoring-special-numbers\obj\Debug\netcoreapp2.0\12-refactoring-special-numbers.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\12-refactoring-special-numbers\obj\Debug\netcoreapp2.0\12-refactoring-special-numbers.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\12-refactoring-special-numbers\obj\Debug\netcoreapp2.0\12-refactoring-special-numbers.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\12-refactoring-special-numbers\obj\Debug\netcoreapp2.0\12-refactoring-special-numbers.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\12-refactoring-special-numbers\obj\Debug\netcoreapp2.0\12-refactoring-special-numbers.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\12-refactoring-special-numbers\obj\Debug\netcoreapp2.0\12-refactoring-special-numbers.pdb

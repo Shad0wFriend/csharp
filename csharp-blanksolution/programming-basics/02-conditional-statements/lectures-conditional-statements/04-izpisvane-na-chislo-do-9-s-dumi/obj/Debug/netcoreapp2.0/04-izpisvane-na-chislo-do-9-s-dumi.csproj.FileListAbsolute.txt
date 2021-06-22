@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\04-izpisvane-na-chislo-do-9-s-dumi\bin\Debug\netcoreapp2.0\04-izpisvane-na-chislo-do-9-s-dumi.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\04-izpisvane-na-chislo-do-9-s-dumi\bin\Debug\netcoreapp2.0\04-izpisvane-na-chislo-do-9-s-dumi.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\04-izpisvane-na-chislo-do-9-s-dumi\bin\Debug\netcoreapp2.0\04-izpisvane-na-chislo-do-9-s-dumi.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\04-izpisvane-na-chislo-do-9-s-dumi\bin\Debug\netcoreapp2.0\04-izpisvane-na-chislo-do-9-s-dumi.dll
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\04-izpisvane-na-chislo-do-9-s-dumi\bin\Debug\netcoreapp2.0\04-izpisvane-na-chislo-do-9-s-dumi.pdb
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\04-izpisvane-na-chislo-do-9-s-dumi\obj\Debug\netcoreapp2.0\04-izpisvane-na-chislo-do-9-s-dumi.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\04-izpisvane-na-chislo-do-9-s-dumi\obj\Debug\netcoreapp2.0\04-izpisvane-na-chislo-do-9-s-dumi.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\04-izpisvane-na-chislo-do-9-s-dumi\obj\Debug\netcoreapp2.0\04-izpisvane-na-chislo-do-9-s-dumi.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\04-izpisvane-na-chislo-do-9-s-dumi\obj\Debug\netcoreapp2.0\04-izpisvane-na-chislo-do-9-s-dumi.dll
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\04-izpisvane-na-chislo-do-9-s-dumi\obj\Debug\netcoreapp2.0\04-izpisvane-na-chislo-do-9-s-dumi.pdb

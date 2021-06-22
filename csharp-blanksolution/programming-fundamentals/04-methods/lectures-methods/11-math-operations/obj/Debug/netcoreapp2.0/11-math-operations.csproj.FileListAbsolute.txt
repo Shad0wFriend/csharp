@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\11-math-operations\bin\Debug\netcoreapp2.0\11-math-operations.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\11-math-operations\bin\Debug\netcoreapp2.0\11-math-operations.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\11-math-operations\bin\Debug\netcoreapp2.0\11-math-operations.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\11-math-operations\bin\Debug\netcoreapp2.0\11-math-operations.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\11-math-operations\bin\Debug\netcoreapp2.0\11-math-operations.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\11-math-operations\obj\Debug\netcoreapp2.0\11-math-operations.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\11-math-operations\obj\Debug\netcoreapp2.0\11-math-operations.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\11-math-operations\obj\Debug\netcoreapp2.0\11-math-operations.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\11-math-operations\obj\Debug\netcoreapp2.0\11-math-operations.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\11-math-operations\obj\Debug\netcoreapp2.0\11-math-operations.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\11-math-operations\obj\Debug\netcoreapp2.0\11-math-operations.pdb

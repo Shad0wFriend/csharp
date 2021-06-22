@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\02-bonus-tochki\bin\Debug\netcoreapp2.0\02-bonus-tochki.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\02-bonus-tochki\bin\Debug\netcoreapp2.0\02-bonus-tochki.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\02-bonus-tochki\bin\Debug\netcoreapp2.0\02-bonus-tochki.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\02-bonus-tochki\bin\Debug\netcoreapp2.0\02-bonus-tochki.dll
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\02-bonus-tochki\bin\Debug\netcoreapp2.0\02-bonus-tochki.pdb
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\02-bonus-tochki\obj\Debug\netcoreapp2.0\02-bonus-tochki.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\02-bonus-tochki\obj\Debug\netcoreapp2.0\02-bonus-tochki.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\02-bonus-tochki\obj\Debug\netcoreapp2.0\02-bonus-tochki.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\02-bonus-tochki\obj\Debug\netcoreapp2.0\02-bonus-tochki.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\02-bonus-tochki\obj\Debug\netcoreapp2.0\02-bonus-tochki.dll
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\02-bonus-tochki\obj\Debug\netcoreapp2.0\02-bonus-tochki.pdb

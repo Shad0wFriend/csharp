@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\03-lice-na-kvadrat\bin\Debug\netcoreapp2.0\03-lice-na-kvadrat.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\03-lice-na-kvadrat\bin\Debug\netcoreapp2.0\03-lice-na-kvadrat.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\03-lice-na-kvadrat\bin\Debug\netcoreapp2.0\03-lice-na-kvadrat.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\03-lice-na-kvadrat\bin\Debug\netcoreapp2.0\03-lice-na-kvadrat.dll
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\03-lice-na-kvadrat\bin\Debug\netcoreapp2.0\03-lice-na-kvadrat.pdb
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\03-lice-na-kvadrat\obj\Debug\netcoreapp2.0\03-lice-na-kvadrat.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\03-lice-na-kvadrat\obj\Debug\netcoreapp2.0\03-lice-na-kvadrat.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\03-lice-na-kvadrat\obj\Debug\netcoreapp2.0\03-lice-na-kvadrat.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\03-lice-na-kvadrat\obj\Debug\netcoreapp2.0\03-lice-na-kvadrat.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\03-lice-na-kvadrat\obj\Debug\netcoreapp2.0\03-lice-na-kvadrat.dll
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\lectures-prime-operations\03-lice-na-kvadrat\obj\Debug\netcoreapp2.0\03-lice-na-kvadrat.pdb

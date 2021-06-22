@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\exercises-objects-and-classes\05-teamwork-projects\bin\Debug\netcoreapp2.0\05-teamwork-projects.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\exercises-objects-and-classes\05-teamwork-projects\bin\Debug\netcoreapp2.0\05-teamwork-projects.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\exercises-objects-and-classes\05-teamwork-projects\bin\Debug\netcoreapp2.0\05-teamwork-projects.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\exercises-objects-and-classes\05-teamwork-projects\bin\Debug\netcoreapp2.0\05-teamwork-projects.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\exercises-objects-and-classes\05-teamwork-projects\bin\Debug\netcoreapp2.0\05-teamwork-projects.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\exercises-objects-and-classes\05-teamwork-projects\obj\Debug\netcoreapp2.0\05-teamwork-projects.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\exercises-objects-and-classes\05-teamwork-projects\obj\Debug\netcoreapp2.0\05-teamwork-projects.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\exercises-objects-and-classes\05-teamwork-projects\obj\Debug\netcoreapp2.0\05-teamwork-projects.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\exercises-objects-and-classes\05-teamwork-projects\obj\Debug\netcoreapp2.0\05-teamwork-projects.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\exercises-objects-and-classes\05-teamwork-projects\obj\Debug\netcoreapp2.0\05-teamwork-projects.pdb

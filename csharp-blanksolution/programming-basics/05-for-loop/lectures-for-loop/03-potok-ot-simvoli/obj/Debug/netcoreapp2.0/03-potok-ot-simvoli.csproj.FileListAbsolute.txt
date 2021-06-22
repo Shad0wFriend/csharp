@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\03-potok-ot-simvoli\bin\Debug\netcoreapp2.0\03-potok-ot-simvoli.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\03-potok-ot-simvoli\bin\Debug\netcoreapp2.0\03-potok-ot-simvoli.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\03-potok-ot-simvoli\bin\Debug\netcoreapp2.0\03-potok-ot-simvoli.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\03-potok-ot-simvoli\bin\Debug\netcoreapp2.0\03-potok-ot-simvoli.dll
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\03-potok-ot-simvoli\bin\Debug\netcoreapp2.0\03-potok-ot-simvoli.pdb
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\03-potok-ot-simvoli\obj\Debug\netcoreapp2.0\03-potok-ot-simvoli.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\03-potok-ot-simvoli\obj\Debug\netcoreapp2.0\03-potok-ot-simvoli.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\03-potok-ot-simvoli\obj\Debug\netcoreapp2.0\03-potok-ot-simvoli.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\03-potok-ot-simvoli\obj\Debug\netcoreapp2.0\03-potok-ot-simvoli.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\03-potok-ot-simvoli\obj\Debug\netcoreapp2.0\03-potok-ot-simvoli.dll
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\03-potok-ot-simvoli\obj\Debug\netcoreapp2.0\03-potok-ot-simvoli.pdb

@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\02-piramida-ot-chisla\bin\Debug\netcoreapp2.0\02-piramida-ot-chisla.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\02-piramida-ot-chisla\bin\Debug\netcoreapp2.0\02-piramida-ot-chisla.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\02-piramida-ot-chisla\bin\Debug\netcoreapp2.0\02-piramida-ot-chisla.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\02-piramida-ot-chisla\bin\Debug\netcoreapp2.0\02-piramida-ot-chisla.dll
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\02-piramida-ot-chisla\bin\Debug\netcoreapp2.0\02-piramida-ot-chisla.pdb
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\02-piramida-ot-chisla\obj\Debug\netcoreapp2.0\02-piramida-ot-chisla.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\02-piramida-ot-chisla\obj\Debug\netcoreapp2.0\02-piramida-ot-chisla.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\02-piramida-ot-chisla\obj\Debug\netcoreapp2.0\02-piramida-ot-chisla.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\02-piramida-ot-chisla\obj\Debug\netcoreapp2.0\02-piramida-ot-chisla.dll
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\02-piramida-ot-chisla\obj\Debug\netcoreapp2.0\02-piramida-ot-chisla.pdb

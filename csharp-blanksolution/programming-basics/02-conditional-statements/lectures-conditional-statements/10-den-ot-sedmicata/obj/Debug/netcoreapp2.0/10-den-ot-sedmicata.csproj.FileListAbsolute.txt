@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\10-den-ot-sedmicata\bin\Debug\netcoreapp2.0\10-den-ot-sedmicata.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\10-den-ot-sedmicata\bin\Debug\netcoreapp2.0\10-den-ot-sedmicata.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\10-den-ot-sedmicata\bin\Debug\netcoreapp2.0\10-den-ot-sedmicata.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\10-den-ot-sedmicata\bin\Debug\netcoreapp2.0\10-den-ot-sedmicata.dll
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\10-den-ot-sedmicata\bin\Debug\netcoreapp2.0\10-den-ot-sedmicata.pdb
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\10-den-ot-sedmicata\obj\Debug\netcoreapp2.0\10-den-ot-sedmicata.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\10-den-ot-sedmicata\obj\Debug\netcoreapp2.0\10-den-ot-sedmicata.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\10-den-ot-sedmicata\obj\Debug\netcoreapp2.0\10-den-ot-sedmicata.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\10-den-ot-sedmicata\obj\Debug\netcoreapp2.0\10-den-ot-sedmicata.dll
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\10-den-ot-sedmicata\obj\Debug\netcoreapp2.0\10-den-ot-sedmicata.pdb

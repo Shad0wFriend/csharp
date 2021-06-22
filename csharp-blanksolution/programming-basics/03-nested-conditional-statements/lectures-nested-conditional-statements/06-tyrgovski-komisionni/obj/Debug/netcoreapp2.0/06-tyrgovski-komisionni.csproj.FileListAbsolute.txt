@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\06-tyrgovski-komisionni\bin\Debug\netcoreapp2.0\06-tyrgovski-komisionni.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\06-tyrgovski-komisionni\bin\Debug\netcoreapp2.0\06-tyrgovski-komisionni.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\06-tyrgovski-komisionni\bin\Debug\netcoreapp2.0\06-tyrgovski-komisionni.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\06-tyrgovski-komisionni\bin\Debug\netcoreapp2.0\06-tyrgovski-komisionni.dll
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\06-tyrgovski-komisionni\bin\Debug\netcoreapp2.0\06-tyrgovski-komisionni.pdb
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\06-tyrgovski-komisionni\obj\Debug\netcoreapp2.0\06-tyrgovski-komisionni.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\06-tyrgovski-komisionni\obj\Debug\netcoreapp2.0\06-tyrgovski-komisionni.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\06-tyrgovski-komisionni\obj\Debug\netcoreapp2.0\06-tyrgovski-komisionni.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\06-tyrgovski-komisionni\obj\Debug\netcoreapp2.0\06-tyrgovski-komisionni.dll
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\06-tyrgovski-komisionni\obj\Debug\netcoreapp2.0\06-tyrgovski-komisionni.pdb

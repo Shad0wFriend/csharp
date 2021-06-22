@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\01-usd-kym-levove\bin\Debug\netcoreapp2.0\01-usd-kym-levove.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\01-usd-kym-levove\bin\Debug\netcoreapp2.0\01-usd-kym-levove.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\01-usd-kym-levove\bin\Debug\netcoreapp2.0\01-usd-kym-levove.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\01-usd-kym-levove\bin\Debug\netcoreapp2.0\01-usd-kym-levove.dll
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\01-usd-kym-levove\bin\Debug\netcoreapp2.0\01-usd-kym-levove.pdb
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\01-usd-kym-levove\obj\Debug\netcoreapp2.0\01-usd-kym-levove.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\01-usd-kym-levove\obj\Debug\netcoreapp2.0\01-usd-kym-levove.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\01-usd-kym-levove\obj\Debug\netcoreapp2.0\01-usd-kym-levove.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\01-usd-kym-levove\obj\Debug\netcoreapp2.0\01-usd-kym-levove.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\01-usd-kym-levove\obj\Debug\netcoreapp2.0\01-usd-kym-levove.dll
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\01-usd-kym-levove\obj\Debug\netcoreapp2.0\01-usd-kym-levove.pdb

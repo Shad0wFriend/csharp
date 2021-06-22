@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\01-sumirane-na-sekundi\bin\Debug\netcoreapp2.0\01-sumirane-na-sekundi.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\01-sumirane-na-sekundi\bin\Debug\netcoreapp2.0\01-sumirane-na-sekundi.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\01-sumirane-na-sekundi\bin\Debug\netcoreapp2.0\01-sumirane-na-sekundi.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\01-sumirane-na-sekundi\bin\Debug\netcoreapp2.0\01-sumirane-na-sekundi.dll
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\01-sumirane-na-sekundi\bin\Debug\netcoreapp2.0\01-sumirane-na-sekundi.pdb
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\01-sumirane-na-sekundi\obj\Debug\netcoreapp2.0\01-sumirane-na-sekundi.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\01-sumirane-na-sekundi\obj\Debug\netcoreapp2.0\01-sumirane-na-sekundi.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\01-sumirane-na-sekundi\obj\Debug\netcoreapp2.0\01-sumirane-na-sekundi.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\01-sumirane-na-sekundi\obj\Debug\netcoreapp2.0\01-sumirane-na-sekundi.dll
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\exercises-conditional-statements\01-sumirane-na-sekundi\obj\Debug\netcoreapp2.0\01-sumirane-na-sekundi.pdb

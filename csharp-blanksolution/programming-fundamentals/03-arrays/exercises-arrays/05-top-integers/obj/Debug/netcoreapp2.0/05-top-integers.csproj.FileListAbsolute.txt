@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\05-top-integers\bin\Debug\netcoreapp2.0\05-top-integers.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\05-top-integers\bin\Debug\netcoreapp2.0\05-top-integers.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\05-top-integers\bin\Debug\netcoreapp2.0\05-top-integers.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\05-top-integers\bin\Debug\netcoreapp2.0\05-top-integers.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\05-top-integers\bin\Debug\netcoreapp2.0\05-top-integers.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\05-top-integers\obj\Debug\netcoreapp2.0\05-top-integers.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\05-top-integers\obj\Debug\netcoreapp2.0\05-top-integers.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\05-top-integers\obj\Debug\netcoreapp2.0\05-top-integers.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\05-top-integers\obj\Debug\netcoreapp2.0\05-top-integers.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\05-top-integers\obj\Debug\netcoreapp2.0\05-top-integers.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\05-top-integers\obj\Debug\netcoreapp2.0\05-top-integers.pdb

@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\14-floating-equility\bin\Debug\netcoreapp2.0\14-floating-equility.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\14-floating-equility\bin\Debug\netcoreapp2.0\14-floating-equility.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\14-floating-equility\bin\Debug\netcoreapp2.0\14-floating-equility.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\14-floating-equility\bin\Debug\netcoreapp2.0\14-floating-equility.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\14-floating-equility\bin\Debug\netcoreapp2.0\14-floating-equility.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\14-floating-equility\obj\Debug\netcoreapp2.0\14-floating-equility.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\14-floating-equility\obj\Debug\netcoreapp2.0\14-floating-equility.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\14-floating-equility\obj\Debug\netcoreapp2.0\14-floating-equility.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\14-floating-equility\obj\Debug\netcoreapp2.0\14-floating-equility.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\14-floating-equility\obj\Debug\netcoreapp2.0\14-floating-equility.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\14-floating-equility\obj\Debug\netcoreapp2.0\14-floating-equility.pdb

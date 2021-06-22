@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\11-encrypt-sort-and-print-array\bin\Debug\netcoreapp2.0\11-encrypt-sort-and-print-array.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\11-encrypt-sort-and-print-array\bin\Debug\netcoreapp2.0\11-encrypt-sort-and-print-array.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\11-encrypt-sort-and-print-array\bin\Debug\netcoreapp2.0\11-encrypt-sort-and-print-array.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\11-encrypt-sort-and-print-array\bin\Debug\netcoreapp2.0\11-encrypt-sort-and-print-array.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\11-encrypt-sort-and-print-array\bin\Debug\netcoreapp2.0\11-encrypt-sort-and-print-array.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\11-encrypt-sort-and-print-array\obj\Debug\netcoreapp2.0\11-encrypt-sort-and-print-array.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\11-encrypt-sort-and-print-array\obj\Debug\netcoreapp2.0\11-encrypt-sort-and-print-array.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\11-encrypt-sort-and-print-array\obj\Debug\netcoreapp2.0\11-encrypt-sort-and-print-array.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\11-encrypt-sort-and-print-array\obj\Debug\netcoreapp2.0\11-encrypt-sort-and-print-array.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\11-encrypt-sort-and-print-array\obj\Debug\netcoreapp2.0\11-encrypt-sort-and-print-array.pdb

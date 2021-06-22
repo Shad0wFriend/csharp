@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\lectures-lists\06-list-manipulation-basics\bin\Debug\netcoreapp2.0\06-list-manipulation-basics.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\lectures-lists\06-list-manipulation-basics\bin\Debug\netcoreapp2.0\06-list-manipulation-basics.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\lectures-lists\06-list-manipulation-basics\bin\Debug\netcoreapp2.0\06-list-manipulation-basics.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\lectures-lists\06-list-manipulation-basics\bin\Debug\netcoreapp2.0\06-list-manipulation-basics.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\lectures-lists\06-list-manipulation-basics\bin\Debug\netcoreapp2.0\06-list-manipulation-basics.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\lectures-lists\06-list-manipulation-basics\obj\Debug\netcoreapp2.0\06-list-manipulation-basics.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\lectures-lists\06-list-manipulation-basics\obj\Debug\netcoreapp2.0\06-list-manipulation-basics.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\lectures-lists\06-list-manipulation-basics\obj\Debug\netcoreapp2.0\06-list-manipulation-basics.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\lectures-lists\06-list-manipulation-basics\obj\Debug\netcoreapp2.0\06-list-manipulation-basics.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\lectures-lists\06-list-manipulation-basics\obj\Debug\netcoreapp2.0\06-list-manipulation-basics.pdb

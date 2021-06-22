@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\08-triangle-of-numbers\bin\Debug\netcoreapp2.0\08-triangle-of-numbers.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\08-triangle-of-numbers\bin\Debug\netcoreapp2.0\08-triangle-of-numbers.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\08-triangle-of-numbers\bin\Debug\netcoreapp2.0\08-triangle-of-numbers.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\08-triangle-of-numbers\bin\Debug\netcoreapp2.0\08-triangle-of-numbers.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\08-triangle-of-numbers\bin\Debug\netcoreapp2.0\08-triangle-of-numbers.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\08-triangle-of-numbers\obj\Debug\netcoreapp2.0\08-triangle-of-numbers.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\08-triangle-of-numbers\obj\Debug\netcoreapp2.0\08-triangle-of-numbers.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\08-triangle-of-numbers\obj\Debug\netcoreapp2.0\08-triangle-of-numbers.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\08-triangle-of-numbers\obj\Debug\netcoreapp2.0\08-triangle-of-numbers.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\08-triangle-of-numbers\obj\Debug\netcoreapp2.0\08-triangle-of-numbers.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\08-triangle-of-numbers\obj\Debug\netcoreapp2.0\08-triangle-of-numbers.pdb

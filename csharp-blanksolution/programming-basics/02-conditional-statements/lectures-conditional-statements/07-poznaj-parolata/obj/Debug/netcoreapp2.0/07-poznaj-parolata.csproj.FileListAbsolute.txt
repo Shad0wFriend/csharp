@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\07-poznaj-parolata\bin\Debug\netcoreapp2.0\07-poznaj-parolata.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\07-poznaj-parolata\bin\Debug\netcoreapp2.0\07-poznaj-parolata.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\07-poznaj-parolata\bin\Debug\netcoreapp2.0\07-poznaj-parolata.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\07-poznaj-parolata\bin\Debug\netcoreapp2.0\07-poznaj-parolata.dll
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\07-poznaj-parolata\bin\Debug\netcoreapp2.0\07-poznaj-parolata.pdb
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\07-poznaj-parolata\obj\Debug\netcoreapp2.0\07-poznaj-parolata.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\07-poznaj-parolata\obj\Debug\netcoreapp2.0\07-poznaj-parolata.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\07-poznaj-parolata\obj\Debug\netcoreapp2.0\07-poznaj-parolata.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\07-poznaj-parolata\obj\Debug\netcoreapp2.0\07-poznaj-parolata.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\07-poznaj-parolata\obj\Debug\netcoreapp2.0\07-poznaj-parolata.dll
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\07-poznaj-parolata\obj\Debug\netcoreapp2.0\07-poznaj-parolata.pdb

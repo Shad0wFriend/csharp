@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\05-ednakvi-sumi-na-levi-i-desni-pozicii\bin\Debug\netcoreapp2.0\05-ednakvi-sumi-na-levi-i-desni-pozicii.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\05-ednakvi-sumi-na-levi-i-desni-pozicii\bin\Debug\netcoreapp2.0\05-ednakvi-sumi-na-levi-i-desni-pozicii.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\05-ednakvi-sumi-na-levi-i-desni-pozicii\bin\Debug\netcoreapp2.0\05-ednakvi-sumi-na-levi-i-desni-pozicii.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\05-ednakvi-sumi-na-levi-i-desni-pozicii\bin\Debug\netcoreapp2.0\05-ednakvi-sumi-na-levi-i-desni-pozicii.dll
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\05-ednakvi-sumi-na-levi-i-desni-pozicii\bin\Debug\netcoreapp2.0\05-ednakvi-sumi-na-levi-i-desni-pozicii.pdb
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\05-ednakvi-sumi-na-levi-i-desni-pozicii\obj\Debug\netcoreapp2.0\05-ednakvi-sumi-na-levi-i-desni-pozicii.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\05-ednakvi-sumi-na-levi-i-desni-pozicii\obj\Debug\netcoreapp2.0\05-ednakvi-sumi-na-levi-i-desni-pozicii.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\05-ednakvi-sumi-na-levi-i-desni-pozicii\obj\Debug\netcoreapp2.0\05-ednakvi-sumi-na-levi-i-desni-pozicii.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\05-ednakvi-sumi-na-levi-i-desni-pozicii\obj\Debug\netcoreapp2.0\05-ednakvi-sumi-na-levi-i-desni-pozicii.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\05-ednakvi-sumi-na-levi-i-desni-pozicii\obj\Debug\netcoreapp2.0\05-ednakvi-sumi-na-levi-i-desni-pozicii.dll
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\05-ednakvi-sumi-na-levi-i-desni-pozicii\obj\Debug\netcoreapp2.0\05-ednakvi-sumi-na-levi-i-desni-pozicii.pdb

@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\02-ot-radiani-v-gradusi\bin\Debug\netcoreapp2.0\02-ot-radiani-v-gradusi.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\02-ot-radiani-v-gradusi\bin\Debug\netcoreapp2.0\02-ot-radiani-v-gradusi.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\02-ot-radiani-v-gradusi\bin\Debug\netcoreapp2.0\02-ot-radiani-v-gradusi.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\02-ot-radiani-v-gradusi\bin\Debug\netcoreapp2.0\02-ot-radiani-v-gradusi.dll
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\02-ot-radiani-v-gradusi\bin\Debug\netcoreapp2.0\02-ot-radiani-v-gradusi.pdb
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\02-ot-radiani-v-gradusi\obj\Debug\netcoreapp2.0\02-ot-radiani-v-gradusi.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\02-ot-radiani-v-gradusi\obj\Debug\netcoreapp2.0\02-ot-radiani-v-gradusi.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\02-ot-radiani-v-gradusi\obj\Debug\netcoreapp2.0\02-ot-radiani-v-gradusi.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\02-ot-radiani-v-gradusi\obj\Debug\netcoreapp2.0\02-ot-radiani-v-gradusi.dll
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\02-ot-radiani-v-gradusi\obj\Debug\netcoreapp2.0\02-ot-radiani-v-gradusi.pdb

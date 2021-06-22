@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\07-theatre-promotions\bin\Debug\netcoreapp2.0\07-theatre-promotions.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\07-theatre-promotions\bin\Debug\netcoreapp2.0\07-theatre-promotions.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\07-theatre-promotions\bin\Debug\netcoreapp2.0\07-theatre-promotions.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\07-theatre-promotions\bin\Debug\netcoreapp2.0\07-theatre-promotions.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\07-theatre-promotions\bin\Debug\netcoreapp2.0\07-theatre-promotions.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\07-theatre-promotions\obj\Debug\netcoreapp2.0\07-theatre-promotions.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\07-theatre-promotions\obj\Debug\netcoreapp2.0\07-theatre-promotions.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\07-theatre-promotions\obj\Debug\netcoreapp2.0\07-theatre-promotions.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\07-theatre-promotions\obj\Debug\netcoreapp2.0\07-theatre-promotions.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\07-theatre-promotions\obj\Debug\netcoreapp2.0\07-theatre-promotions.pdb

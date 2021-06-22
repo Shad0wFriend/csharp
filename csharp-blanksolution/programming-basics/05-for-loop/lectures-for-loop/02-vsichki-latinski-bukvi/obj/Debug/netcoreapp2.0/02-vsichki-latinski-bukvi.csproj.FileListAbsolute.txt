@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\02-vsichki-latinski-bukvi\bin\Debug\netcoreapp2.0\02-vsichki-latinski-bukvi.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\02-vsichki-latinski-bukvi\bin\Debug\netcoreapp2.0\02-vsichki-latinski-bukvi.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\02-vsichki-latinski-bukvi\bin\Debug\netcoreapp2.0\02-vsichki-latinski-bukvi.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\02-vsichki-latinski-bukvi\bin\Debug\netcoreapp2.0\02-vsichki-latinski-bukvi.dll
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\02-vsichki-latinski-bukvi\bin\Debug\netcoreapp2.0\02-vsichki-latinski-bukvi.pdb
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\02-vsichki-latinski-bukvi\obj\Debug\netcoreapp2.0\02-vsichki-latinski-bukvi.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\02-vsichki-latinski-bukvi\obj\Debug\netcoreapp2.0\02-vsichki-latinski-bukvi.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\02-vsichki-latinski-bukvi\obj\Debug\netcoreapp2.0\02-vsichki-latinski-bukvi.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\02-vsichki-latinski-bukvi\obj\Debug\netcoreapp2.0\02-vsichki-latinski-bukvi.dll
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\02-vsichki-latinski-bukvi\obj\Debug\netcoreapp2.0\02-vsichki-latinski-bukvi.pdb

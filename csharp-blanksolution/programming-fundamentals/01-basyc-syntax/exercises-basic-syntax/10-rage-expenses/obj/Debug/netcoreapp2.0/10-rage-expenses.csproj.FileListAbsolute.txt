@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\10-rage-expenses\bin\Debug\netcoreapp2.0\10-rage-expenses.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\10-rage-expenses\bin\Debug\netcoreapp2.0\10-rage-expenses.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\10-rage-expenses\bin\Debug\netcoreapp2.0\10-rage-expenses.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\10-rage-expenses\bin\Debug\netcoreapp2.0\10-rage-expenses.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\10-rage-expenses\bin\Debug\netcoreapp2.0\10-rage-expenses.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\10-rage-expenses\obj\Debug\netcoreapp2.0\10-rage-expenses.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\10-rage-expenses\obj\Debug\netcoreapp2.0\10-rage-expenses.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\10-rage-expenses\obj\Debug\netcoreapp2.0\10-rage-expenses.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\10-rage-expenses\obj\Debug\netcoreapp2.0\10-rage-expenses.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\10-rage-expenses\obj\Debug\netcoreapp2.0\10-rage-expenses.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\10-rage-expenses\obj\Debug\netcoreapp2.0\10-rage-expenses.pdb

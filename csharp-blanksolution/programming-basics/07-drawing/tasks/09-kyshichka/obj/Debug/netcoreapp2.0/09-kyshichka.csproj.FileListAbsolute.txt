@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\09-kyshichka\bin\Debug\netcoreapp2.0\09-kyshichka.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\09-kyshichka\bin\Debug\netcoreapp2.0\09-kyshichka.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\09-kyshichka\bin\Debug\netcoreapp2.0\09-kyshichka.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\09-kyshichka\bin\Debug\netcoreapp2.0\09-kyshichka.dll
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\09-kyshichka\bin\Debug\netcoreapp2.0\09-kyshichka.pdb
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\09-kyshichka\obj\Debug\netcoreapp2.0\09-kyshichka.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\09-kyshichka\obj\Debug\netcoreapp2.0\09-kyshichka.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\09-kyshichka\obj\Debug\netcoreapp2.0\09-kyshichka.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\09-kyshichka\obj\Debug\netcoreapp2.0\09-kyshichka.dll
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\09-kyshichka\obj\Debug\netcoreapp2.0\09-kyshichka.pdb

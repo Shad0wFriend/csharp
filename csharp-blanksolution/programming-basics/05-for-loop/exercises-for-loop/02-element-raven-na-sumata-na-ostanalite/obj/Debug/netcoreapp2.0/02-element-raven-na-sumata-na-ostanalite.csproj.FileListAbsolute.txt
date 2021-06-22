@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\exercises-for-loop\02-element-raven-na-sumata-na-ostanalite\bin\Debug\netcoreapp2.0\02-element-raven-na-sumata-na-ostanalite.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\exercises-for-loop\02-element-raven-na-sumata-na-ostanalite\bin\Debug\netcoreapp2.0\02-element-raven-na-sumata-na-ostanalite.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\exercises-for-loop\02-element-raven-na-sumata-na-ostanalite\bin\Debug\netcoreapp2.0\02-element-raven-na-sumata-na-ostanalite.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\exercises-for-loop\02-element-raven-na-sumata-na-ostanalite\bin\Debug\netcoreapp2.0\02-element-raven-na-sumata-na-ostanalite.dll
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\exercises-for-loop\02-element-raven-na-sumata-na-ostanalite\bin\Debug\netcoreapp2.0\02-element-raven-na-sumata-na-ostanalite.pdb
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\exercises-for-loop\02-element-raven-na-sumata-na-ostanalite\obj\Debug\netcoreapp2.0\02-element-raven-na-sumata-na-ostanalite.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\exercises-for-loop\02-element-raven-na-sumata-na-ostanalite\obj\Debug\netcoreapp2.0\02-element-raven-na-sumata-na-ostanalite.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\exercises-for-loop\02-element-raven-na-sumata-na-ostanalite\obj\Debug\netcoreapp2.0\02-element-raven-na-sumata-na-ostanalite.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\exercises-for-loop\02-element-raven-na-sumata-na-ostanalite\obj\Debug\netcoreapp2.0\02-element-raven-na-sumata-na-ostanalite.dll
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\exercises-for-loop\02-element-raven-na-sumata-na-ostanalite\obj\Debug\netcoreapp2.0\02-element-raven-na-sumata-na-ostanalite.pdb

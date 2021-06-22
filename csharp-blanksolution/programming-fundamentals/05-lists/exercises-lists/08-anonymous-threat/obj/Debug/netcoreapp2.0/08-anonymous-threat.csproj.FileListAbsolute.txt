@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\08-anonymous-threat\bin\Debug\netcoreapp2.0\08-anonymous-threat.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\08-anonymous-threat\bin\Debug\netcoreapp2.0\08-anonymous-threat.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\08-anonymous-threat\bin\Debug\netcoreapp2.0\08-anonymous-threat.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\08-anonymous-threat\bin\Debug\netcoreapp2.0\08-anonymous-threat.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\08-anonymous-threat\bin\Debug\netcoreapp2.0\08-anonymous-threat.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\08-anonymous-threat\obj\Debug\netcoreapp2.0\08-anonymous-threat.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\08-anonymous-threat\obj\Debug\netcoreapp2.0\08-anonymous-threat.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\08-anonymous-threat\obj\Debug\netcoreapp2.0\08-anonymous-threat.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\08-anonymous-threat\obj\Debug\netcoreapp2.0\08-anonymous-threat.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\08-anonymous-threat\obj\Debug\netcoreapp2.0\08-anonymous-threat.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\08-anonymous-threat\obj\Debug\netcoreapp2.0\08-anonymous-threat.pdb

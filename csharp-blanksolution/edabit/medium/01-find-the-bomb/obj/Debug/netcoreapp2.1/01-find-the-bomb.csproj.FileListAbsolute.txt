@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\edabit\medium\01-find-the-bomb\bin\Debug\netcoreapp2.1\01-find-the-bomb.deps.json
+E:\csharp\csharp-blanksolution\edabit\medium\01-find-the-bomb\bin\Debug\netcoreapp2.1\01-find-the-bomb.runtimeconfig.json
+E:\csharp\csharp-blanksolution\edabit\medium\01-find-the-bomb\bin\Debug\netcoreapp2.1\01-find-the-bomb.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\edabit\medium\01-find-the-bomb\bin\Debug\netcoreapp2.1\01-find-the-bomb.dll
+E:\csharp\csharp-blanksolution\edabit\medium\01-find-the-bomb\bin\Debug\netcoreapp2.1\01-find-the-bomb.pdb
+E:\csharp\csharp-blanksolution\edabit\medium\01-find-the-bomb\obj\Debug\netcoreapp2.1\01-find-the-bomb.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\edabit\medium\01-find-the-bomb\obj\Debug\netcoreapp2.1\01-find-the-bomb.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\edabit\medium\01-find-the-bomb\obj\Debug\netcoreapp2.1\01-find-the-bomb.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\edabit\medium\01-find-the-bomb\obj\Debug\netcoreapp2.1\01-find-the-bomb.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\edabit\medium\01-find-the-bomb\obj\Debug\netcoreapp2.1\01-find-the-bomb.dll
+E:\csharp\csharp-blanksolution\edabit\medium\01-find-the-bomb\obj\Debug\netcoreapp2.1\01-find-the-bomb.pdb

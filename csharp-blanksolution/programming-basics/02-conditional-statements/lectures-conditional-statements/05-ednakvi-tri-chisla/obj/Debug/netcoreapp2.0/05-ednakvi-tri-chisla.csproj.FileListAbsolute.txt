@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\05-ednakvi-tri-chisla\bin\Debug\netcoreapp2.0\05-ednakvi-tri-chisla.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\05-ednakvi-tri-chisla\bin\Debug\netcoreapp2.0\05-ednakvi-tri-chisla.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\05-ednakvi-tri-chisla\bin\Debug\netcoreapp2.0\05-ednakvi-tri-chisla.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\05-ednakvi-tri-chisla\bin\Debug\netcoreapp2.0\05-ednakvi-tri-chisla.dll
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\05-ednakvi-tri-chisla\bin\Debug\netcoreapp2.0\05-ednakvi-tri-chisla.pdb
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\05-ednakvi-tri-chisla\obj\Debug\netcoreapp2.0\05-ednakvi-tri-chisla.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\05-ednakvi-tri-chisla\obj\Debug\netcoreapp2.0\05-ednakvi-tri-chisla.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\05-ednakvi-tri-chisla\obj\Debug\netcoreapp2.0\05-ednakvi-tri-chisla.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\05-ednakvi-tri-chisla\obj\Debug\netcoreapp2.0\05-ednakvi-tri-chisla.dll
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\05-ednakvi-tri-chisla\obj\Debug\netcoreapp2.0\05-ednakvi-tri-chisla.pdb

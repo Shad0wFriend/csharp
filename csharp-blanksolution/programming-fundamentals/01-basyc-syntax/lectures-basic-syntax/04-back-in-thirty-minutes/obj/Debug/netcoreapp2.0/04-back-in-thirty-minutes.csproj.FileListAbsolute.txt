@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\04-back-in-thirty-minutes\bin\Debug\netcoreapp2.0\04-back-in-thirty-minutes.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\04-back-in-thirty-minutes\bin\Debug\netcoreapp2.0\04-back-in-thirty-minutes.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\04-back-in-thirty-minutes\bin\Debug\netcoreapp2.0\04-back-in-thirty-minutes.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\04-back-in-thirty-minutes\bin\Debug\netcoreapp2.0\04-back-in-thirty-minutes.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\04-back-in-thirty-minutes\bin\Debug\netcoreapp2.0\04-back-in-thirty-minutes.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\04-back-in-thirty-minutes\obj\Debug\netcoreapp2.0\04-back-in-thirty-minutes.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\04-back-in-thirty-minutes\obj\Debug\netcoreapp2.0\04-back-in-thirty-minutes.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\04-back-in-thirty-minutes\obj\Debug\netcoreapp2.0\04-back-in-thirty-minutes.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\04-back-in-thirty-minutes\obj\Debug\netcoreapp2.0\04-back-in-thirty-minutes.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\04-back-in-thirty-minutes\obj\Debug\netcoreapp2.0\04-back-in-thirty-minutes.pdb

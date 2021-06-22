@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\06-redica-celi-chisla\bin\Debug\netcoreapp2.0\06-redica-celi-chisla.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\06-redica-celi-chisla\bin\Debug\netcoreapp2.0\06-redica-celi-chisla.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\06-redica-celi-chisla\bin\Debug\netcoreapp2.0\06-redica-celi-chisla.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\06-redica-celi-chisla\bin\Debug\netcoreapp2.0\06-redica-celi-chisla.dll
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\06-redica-celi-chisla\bin\Debug\netcoreapp2.0\06-redica-celi-chisla.pdb
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\06-redica-celi-chisla\obj\Debug\netcoreapp2.0\06-redica-celi-chisla.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\06-redica-celi-chisla\obj\Debug\netcoreapp2.0\06-redica-celi-chisla.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\06-redica-celi-chisla\obj\Debug\netcoreapp2.0\06-redica-celi-chisla.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\06-redica-celi-chisla\obj\Debug\netcoreapp2.0\06-redica-celi-chisla.dll
+E:\csharp\csharp-blanksolution\programming-basics\05-for-loop\lectures-for-loop\06-redica-celi-chisla\obj\Debug\netcoreapp2.0\06-redica-celi-chisla.pdb

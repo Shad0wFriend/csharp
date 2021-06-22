@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\01-integer-operations\bin\Debug\netcoreapp2.0\01-integer-operations.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\01-integer-operations\bin\Debug\netcoreapp2.0\01-integer-operations.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\01-integer-operations\bin\Debug\netcoreapp2.0\01-integer-operations.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\01-integer-operations\bin\Debug\netcoreapp2.0\01-integer-operations.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\01-integer-operations\bin\Debug\netcoreapp2.0\01-integer-operations.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\01-integer-operations\obj\Debug\netcoreapp2.0\01-integer-operations.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\01-integer-operations\obj\Debug\netcoreapp2.0\01-integer-operations.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\01-integer-operations\obj\Debug\netcoreapp2.0\01-integer-operations.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\01-integer-operations\obj\Debug\netcoreapp2.0\01-integer-operations.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\01-integer-operations\obj\Debug\netcoreapp2.0\01-integer-operations.pdb

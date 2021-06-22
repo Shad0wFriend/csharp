@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\edabit\medium\02-array-of-multiples\obj\Debug\netcoreapp2.1\02-array-of-multiples.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\edabit\medium\02-array-of-multiples\obj\Debug\netcoreapp2.1\02-array-of-multiples.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\edabit\medium\02-array-of-multiples\obj\Debug\netcoreapp2.1\02-array-of-multiples.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\edabit\medium\02-array-of-multiples\obj\Debug\netcoreapp2.1\02-array-of-multiples.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\edabit\medium\02-array-of-multiples\bin\Debug\netcoreapp2.1\02-array-of-multiples.deps.json
+E:\csharp\csharp-blanksolution\edabit\medium\02-array-of-multiples\bin\Debug\netcoreapp2.1\02-array-of-multiples.runtimeconfig.json
+E:\csharp\csharp-blanksolution\edabit\medium\02-array-of-multiples\bin\Debug\netcoreapp2.1\02-array-of-multiples.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\edabit\medium\02-array-of-multiples\bin\Debug\netcoreapp2.1\02-array-of-multiples.dll
+E:\csharp\csharp-blanksolution\edabit\medium\02-array-of-multiples\bin\Debug\netcoreapp2.1\02-array-of-multiples.pdb
+E:\csharp\csharp-blanksolution\edabit\medium\02-array-of-multiples\obj\Debug\netcoreapp2.1\02-array-of-multiples.dll
+E:\csharp\csharp-blanksolution\edabit\medium\02-array-of-multiples\obj\Debug\netcoreapp2.1\02-array-of-multiples.pdb

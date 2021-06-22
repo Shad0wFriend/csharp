@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\04-vojna-na-imena\bin\Debug\netcoreapp2.0\04-vojna-na-imena.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\04-vojna-na-imena\bin\Debug\netcoreapp2.0\04-vojna-na-imena.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\04-vojna-na-imena\bin\Debug\netcoreapp2.0\04-vojna-na-imena.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\04-vojna-na-imena\bin\Debug\netcoreapp2.0\04-vojna-na-imena.dll
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\04-vojna-na-imena\bin\Debug\netcoreapp2.0\04-vojna-na-imena.pdb
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\04-vojna-na-imena\obj\Debug\netcoreapp2.0\04-vojna-na-imena.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\04-vojna-na-imena\obj\Debug\netcoreapp2.0\04-vojna-na-imena.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\04-vojna-na-imena\obj\Debug\netcoreapp2.0\04-vojna-na-imena.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\04-vojna-na-imena\obj\Debug\netcoreapp2.0\04-vojna-na-imena.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\04-vojna-na-imena\obj\Debug\netcoreapp2.0\04-vojna-na-imena.dll
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\04-vojna-na-imena\obj\Debug\netcoreapp2.0\04-vojna-na-imena.pdb

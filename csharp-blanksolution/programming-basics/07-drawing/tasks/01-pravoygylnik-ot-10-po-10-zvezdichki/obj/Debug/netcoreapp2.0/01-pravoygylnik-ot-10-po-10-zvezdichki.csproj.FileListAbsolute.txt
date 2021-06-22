@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\01-pravoygylnik-ot-10-po-10-zvezdichki\bin\Debug\netcoreapp2.0\01-pravoygylnik-ot-10-po-10-zvezdichki.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\01-pravoygylnik-ot-10-po-10-zvezdichki\bin\Debug\netcoreapp2.0\01-pravoygylnik-ot-10-po-10-zvezdichki.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\01-pravoygylnik-ot-10-po-10-zvezdichki\bin\Debug\netcoreapp2.0\01-pravoygylnik-ot-10-po-10-zvezdichki.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\01-pravoygylnik-ot-10-po-10-zvezdichki\bin\Debug\netcoreapp2.0\01-pravoygylnik-ot-10-po-10-zvezdichki.dll
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\01-pravoygylnik-ot-10-po-10-zvezdichki\bin\Debug\netcoreapp2.0\01-pravoygylnik-ot-10-po-10-zvezdichki.pdb
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\01-pravoygylnik-ot-10-po-10-zvezdichki\obj\Debug\netcoreapp2.0\01-pravoygylnik-ot-10-po-10-zvezdichki.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\01-pravoygylnik-ot-10-po-10-zvezdichki\obj\Debug\netcoreapp2.0\01-pravoygylnik-ot-10-po-10-zvezdichki.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\01-pravoygylnik-ot-10-po-10-zvezdichki\obj\Debug\netcoreapp2.0\01-pravoygylnik-ot-10-po-10-zvezdichki.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\01-pravoygylnik-ot-10-po-10-zvezdichki\obj\Debug\netcoreapp2.0\01-pravoygylnik-ot-10-po-10-zvezdichki.dll
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\01-pravoygylnik-ot-10-po-10-zvezdichki\obj\Debug\netcoreapp2.0\01-pravoygylnik-ot-10-po-10-zvezdichki.pdb

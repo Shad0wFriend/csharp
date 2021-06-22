@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\08-izlet\bin\Debug\netcoreapp2.0\08-izlet.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\08-izlet\bin\Debug\netcoreapp2.0\08-izlet.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\08-izlet\bin\Debug\netcoreapp2.0\08-izlet.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\08-izlet\bin\Debug\netcoreapp2.0\08-izlet.dll
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\08-izlet\bin\Debug\netcoreapp2.0\08-izlet.pdb
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\08-izlet\obj\Debug\netcoreapp2.0\08-izlet.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\08-izlet\obj\Debug\netcoreapp2.0\08-izlet.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\08-izlet\obj\Debug\netcoreapp2.0\08-izlet.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\08-izlet\obj\Debug\netcoreapp2.0\08-izlet.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\08-izlet\obj\Debug\netcoreapp2.0\08-izlet.dll
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\08-izlet\obj\Debug\netcoreapp2.0\08-izlet.pdb

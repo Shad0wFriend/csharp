@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\11-sort-numbers\bin\Debug\netcoreapp2.0\11-sort-numbers.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\11-sort-numbers\bin\Debug\netcoreapp2.0\11-sort-numbers.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\11-sort-numbers\bin\Debug\netcoreapp2.0\11-sort-numbers.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\11-sort-numbers\bin\Debug\netcoreapp2.0\11-sort-numbers.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\11-sort-numbers\bin\Debug\netcoreapp2.0\11-sort-numbers.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\11-sort-numbers\obj\Debug\netcoreapp2.0\11-sort-numbers.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\11-sort-numbers\obj\Debug\netcoreapp2.0\11-sort-numbers.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\11-sort-numbers\obj\Debug\netcoreapp2.0\11-sort-numbers.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\11-sort-numbers\obj\Debug\netcoreapp2.0\11-sort-numbers.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\11-sort-numbers\obj\Debug\netcoreapp2.0\11-sort-numbers.pdb

@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\07-vending-machine\bin\Debug\netcoreapp2.0\07-vending-machine.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\07-vending-machine\bin\Debug\netcoreapp2.0\07-vending-machine.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\07-vending-machine\bin\Debug\netcoreapp2.0\07-vending-machine.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\07-vending-machine\bin\Debug\netcoreapp2.0\07-vending-machine.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\07-vending-machine\bin\Debug\netcoreapp2.0\07-vending-machine.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\07-vending-machine\obj\Debug\netcoreapp2.0\07-vending-machine.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\07-vending-machine\obj\Debug\netcoreapp2.0\07-vending-machine.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\07-vending-machine\obj\Debug\netcoreapp2.0\07-vending-machine.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\07-vending-machine\obj\Debug\netcoreapp2.0\07-vending-machine.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\07-vending-machine\obj\Debug\netcoreapp2.0\07-vending-machine.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\07-vending-machine\obj\Debug\netcoreapp2.0\07-vending-machine.pdb

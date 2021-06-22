@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\12-even-number\bin\Debug\netcoreapp2.0\12-even-number.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\12-even-number\bin\Debug\netcoreapp2.0\12-even-number.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\12-even-number\bin\Debug\netcoreapp2.0\12-even-number.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\12-even-number\bin\Debug\netcoreapp2.0\12-even-number.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\12-even-number\bin\Debug\netcoreapp2.0\12-even-number.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\12-even-number\obj\Debug\netcoreapp2.0\12-even-number.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\12-even-number\obj\Debug\netcoreapp2.0\12-even-number.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\12-even-number\obj\Debug\netcoreapp2.0\12-even-number.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\12-even-number\obj\Debug\netcoreapp2.0\12-even-number.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\12-even-number\obj\Debug\netcoreapp2.0\12-even-number.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\12-even-number\obj\Debug\netcoreapp2.0\12-even-number.pdb

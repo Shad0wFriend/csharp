@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\06-solution-students-secon\bin\Debug\netcoreapp2.0\06-solution-students-secon.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\06-solution-students-secon\bin\Debug\netcoreapp2.0\06-solution-students-secon.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\06-solution-students-secon\bin\Debug\netcoreapp2.0\06-solution-students-secon.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\06-solution-students-secon\bin\Debug\netcoreapp2.0\06-solution-students-secon.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\06-solution-students-secon\bin\Debug\netcoreapp2.0\06-solution-students-secon.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\06-solution-students-secon\obj\Debug\netcoreapp2.0\06-solution-students-secon.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\06-solution-students-secon\obj\Debug\netcoreapp2.0\06-solution-students-secon.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\06-solution-students-secon\obj\Debug\netcoreapp2.0\06-solution-students-secon.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\06-solution-students-secon\obj\Debug\netcoreapp2.0\06-solution-students-secon.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\06-solution-students-secon\obj\Debug\netcoreapp2.0\06-solution-students-secon.pdb

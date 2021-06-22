@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\10-lower-to-upper\bin\Debug\netcoreapp2.0\10-lower-to-upper.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\10-lower-to-upper\bin\Debug\netcoreapp2.0\10-lower-to-upper.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\10-lower-to-upper\bin\Debug\netcoreapp2.0\10-lower-to-upper.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\10-lower-to-upper\bin\Debug\netcoreapp2.0\10-lower-to-upper.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\10-lower-to-upper\bin\Debug\netcoreapp2.0\10-lower-to-upper.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\10-lower-to-upper\obj\Debug\netcoreapp2.0\10-lower-to-upper.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\10-lower-to-upper\obj\Debug\netcoreapp2.0\10-lower-to-upper.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\10-lower-to-upper\obj\Debug\netcoreapp2.0\10-lower-to-upper.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\10-lower-to-upper\obj\Debug\netcoreapp2.0\10-lower-to-upper.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\10-lower-to-upper\obj\Debug\netcoreapp2.0\10-lower-to-upper.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\10-lower-to-upper\obj\Debug\netcoreapp2.0\10-lower-to-upper.pdb

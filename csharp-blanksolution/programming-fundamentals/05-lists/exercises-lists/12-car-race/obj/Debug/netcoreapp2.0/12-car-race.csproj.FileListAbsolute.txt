@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\12-car-race\bin\Debug\netcoreapp2.0\12-car-race.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\12-car-race\bin\Debug\netcoreapp2.0\12-car-race.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\12-car-race\bin\Debug\netcoreapp2.0\12-car-race.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\12-car-race\bin\Debug\netcoreapp2.0\12-car-race.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\12-car-race\bin\Debug\netcoreapp2.0\12-car-race.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\12-car-race\obj\Debug\netcoreapp2.0\12-car-race.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\12-car-race\obj\Debug\netcoreapp2.0\12-car-race.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\12-car-race\obj\Debug\netcoreapp2.0\12-car-race.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\12-car-race\obj\Debug\netcoreapp2.0\12-car-race.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\05-lists\exercises-lists\12-car-race\obj\Debug\netcoreapp2.0\12-car-race.pdb

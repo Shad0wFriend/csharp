@@ -9,3 +9,13 @@ D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-
 D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\10-poke-mon\obj\Debug\netcoreapp2.0\10-poke-mon.AssemblyInfo.cs
 D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\10-poke-mon\obj\Debug\netcoreapp2.0\10-poke-mon.dll
 D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\10-poke-mon\obj\Debug\netcoreapp2.0\10-poke-mon.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\10-poke-mon\bin\Debug\netcoreapp2.0\10-poke-mon.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\10-poke-mon\bin\Debug\netcoreapp2.0\10-poke-mon.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\10-poke-mon\bin\Debug\netcoreapp2.0\10-poke-mon.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\10-poke-mon\bin\Debug\netcoreapp2.0\10-poke-mon.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\10-poke-mon\bin\Debug\netcoreapp2.0\10-poke-mon.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\10-poke-mon\obj\Debug\netcoreapp2.0\10-poke-mon.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\10-poke-mon\obj\Debug\netcoreapp2.0\10-poke-mon.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\10-poke-mon\obj\Debug\netcoreapp2.0\10-poke-mon.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\10-poke-mon\obj\Debug\netcoreapp2.0\10-poke-mon.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\10-poke-mon\obj\Debug\netcoreapp2.0\10-poke-mon.pdb

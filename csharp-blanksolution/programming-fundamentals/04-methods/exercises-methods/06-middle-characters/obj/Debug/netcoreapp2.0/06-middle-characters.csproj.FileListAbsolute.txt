@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\06-middle-characters\bin\Debug\netcoreapp2.0\06-middle-characters.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\06-middle-characters\bin\Debug\netcoreapp2.0\06-middle-characters.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\06-middle-characters\bin\Debug\netcoreapp2.0\06-middle-characters.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\06-middle-characters\bin\Debug\netcoreapp2.0\06-middle-characters.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\06-middle-characters\bin\Debug\netcoreapp2.0\06-middle-characters.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\06-middle-characters\obj\Debug\netcoreapp2.0\06-middle-characters.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\06-middle-characters\obj\Debug\netcoreapp2.0\06-middle-characters.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\06-middle-characters\obj\Debug\netcoreapp2.0\06-middle-characters.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\06-middle-characters\obj\Debug\netcoreapp2.0\06-middle-characters.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\06-middle-characters\obj\Debug\netcoreapp2.0\06-middle-characters.pdb

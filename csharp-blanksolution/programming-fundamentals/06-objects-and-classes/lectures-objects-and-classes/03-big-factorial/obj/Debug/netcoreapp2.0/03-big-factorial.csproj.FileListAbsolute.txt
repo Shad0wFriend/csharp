@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\03-big-factorial\bin\Debug\netcoreapp2.0\03-big-factorial.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\03-big-factorial\bin\Debug\netcoreapp2.0\03-big-factorial.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\03-big-factorial\bin\Debug\netcoreapp2.0\03-big-factorial.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\03-big-factorial\bin\Debug\netcoreapp2.0\03-big-factorial.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\03-big-factorial\bin\Debug\netcoreapp2.0\03-big-factorial.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\03-big-factorial\obj\Debug\netcoreapp2.0\03-big-factorial.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\03-big-factorial\obj\Debug\netcoreapp2.0\03-big-factorial.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\03-big-factorial\obj\Debug\netcoreapp2.0\03-big-factorial.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\03-big-factorial\obj\Debug\netcoreapp2.0\03-big-factorial.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\06-objects-and-classes\lectures-objects-and-classes\03-big-factorial\obj\Debug\netcoreapp2.0\03-big-factorial.pdb

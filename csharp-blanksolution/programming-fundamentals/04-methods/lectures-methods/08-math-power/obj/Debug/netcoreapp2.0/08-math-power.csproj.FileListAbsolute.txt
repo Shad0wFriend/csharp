@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\08-math-power\bin\Debug\netcoreapp2.0\08-math-power.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\08-math-power\bin\Debug\netcoreapp2.0\08-math-power.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\08-math-power\bin\Debug\netcoreapp2.0\08-math-power.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\08-math-power\bin\Debug\netcoreapp2.0\08-math-power.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\08-math-power\bin\Debug\netcoreapp2.0\08-math-power.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\08-math-power\obj\Debug\netcoreapp2.0\08-math-power.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\08-math-power\obj\Debug\netcoreapp2.0\08-math-power.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\08-math-power\obj\Debug\netcoreapp2.0\08-math-power.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\08-math-power\obj\Debug\netcoreapp2.0\08-math-power.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\08-math-power\obj\Debug\netcoreapp2.0\08-math-power.pdb

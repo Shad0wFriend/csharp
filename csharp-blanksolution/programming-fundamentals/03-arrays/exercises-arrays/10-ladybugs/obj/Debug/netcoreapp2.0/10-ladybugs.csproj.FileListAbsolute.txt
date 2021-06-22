@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\10-ladybugs\bin\Debug\netcoreapp2.0\10-ladybugs.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\10-ladybugs\bin\Debug\netcoreapp2.0\10-ladybugs.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\10-ladybugs\bin\Debug\netcoreapp2.0\10-ladybugs.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\10-ladybugs\bin\Debug\netcoreapp2.0\10-ladybugs.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\10-ladybugs\bin\Debug\netcoreapp2.0\10-ladybugs.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\10-ladybugs\obj\Debug\netcoreapp2.0\10-ladybugs.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\10-ladybugs\obj\Debug\netcoreapp2.0\10-ladybugs.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\10-ladybugs\obj\Debug\netcoreapp2.0\10-ladybugs.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\10-ladybugs\obj\Debug\netcoreapp2.0\10-ladybugs.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\10-ladybugs\obj\Debug\netcoreapp2.0\10-ladybugs.pdb

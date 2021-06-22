@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\13-center-point\bin\Debug\netcoreapp2.0\13-center-point.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\13-center-point\bin\Debug\netcoreapp2.0\13-center-point.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\13-center-point\bin\Debug\netcoreapp2.0\13-center-point.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\13-center-point\bin\Debug\netcoreapp2.0\13-center-point.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\13-center-point\bin\Debug\netcoreapp2.0\13-center-point.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\13-center-point\obj\Debug\netcoreapp2.0\13-center-point.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\13-center-point\obj\Debug\netcoreapp2.0\13-center-point.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\13-center-point\obj\Debug\netcoreapp2.0\13-center-point.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\13-center-point\obj\Debug\netcoreapp2.0\13-center-point.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\13-center-point\obj\Debug\netcoreapp2.0\13-center-point.pdb

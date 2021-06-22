@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\16-multiplication-sign\bin\Debug\netcoreapp2.0\16-multiplication-sign.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\16-multiplication-sign\bin\Debug\netcoreapp2.0\16-multiplication-sign.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\16-multiplication-sign\bin\Debug\netcoreapp2.0\16-multiplication-sign.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\16-multiplication-sign\bin\Debug\netcoreapp2.0\16-multiplication-sign.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\16-multiplication-sign\bin\Debug\netcoreapp2.0\16-multiplication-sign.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\16-multiplication-sign\obj\Debug\netcoreapp2.0\16-multiplication-sign.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\16-multiplication-sign\obj\Debug\netcoreapp2.0\16-multiplication-sign.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\16-multiplication-sign\obj\Debug\netcoreapp2.0\16-multiplication-sign.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\16-multiplication-sign\obj\Debug\netcoreapp2.0\16-multiplication-sign.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\exercises-methods\16-multiplication-sign\obj\Debug\netcoreapp2.0\16-multiplication-sign.pdb

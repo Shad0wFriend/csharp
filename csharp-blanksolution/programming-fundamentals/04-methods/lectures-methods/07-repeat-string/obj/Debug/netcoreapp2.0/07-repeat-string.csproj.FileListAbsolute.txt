@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\07-repeat-string\bin\Debug\netcoreapp2.0\07-repeat-string.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\07-repeat-string\bin\Debug\netcoreapp2.0\07-repeat-string.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\07-repeat-string\bin\Debug\netcoreapp2.0\07-repeat-string.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\07-repeat-string\bin\Debug\netcoreapp2.0\07-repeat-string.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\07-repeat-string\bin\Debug\netcoreapp2.0\07-repeat-string.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\07-repeat-string\obj\Debug\netcoreapp2.0\07-repeat-string.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\07-repeat-string\obj\Debug\netcoreapp2.0\07-repeat-string.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\07-repeat-string\obj\Debug\netcoreapp2.0\07-repeat-string.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\07-repeat-string\obj\Debug\netcoreapp2.0\07-repeat-string.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\07-repeat-string\obj\Debug\netcoreapp2.0\07-repeat-string.pdb

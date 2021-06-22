@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\exercises-nested-conditional-statements\04-nov-dom\bin\Debug\netcoreapp2.0\04-nov-dom.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\exercises-nested-conditional-statements\04-nov-dom\bin\Debug\netcoreapp2.0\04-nov-dom.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\exercises-nested-conditional-statements\04-nov-dom\bin\Debug\netcoreapp2.0\04-nov-dom.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\exercises-nested-conditional-statements\04-nov-dom\bin\Debug\netcoreapp2.0\04-nov-dom.dll
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\exercises-nested-conditional-statements\04-nov-dom\bin\Debug\netcoreapp2.0\04-nov-dom.pdb
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\exercises-nested-conditional-statements\04-nov-dom\obj\Debug\netcoreapp2.0\04-nov-dom.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\exercises-nested-conditional-statements\04-nov-dom\obj\Debug\netcoreapp2.0\04-nov-dom.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\exercises-nested-conditional-statements\04-nov-dom\obj\Debug\netcoreapp2.0\04-nov-dom.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\exercises-nested-conditional-statements\04-nov-dom\obj\Debug\netcoreapp2.0\04-nov-dom.dll
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\exercises-nested-conditional-statements\04-nov-dom\obj\Debug\netcoreapp2.0\04-nov-dom.pdb

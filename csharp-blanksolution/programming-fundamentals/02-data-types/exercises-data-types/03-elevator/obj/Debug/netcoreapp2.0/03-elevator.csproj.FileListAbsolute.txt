@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\03-elevator\bin\Debug\netcoreapp2.0\03-elevator.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\03-elevator\bin\Debug\netcoreapp2.0\03-elevator.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\03-elevator\bin\Debug\netcoreapp2.0\03-elevator.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\03-elevator\bin\Debug\netcoreapp2.0\03-elevator.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\03-elevator\bin\Debug\netcoreapp2.0\03-elevator.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\03-elevator\obj\Debug\netcoreapp2.0\03-elevator.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\03-elevator\obj\Debug\netcoreapp2.0\03-elevator.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\03-elevator\obj\Debug\netcoreapp2.0\03-elevator.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\03-elevator\obj\Debug\netcoreapp2.0\03-elevator.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\03-elevator\obj\Debug\netcoreapp2.0\03-elevator.pdb

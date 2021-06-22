@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\08-divisible-by-three\bin\Debug\netcoreapp2.0\08-divisible-by-three.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\08-divisible-by-three\bin\Debug\netcoreapp2.0\08-divisible-by-three.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\08-divisible-by-three\bin\Debug\netcoreapp2.0\08-divisible-by-three.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\08-divisible-by-three\bin\Debug\netcoreapp2.0\08-divisible-by-three.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\08-divisible-by-three\bin\Debug\netcoreapp2.0\08-divisible-by-three.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\08-divisible-by-three\obj\Debug\netcoreapp2.0\08-divisible-by-three.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\08-divisible-by-three\obj\Debug\netcoreapp2.0\08-divisible-by-three.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\08-divisible-by-three\obj\Debug\netcoreapp2.0\08-divisible-by-three.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\08-divisible-by-three\obj\Debug\netcoreapp2.0\08-divisible-by-three.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\08-divisible-by-three\obj\Debug\netcoreapp2.0\08-divisible-by-three.pdb

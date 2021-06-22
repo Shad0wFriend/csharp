@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\03-pytuvane\bin\Debug\netcoreapp2.0\03-pytuvane.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\03-pytuvane\bin\Debug\netcoreapp2.0\03-pytuvane.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\03-pytuvane\bin\Debug\netcoreapp2.0\03-pytuvane.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\03-pytuvane\bin\Debug\netcoreapp2.0\03-pytuvane.dll
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\03-pytuvane\bin\Debug\netcoreapp2.0\03-pytuvane.pdb
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\03-pytuvane\obj\Debug\netcoreapp2.0\03-pytuvane.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\03-pytuvane\obj\Debug\netcoreapp2.0\03-pytuvane.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\03-pytuvane\obj\Debug\netcoreapp2.0\03-pytuvane.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\03-pytuvane\obj\Debug\netcoreapp2.0\03-pytuvane.dll
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\03-pytuvane\obj\Debug\netcoreapp2.0\03-pytuvane.pdb

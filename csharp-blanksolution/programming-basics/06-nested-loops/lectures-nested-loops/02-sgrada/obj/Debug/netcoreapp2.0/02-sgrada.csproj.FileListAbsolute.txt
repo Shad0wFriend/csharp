@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\02-sgrada\bin\Debug\netcoreapp2.0\02-sgrada.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\02-sgrada\bin\Debug\netcoreapp2.0\02-sgrada.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\02-sgrada\bin\Debug\netcoreapp2.0\02-sgrada.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\02-sgrada\bin\Debug\netcoreapp2.0\02-sgrada.dll
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\02-sgrada\bin\Debug\netcoreapp2.0\02-sgrada.pdb
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\02-sgrada\obj\Debug\netcoreapp2.0\02-sgrada.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\02-sgrada\obj\Debug\netcoreapp2.0\02-sgrada.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\02-sgrada\obj\Debug\netcoreapp2.0\02-sgrada.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\02-sgrada\obj\Debug\netcoreapp2.0\02-sgrada.dll
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\lectures-nested-loops\02-sgrada\obj\Debug\netcoreapp2.0\02-sgrada.pdb

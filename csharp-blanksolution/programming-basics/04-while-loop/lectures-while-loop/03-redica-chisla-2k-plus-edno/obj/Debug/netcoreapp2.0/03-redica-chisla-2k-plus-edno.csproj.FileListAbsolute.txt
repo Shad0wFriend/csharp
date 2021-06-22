@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\lectures-while-loop\03-redica-chisla-2k-plus-edno\bin\Debug\netcoreapp2.0\03-redica-chisla-2k-plus-edno.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\lectures-while-loop\03-redica-chisla-2k-plus-edno\bin\Debug\netcoreapp2.0\03-redica-chisla-2k-plus-edno.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\lectures-while-loop\03-redica-chisla-2k-plus-edno\bin\Debug\netcoreapp2.0\03-redica-chisla-2k-plus-edno.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\lectures-while-loop\03-redica-chisla-2k-plus-edno\bin\Debug\netcoreapp2.0\03-redica-chisla-2k-plus-edno.dll
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\lectures-while-loop\03-redica-chisla-2k-plus-edno\bin\Debug\netcoreapp2.0\03-redica-chisla-2k-plus-edno.pdb
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\lectures-while-loop\03-redica-chisla-2k-plus-edno\obj\Debug\netcoreapp2.0\03-redica-chisla-2k-plus-edno.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\lectures-while-loop\03-redica-chisla-2k-plus-edno\obj\Debug\netcoreapp2.0\03-redica-chisla-2k-plus-edno.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\lectures-while-loop\03-redica-chisla-2k-plus-edno\obj\Debug\netcoreapp2.0\03-redica-chisla-2k-plus-edno.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\lectures-while-loop\03-redica-chisla-2k-plus-edno\obj\Debug\netcoreapp2.0\03-redica-chisla-2k-plus-edno.dll
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\lectures-while-loop\03-redica-chisla-2k-plus-edno\obj\Debug\netcoreapp2.0\03-redica-chisla-2k-plus-edno.pdb

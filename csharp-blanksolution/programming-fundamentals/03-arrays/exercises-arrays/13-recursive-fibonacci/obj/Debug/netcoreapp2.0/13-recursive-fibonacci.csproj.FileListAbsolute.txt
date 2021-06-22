@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\13-recursive-fibonacci\bin\Debug\netcoreapp2.0\13-recursive-fibonacci.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\13-recursive-fibonacci\bin\Debug\netcoreapp2.0\13-recursive-fibonacci.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\13-recursive-fibonacci\bin\Debug\netcoreapp2.0\13-recursive-fibonacci.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\13-recursive-fibonacci\bin\Debug\netcoreapp2.0\13-recursive-fibonacci.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\13-recursive-fibonacci\bin\Debug\netcoreapp2.0\13-recursive-fibonacci.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\13-recursive-fibonacci\obj\Debug\netcoreapp2.0\13-recursive-fibonacci.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\13-recursive-fibonacci\obj\Debug\netcoreapp2.0\13-recursive-fibonacci.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\13-recursive-fibonacci\obj\Debug\netcoreapp2.0\13-recursive-fibonacci.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\13-recursive-fibonacci\obj\Debug\netcoreapp2.0\13-recursive-fibonacci.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\13-recursive-fibonacci\obj\Debug\netcoreapp2.0\13-recursive-fibonacci.pdb

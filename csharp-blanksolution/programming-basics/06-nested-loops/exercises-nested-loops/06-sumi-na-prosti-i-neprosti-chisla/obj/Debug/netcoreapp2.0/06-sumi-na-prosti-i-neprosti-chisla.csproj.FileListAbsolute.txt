@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\06-sumi-na-prosti-i-neprosti-chisla\bin\Debug\netcoreapp2.0\06-sumi-na-prosti-i-neprosti-chisla.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\06-sumi-na-prosti-i-neprosti-chisla\bin\Debug\netcoreapp2.0\06-sumi-na-prosti-i-neprosti-chisla.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\06-sumi-na-prosti-i-neprosti-chisla\bin\Debug\netcoreapp2.0\06-sumi-na-prosti-i-neprosti-chisla.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\06-sumi-na-prosti-i-neprosti-chisla\bin\Debug\netcoreapp2.0\06-sumi-na-prosti-i-neprosti-chisla.dll
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\06-sumi-na-prosti-i-neprosti-chisla\bin\Debug\netcoreapp2.0\06-sumi-na-prosti-i-neprosti-chisla.pdb
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\06-sumi-na-prosti-i-neprosti-chisla\obj\Debug\netcoreapp2.0\06-sumi-na-prosti-i-neprosti-chisla.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\06-sumi-na-prosti-i-neprosti-chisla\obj\Debug\netcoreapp2.0\06-sumi-na-prosti-i-neprosti-chisla.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\06-sumi-na-prosti-i-neprosti-chisla\obj\Debug\netcoreapp2.0\06-sumi-na-prosti-i-neprosti-chisla.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\06-sumi-na-prosti-i-neprosti-chisla\obj\Debug\netcoreapp2.0\06-sumi-na-prosti-i-neprosti-chisla.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\06-sumi-na-prosti-i-neprosti-chisla\obj\Debug\netcoreapp2.0\06-sumi-na-prosti-i-neprosti-chisla.dll
+E:\csharp\csharp-blanksolution\programming-basics\06-nested-loops\exercises-nested-loops\06-sumi-na-prosti-i-neprosti-chisla\obj\Debug\netcoreapp2.0\06-sumi-na-prosti-i-neprosti-chisla.pdb

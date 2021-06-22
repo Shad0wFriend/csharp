@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\14-reverse-string\bin\Debug\netcoreapp2.0\14-reverse-string.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\14-reverse-string\bin\Debug\netcoreapp2.0\14-reverse-string.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\14-reverse-string\bin\Debug\netcoreapp2.0\14-reverse-string.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\14-reverse-string\bin\Debug\netcoreapp2.0\14-reverse-string.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\14-reverse-string\bin\Debug\netcoreapp2.0\14-reverse-string.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\14-reverse-string\obj\Debug\netcoreapp2.0\14-reverse-string.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\14-reverse-string\obj\Debug\netcoreapp2.0\14-reverse-string.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\14-reverse-string\obj\Debug\netcoreapp2.0\14-reverse-string.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\14-reverse-string\obj\Debug\netcoreapp2.0\14-reverse-string.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\exercises-basic-syntax\14-reverse-string\obj\Debug\netcoreapp2.0\14-reverse-string.pdb

@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\exercises-while-loop\04-stypki\bin\Debug\netcoreapp2.0\04-stypki.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\exercises-while-loop\04-stypki\bin\Debug\netcoreapp2.0\04-stypki.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\exercises-while-loop\04-stypki\bin\Debug\netcoreapp2.0\04-stypki.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\exercises-while-loop\04-stypki\bin\Debug\netcoreapp2.0\04-stypki.dll
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\exercises-while-loop\04-stypki\bin\Debug\netcoreapp2.0\04-stypki.pdb
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\exercises-while-loop\04-stypki\obj\Debug\netcoreapp2.0\04-stypki.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\exercises-while-loop\04-stypki\obj\Debug\netcoreapp2.0\04-stypki.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\exercises-while-loop\04-stypki\obj\Debug\netcoreapp2.0\04-stypki.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\exercises-while-loop\04-stypki\obj\Debug\netcoreapp2.0\04-stypki.dll
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\exercises-while-loop\04-stypki\obj\Debug\netcoreapp2.0\04-stypki.pdb

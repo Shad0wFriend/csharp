@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\05-month-printer\bin\Debug\netcoreapp2.0\05-month-printer.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\05-month-printer\bin\Debug\netcoreapp2.0\05-month-printer.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\05-month-printer\bin\Debug\netcoreapp2.0\05-month-printer.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\05-month-printer\bin\Debug\netcoreapp2.0\05-month-printer.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\05-month-printer\bin\Debug\netcoreapp2.0\05-month-printer.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\05-month-printer\obj\Debug\netcoreapp2.0\05-month-printer.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\05-month-printer\obj\Debug\netcoreapp2.0\05-month-printer.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\05-month-printer\obj\Debug\netcoreapp2.0\05-month-printer.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\05-month-printer\obj\Debug\netcoreapp2.0\05-month-printer.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\05-month-printer\obj\Debug\netcoreapp2.0\05-month-printer.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\01-basyc-syntax\lectures-basic-syntax\05-month-printer\obj\Debug\netcoreapp2.0\05-month-printer.pdb

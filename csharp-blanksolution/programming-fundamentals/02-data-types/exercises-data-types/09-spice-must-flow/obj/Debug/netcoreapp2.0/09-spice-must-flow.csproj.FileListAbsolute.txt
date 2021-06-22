@@ -9,3 +9,13 @@ D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-
 D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\09-spice-must-flow\obj\Debug\netcoreapp2.0\09-spice-must-flow.AssemblyInfo.cs
 D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\09-spice-must-flow\obj\Debug\netcoreapp2.0\09-spice-must-flow.dll
 D:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\09-spice-must-flow\obj\Debug\netcoreapp2.0\09-spice-must-flow.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\09-spice-must-flow\bin\Debug\netcoreapp2.0\09-spice-must-flow.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\09-spice-must-flow\bin\Debug\netcoreapp2.0\09-spice-must-flow.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\09-spice-must-flow\bin\Debug\netcoreapp2.0\09-spice-must-flow.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\09-spice-must-flow\bin\Debug\netcoreapp2.0\09-spice-must-flow.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\09-spice-must-flow\bin\Debug\netcoreapp2.0\09-spice-must-flow.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\09-spice-must-flow\obj\Debug\netcoreapp2.0\09-spice-must-flow.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\09-spice-must-flow\obj\Debug\netcoreapp2.0\09-spice-must-flow.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\09-spice-must-flow\obj\Debug\netcoreapp2.0\09-spice-must-flow.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\09-spice-must-flow\obj\Debug\netcoreapp2.0\09-spice-must-flow.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\09-spice-must-flow\obj\Debug\netcoreapp2.0\09-spice-must-flow.pdb

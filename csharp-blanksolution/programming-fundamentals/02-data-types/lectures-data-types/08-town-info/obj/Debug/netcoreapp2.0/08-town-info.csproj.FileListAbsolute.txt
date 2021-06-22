@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\08-town-info\bin\Debug\netcoreapp2.0\08-town-info.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\08-town-info\bin\Debug\netcoreapp2.0\08-town-info.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\08-town-info\bin\Debug\netcoreapp2.0\08-town-info.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\08-town-info\bin\Debug\netcoreapp2.0\08-town-info.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\08-town-info\bin\Debug\netcoreapp2.0\08-town-info.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\08-town-info\obj\Debug\netcoreapp2.0\08-town-info.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\08-town-info\obj\Debug\netcoreapp2.0\08-town-info.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\08-town-info\obj\Debug\netcoreapp2.0\08-town-info.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\08-town-info\obj\Debug\netcoreapp2.0\08-town-info.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\08-town-info\obj\Debug\netcoreapp2.0\08-town-info.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\08-town-info\obj\Debug\netcoreapp2.0\08-town-info.pdb

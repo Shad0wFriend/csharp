@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\exercises-while-loop\03-pochivka\bin\Debug\netcoreapp2.0\03-pochivka.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\exercises-while-loop\03-pochivka\bin\Debug\netcoreapp2.0\03-pochivka.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\exercises-while-loop\03-pochivka\bin\Debug\netcoreapp2.0\03-pochivka.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\exercises-while-loop\03-pochivka\bin\Debug\netcoreapp2.0\03-pochivka.dll
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\exercises-while-loop\03-pochivka\bin\Debug\netcoreapp2.0\03-pochivka.pdb
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\exercises-while-loop\03-pochivka\obj\Debug\netcoreapp2.0\03-pochivka.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\exercises-while-loop\03-pochivka\obj\Debug\netcoreapp2.0\03-pochivka.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\exercises-while-loop\03-pochivka\obj\Debug\netcoreapp2.0\03-pochivka.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\exercises-while-loop\03-pochivka\obj\Debug\netcoreapp2.0\03-pochivka.dll
+E:\csharp\csharp-blanksolution\programming-basics\04-while-loop\exercises-while-loop\03-pochivka\obj\Debug\netcoreapp2.0\03-pochivka.pdb

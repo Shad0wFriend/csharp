@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\06-equal-sums\bin\Debug\netcoreapp2.0\06-equal-sums.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\06-equal-sums\bin\Debug\netcoreapp2.0\06-equal-sums.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\06-equal-sums\bin\Debug\netcoreapp2.0\06-equal-sums.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\06-equal-sums\bin\Debug\netcoreapp2.0\06-equal-sums.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\06-equal-sums\bin\Debug\netcoreapp2.0\06-equal-sums.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\06-equal-sums\obj\Debug\netcoreapp2.0\06-equal-sums.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\06-equal-sums\obj\Debug\netcoreapp2.0\06-equal-sums.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\06-equal-sums\obj\Debug\netcoreapp2.0\06-equal-sums.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\06-equal-sums\obj\Debug\netcoreapp2.0\06-equal-sums.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\06-equal-sums\obj\Debug\netcoreapp2.0\06-equal-sums.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\03-arrays\exercises-arrays\06-equal-sums\obj\Debug\netcoreapp2.0\06-equal-sums.pdb

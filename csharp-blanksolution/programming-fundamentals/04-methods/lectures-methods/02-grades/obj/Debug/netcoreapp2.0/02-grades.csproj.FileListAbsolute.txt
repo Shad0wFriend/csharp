@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\02-grades\bin\Debug\netcoreapp2.0\02-grades.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\02-grades\bin\Debug\netcoreapp2.0\02-grades.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\02-grades\bin\Debug\netcoreapp2.0\02-grades.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\02-grades\bin\Debug\netcoreapp2.0\02-grades.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\02-grades\bin\Debug\netcoreapp2.0\02-grades.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\02-grades\obj\Debug\netcoreapp2.0\02-grades.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\02-grades\obj\Debug\netcoreapp2.0\02-grades.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\02-grades\obj\Debug\netcoreapp2.0\02-grades.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\02-grades\obj\Debug\netcoreapp2.0\02-grades.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\04-methods\lectures-methods\02-grades\obj\Debug\netcoreapp2.0\02-grades.pdb

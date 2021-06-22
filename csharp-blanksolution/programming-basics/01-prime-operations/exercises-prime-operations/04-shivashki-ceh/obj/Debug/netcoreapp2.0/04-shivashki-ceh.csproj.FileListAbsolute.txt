@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\04-shivashki-ceh\bin\Debug\netcoreapp2.0\04-shivashki-ceh.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\04-shivashki-ceh\bin\Debug\netcoreapp2.0\04-shivashki-ceh.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\04-shivashki-ceh\bin\Debug\netcoreapp2.0\04-shivashki-ceh.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\04-shivashki-ceh\bin\Debug\netcoreapp2.0\04-shivashki-ceh.dll
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\04-shivashki-ceh\bin\Debug\netcoreapp2.0\04-shivashki-ceh.pdb
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\04-shivashki-ceh\obj\Debug\netcoreapp2.0\04-shivashki-ceh.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\04-shivashki-ceh\obj\Debug\netcoreapp2.0\04-shivashki-ceh.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\04-shivashki-ceh\obj\Debug\netcoreapp2.0\04-shivashki-ceh.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\04-shivashki-ceh\obj\Debug\netcoreapp2.0\04-shivashki-ceh.dll
+E:\csharp\csharp-blanksolution\programming-basics\01-prime-operations\exercises-prime-operations\04-shivashki-ceh\obj\Debug\netcoreapp2.0\04-shivashki-ceh.pdb

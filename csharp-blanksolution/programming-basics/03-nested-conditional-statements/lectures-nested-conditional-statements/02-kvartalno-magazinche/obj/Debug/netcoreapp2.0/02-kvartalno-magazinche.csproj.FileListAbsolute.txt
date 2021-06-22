@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\02-kvartalno-magazinche\bin\Debug\netcoreapp2.0\02-kvartalno-magazinche.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\02-kvartalno-magazinche\bin\Debug\netcoreapp2.0\02-kvartalno-magazinche.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\02-kvartalno-magazinche\bin\Debug\netcoreapp2.0\02-kvartalno-magazinche.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\02-kvartalno-magazinche\bin\Debug\netcoreapp2.0\02-kvartalno-magazinche.dll
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\02-kvartalno-magazinche\bin\Debug\netcoreapp2.0\02-kvartalno-magazinche.pdb
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\02-kvartalno-magazinche\obj\Debug\netcoreapp2.0\02-kvartalno-magazinche.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\02-kvartalno-magazinche\obj\Debug\netcoreapp2.0\02-kvartalno-magazinche.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\02-kvartalno-magazinche\obj\Debug\netcoreapp2.0\02-kvartalno-magazinche.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\02-kvartalno-magazinche\obj\Debug\netcoreapp2.0\02-kvartalno-magazinche.dll
+E:\csharp\csharp-blanksolution\programming-basics\03-nested-conditional-statements\lectures-nested-conditional-statements\02-kvartalno-magazinche\obj\Debug\netcoreapp2.0\02-kvartalno-magazinche.pdb

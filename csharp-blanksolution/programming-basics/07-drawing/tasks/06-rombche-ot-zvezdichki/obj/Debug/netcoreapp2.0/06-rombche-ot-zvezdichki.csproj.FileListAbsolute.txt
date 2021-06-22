@@ -1,0 +1,11 @@
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\06-rombche-ot-zvezdichki\bin\Debug\netcoreapp2.0\06-rombche-ot-zvezdichki.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\06-rombche-ot-zvezdichki\bin\Debug\netcoreapp2.0\06-rombche-ot-zvezdichki.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\06-rombche-ot-zvezdichki\bin\Debug\netcoreapp2.0\06-rombche-ot-zvezdichki.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\06-rombche-ot-zvezdichki\bin\Debug\netcoreapp2.0\06-rombche-ot-zvezdichki.dll
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\06-rombche-ot-zvezdichki\bin\Debug\netcoreapp2.0\06-rombche-ot-zvezdichki.pdb
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\06-rombche-ot-zvezdichki\obj\Debug\netcoreapp2.0\06-rombche-ot-zvezdichki.csprojAssemblyReference.cache
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\06-rombche-ot-zvezdichki\obj\Debug\netcoreapp2.0\06-rombche-ot-zvezdichki.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\06-rombche-ot-zvezdichki\obj\Debug\netcoreapp2.0\06-rombche-ot-zvezdichki.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\06-rombche-ot-zvezdichki\obj\Debug\netcoreapp2.0\06-rombche-ot-zvezdichki.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\06-rombche-ot-zvezdichki\obj\Debug\netcoreapp2.0\06-rombche-ot-zvezdichki.dll
+E:\csharp\csharp-blanksolution\programming-basics\07-drawing\tasks\06-rombche-ot-zvezdichki\obj\Debug\netcoreapp2.0\06-rombche-ot-zvezdichki.pdb

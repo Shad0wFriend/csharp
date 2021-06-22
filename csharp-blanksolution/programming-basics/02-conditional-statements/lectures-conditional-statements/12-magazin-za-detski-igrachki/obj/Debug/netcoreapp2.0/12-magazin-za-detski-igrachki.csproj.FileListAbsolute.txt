@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\12-magazin-za-detski-igrachki\bin\Debug\netcoreapp2.0\12-magazin-za-detski-igrachki.deps.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\12-magazin-za-detski-igrachki\bin\Debug\netcoreapp2.0\12-magazin-za-detski-igrachki.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\12-magazin-za-detski-igrachki\bin\Debug\netcoreapp2.0\12-magazin-za-detski-igrachki.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\12-magazin-za-detski-igrachki\bin\Debug\netcoreapp2.0\12-magazin-za-detski-igrachki.dll
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\12-magazin-za-detski-igrachki\bin\Debug\netcoreapp2.0\12-magazin-za-detski-igrachki.pdb
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\12-magazin-za-detski-igrachki\obj\Debug\netcoreapp2.0\12-magazin-za-detski-igrachki.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\12-magazin-za-detski-igrachki\obj\Debug\netcoreapp2.0\12-magazin-za-detski-igrachki.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\12-magazin-za-detski-igrachki\obj\Debug\netcoreapp2.0\12-magazin-za-detski-igrachki.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\12-magazin-za-detski-igrachki\obj\Debug\netcoreapp2.0\12-magazin-za-detski-igrachki.dll
+E:\csharp\csharp-blanksolution\programming-basics\02-conditional-statements\lectures-conditional-statements\12-magazin-za-detski-igrachki\obj\Debug\netcoreapp2.0\12-magazin-za-detski-igrachki.pdb

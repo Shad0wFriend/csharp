@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\04-centuries-to-minutes\bin\Debug\netcoreapp2.0\04-centuries-to-minutes.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\04-centuries-to-minutes\bin\Debug\netcoreapp2.0\04-centuries-to-minutes.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\04-centuries-to-minutes\bin\Debug\netcoreapp2.0\04-centuries-to-minutes.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\04-centuries-to-minutes\bin\Debug\netcoreapp2.0\04-centuries-to-minutes.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\04-centuries-to-minutes\bin\Debug\netcoreapp2.0\04-centuries-to-minutes.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\04-centuries-to-minutes\obj\Debug\netcoreapp2.0\04-centuries-to-minutes.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\04-centuries-to-minutes\obj\Debug\netcoreapp2.0\04-centuries-to-minutes.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\04-centuries-to-minutes\obj\Debug\netcoreapp2.0\04-centuries-to-minutes.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\04-centuries-to-minutes\obj\Debug\netcoreapp2.0\04-centuries-to-minutes.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\lectures-data-types\04-centuries-to-minutes\obj\Debug\netcoreapp2.0\04-centuries-to-minutes.pdb

@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\06-triples-of-latin-letters\bin\Debug\netcoreapp2.0\06-triples-of-latin-letters.deps.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\06-triples-of-latin-letters\bin\Debug\netcoreapp2.0\06-triples-of-latin-letters.runtimeconfig.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\06-triples-of-latin-letters\bin\Debug\netcoreapp2.0\06-triples-of-latin-letters.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\06-triples-of-latin-letters\bin\Debug\netcoreapp2.0\06-triples-of-latin-letters.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\06-triples-of-latin-letters\bin\Debug\netcoreapp2.0\06-triples-of-latin-letters.pdb
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\06-triples-of-latin-letters\obj\Debug\netcoreapp2.0\06-triples-of-latin-letters.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\06-triples-of-latin-letters\obj\Debug\netcoreapp2.0\06-triples-of-latin-letters.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\06-triples-of-latin-letters\obj\Debug\netcoreapp2.0\06-triples-of-latin-letters.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\06-triples-of-latin-letters\obj\Debug\netcoreapp2.0\06-triples-of-latin-letters.dll
+E:\csharp\csharp-blanksolution\programming-fundamentals\02-data-types\exercises-data-types\06-triples-of-latin-letters\obj\Debug\netcoreapp2.0\06-triples-of-latin-letters.pdb
