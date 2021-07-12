@@ -1,0 +1,10 @@
+E:\csharp\csharp-blanksolution\edabit\01-very-easy\01-return-the-sum-of-two-numbers\bin\Debug\netcoreapp2.1\01-return-the-sum-of-two-numbers.deps.json
+E:\csharp\csharp-blanksolution\edabit\01-very-easy\01-return-the-sum-of-two-numbers\bin\Debug\netcoreapp2.1\01-return-the-sum-of-two-numbers.runtimeconfig.json
+E:\csharp\csharp-blanksolution\edabit\01-very-easy\01-return-the-sum-of-two-numbers\bin\Debug\netcoreapp2.1\01-return-the-sum-of-two-numbers.runtimeconfig.dev.json
+E:\csharp\csharp-blanksolution\edabit\01-very-easy\01-return-the-sum-of-two-numbers\bin\Debug\netcoreapp2.1\01-return-the-sum-of-two-numbers.dll
+E:\csharp\csharp-blanksolution\edabit\01-very-easy\01-return-the-sum-of-two-numbers\bin\Debug\netcoreapp2.1\01-return-the-sum-of-two-numbers.pdb
+E:\csharp\csharp-blanksolution\edabit\01-very-easy\01-return-the-sum-of-two-numbers\obj\Debug\netcoreapp2.1\01-return-the-sum-of-two-numbers.csproj.CoreCompileInputs.cache
+E:\csharp\csharp-blanksolution\edabit\01-very-easy\01-return-the-sum-of-two-numbers\obj\Debug\netcoreapp2.1\01-return-the-sum-of-two-numbers.AssemblyInfoInputs.cache
+E:\csharp\csharp-blanksolution\edabit\01-very-easy\01-return-the-sum-of-two-numbers\obj\Debug\netcoreapp2.1\01-return-the-sum-of-two-numbers.AssemblyInfo.cs
+E:\csharp\csharp-blanksolution\edabit\01-very-easy\01-return-the-sum-of-two-numbers\obj\Debug\netcoreapp2.1\01-return-the-sum-of-two-numbers.dll
+E:\csharp\csharp-blanksolution\edabit\01-very-easy\01-return-the-sum-of-two-numbers\obj\Debug\netcoreapp2.1\01-return-the-sum-of-two-numbers.pdb
